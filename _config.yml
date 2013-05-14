@@ -18,7 +18,7 @@ date_format: "ordinal"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
 subscribe_rss: /atom.xml
-subscribe_email:
+subscribe_email: contato@toalhatech.com
 # RSS feeds can list your email address if you like
 email:
 
@@ -64,7 +64,7 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.
 # ----------------------- #
 
 # Github repositories
-github_user:
+github_user: toalhatech
 github_repo_count: 0
 github_show_profile_link: true
 github_skip_forks: true
@@ -91,11 +91,11 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
+disqus_short_name: toalhatech
 disqus_show_comment_count: false
 
 # Google Analytics
-google_analytics_tracking_id:
+google_analytics_tracking_id: UA-40886042-1
 
 # Facebook Like
 facebook_like: false
