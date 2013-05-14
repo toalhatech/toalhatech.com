@@ -11,7 +11,7 @@ Nós de TI frequentamos eventos, reuniões e afins para encontrar com outras pes
 
 Sabendo do quanto é relevante e benéfico este tipo de convivência, nós nos esforçamos para ir ao máximo possível de eventos e nos conhecemos por intermédio de um evento, por sinal. Em conversas posteriores, a Anna Cruz incentivou que a Samanta Cicília e eu escrevessemos sobre o que vemos nos eventos que fomos, mas a própria Anna também vai a muitos eventos então concordamos que a Anna seria ótima para o grupo. 
 <!-- more -->
-Com isso, a [Anna Cruz](https://twitter.com/yuizinha) , a [Samanta Cicília](https://twitter.com/samantacicilia) e eu [(Jac Abreu Lopes)](https://twitter.com/JacAbreu), criamos o ToalhaTech - um blog para falarmos sobre o que vimos de interessante nos eventos, para anunciar eventos e para falar de outros temas que consideramos interessantes relacionados a tecnologia. 
+Com isso, a [Anna Cruz](https://twitter.com/yuizinha) , a [Samy Souza](https://twitter.com/samantacicilia) e eu [(Jac Abreu Lopes)](https://twitter.com/JacAbreu), criamos o ToalhaTech - um blog para falarmos sobre o que vimos de interessante nos eventos, para anunciar eventos e para falar de outros temas que consideramos interessantes relacionados a tecnologia. 
 
 O nome “ToalhaTech” surgiu porque todas nós gostamos do Mochileiro das Galáxias e tão importante quanto sempre ter a sua toalha é ler o ToalhaTech :).
 
