@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rio Agile Talks de Maio-2013"
+title: "Rio Agile Talks de Maio/2013"
 date: 2013-05-14 19:30
 comments: true
 categories: [Rio Agile, Encontro, Talks, Rio de Janeiro]
@@ -19,7 +19,7 @@ Essa semana, dia 18/05, acontece mais um Talks e eu vou falar sobre Testes (minh
 
 As inscrições ainda estão abertas: [Incrições Talks de Maio](http://rioagiletalks-eorg.eventbrite.com/#)
 
-Espero vocês lá e bem vindos ao [toalhatec.com!](http://toalhatech.com)
+Espero vocês lá e bem vindos ao [toalhatech.com!](http://toalhatech.com)
 
 Até a próxima!
 =)
