@@ -10,7 +10,7 @@ author: Jac Abreu Lopes
 Olá pessoal. Tudo bem com vocês?
 
 A comunidade de .NET do Rio de Janeiro tem um encontro mensal, o DNA Rio - [#DNARio](https://twitter.com/search?q=%23DNARio&src=hash). Neste encontro, sem formato definido além da rodada de apresentações entre os presentes, é falado sobre várias tecnologias, não se prendendo às da platafoma .NET. Isso faz com que o leque de temas seja bastante aberto e um encontro bastante legal para quem programa nas linguagens da Microsoft ou não. Pelo tempo que frequento as reuniões do #DNARio, acredito que o principal objetivo do encontro seja possibilitar pessoas se encontrarem para falar sobre tecnologia - pessoas falarem é o mais importante.
-
+<!-- more -->
 O encontro do DNA Rio de abril foi realizado no dia 6, na [Caelum/RJ](http://www.caelum.com.br/) - eles tem as melhores recepcionistas do mundo. Obrigada Caelum por nos receber tão bem. Durante a apresentação deste encontro, os participantes falaram além do nome, o que está trabalhando e o que está estudando atualmente.
 
 Falar sobre “estou estudando...” pode ser bastante incomodo, pois e se você não estiver nada além da pesquisa rápida para resolver o bug no código do sprint da empresa? Estudar para o trabalho é estudar? Esse desconforto nos faz pensar sobre o que estamos fazendo e as nossas motivações. Essa pergunta foi o ponto de partida para um debate bastante interessante sobre aprendizado.
