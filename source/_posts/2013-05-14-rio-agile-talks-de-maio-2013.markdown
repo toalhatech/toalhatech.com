@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rio Agile Talks de Maio/2013"
+title: "Rio Agile Talks - Maio/2013"
 date: 2013-05-14 19:30
 comments: true
 categories: [Rio Agile, Encontro, Talks, Rio de Janeiro]
