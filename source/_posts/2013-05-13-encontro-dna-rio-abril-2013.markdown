@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Encontro DNA Rio Abril/2013"
+title: "Encontro DNA Rio de Abril/2013"
 date: 2013-05-12 09:01
 comments: true
 categories: [Relato, Encontro, Rio de Janeiro, .NET]

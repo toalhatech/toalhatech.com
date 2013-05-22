@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Objetivo ToalhaTech"
+title: "Objetivo do ToalhaTech"
 date: 2013-05-12 00:36
 comments: true
 categories: [Sobre o ToalhaTech]
