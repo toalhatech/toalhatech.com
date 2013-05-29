@@ -9,8 +9,8 @@ author: Samy Souza
 
 O Rio Agile Talks, segundo os idealizadores:
 
-"é uma comunidade carioca focada em métodos ágeis e lean para desenvolvimento de software criada em Janeiro de 2011. A principal motivação para sua criação é a frase 'Procure a comunidade mais próxima de você', citada por Rachel Davies em seu livro Agile Coaching. Bem como paróquias são importantes na formação e renovação dos religiosos, a Rio Agile sempre buscará ter a mesma importância e o mesmo papel para os agilistas cariocas, pautada sobre os valores e princípios do Agile e do Lean." 
-<!-- more -->
+"é uma comunidade carioca focada em métodos ágeis e lean para desenvolvimento de software criada em Janeiro de 2011. A principal motivação para sua criação é a frase 'Procure a comunidade mais próxima de você', citada por Rachel Davies em seu livro Agile Coaching. Bem como paróquias são importantes na formação e renovação dos religiosos, a Rio Agile sempre buscará ter a mesma importância <!-- more --> e o mesmo papel para os agilistas cariocas, pautada sobre os valores e princípios do Agile e do Lean." 
+
 O evento acontece a cada 2 meses e reúne a comunidade carioca voltada pra desenvolvimento ágil com palestras e bate-papos sobre o assunto.
 
 No site oficial [Rio Agile](http://rioagile.com.br/) você encontra tudo sobre a comunidade e os eventos.

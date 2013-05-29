@@ -8,11 +8,12 @@ Author: Vivi Sousa
 
 ---
 
-A Unicarioca junto com a comunidade de alunos e ex alunos de Informática antecipou o Dia da Toalha, também conhecido por outros como o dia do Orgulho Nerd para o dia **23/05/2013**.
+A Unicarioca junto com a comunidade de alunos e ex alunos de Informática antecipou o Dia da Toalha, também conhecido por outros como o dia do Orgulho Nerd para o dia **23/05/2013**.  
 O Evento conta com uma oficina de Xadrez e também uma Oficina de Dojo.
 Será um evento aberto para todos os nerds que queiram comemorar conosco ;)
 <!-- more -->
 A programação:  
+
 18:30 às 20:30 - Oficina de Xadrez    
 Objetivo: Esta oficina tem o propósito de apontar os benefícios do 
 estudo e da prática do Xadrez, desenvolvimento não só do raciocínio lógico e abstrato como também no desenvolvimento das habilidades cognitivas e em todas operações do intelecto.   
