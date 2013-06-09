@@ -5,6 +5,8 @@ date: 2013-05-27 21:10
 comments: true
 categories: python, encontro, Rio de Janeiro
 author: Renata Carreira
+keywords: toalhatech, pythonrio, almoco pythonrio, Barra, Barra da Tijuca, Rio de Janeiro, almoco pythonrio barra, python, rio, python rio
+description: Almoco do pythonrio na barra
 ---
 
 O almoço do [pythonrio também está rolando na Barra](http://dev.renatacarreira.com/blog/2013/05/23/almoco-pythonrio-at-barra-da-tijuca/). A idéia é fazer um "fork" do evento que já ocorre no Centro, p/ o pessoal que trabalha/mora/estuda nessa região e não tem como se deslocar p/ lá.

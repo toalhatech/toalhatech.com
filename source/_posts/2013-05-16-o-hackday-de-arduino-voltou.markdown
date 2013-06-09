@@ -5,6 +5,8 @@ date: 2013-05-16 18:32
 comments: true
 categories: Recadinhos, Encontros, Arduino, Rio de Janeiro
 author: Desireé Santos
+keywords: toalhatech, arduino, hackday, rio de janeiro.
+description: hakday de arduino no rio de janeiro retornou com atividades.
 ---
 Pessoal, texto da Desireé Santos, publicado pela Vivi Sousa :)
 

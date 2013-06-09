@@ -5,6 +5,8 @@ date: 2013-05-14 19:30
 comments: true
 categories: [Rio Agile, Encontro, Talks, Rio de Janeiro]
 author: Samy Souza
+keywords: toalhatech, agile, rio agile, rio agile talks, rio de janeiro.
+description: rio agile talks descricao e inscricoes
 ---
 
 O Rio Agile Talks, segundo os idealizadores:

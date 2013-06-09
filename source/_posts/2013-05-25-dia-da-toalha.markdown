@@ -5,6 +5,8 @@ date: 2013-05-25 12:56
 comments: true
 categories: nerdices
 Author: Samy Souza, Jac Abreu Lopes, Anna Cruz
+keywords: toalhatech, dia da toalha, origem da comemoracao dia da toalha, mochileiro das galaxias, Douglas Adams, DiaToalhaTech
+description: Origem do dia da toalha/orgulho nerd.
 
 ---
 

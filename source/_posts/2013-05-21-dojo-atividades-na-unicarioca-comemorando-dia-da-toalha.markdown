@@ -5,7 +5,8 @@ date: 2013-05-21 19:26
 comments: true
 categories: Encontros, Coding Dojo, Unicarioca, Rio de Janeiro
 Author: Vivi Sousa
-
+keywords: toalhatech, dojo, coding dojo, dojo unicarioca, rio de janeiro
+description: Unicarioca promove dojo de programacao-coding dojo e atividades com alunos para comemorar dia da toalha-orgulho nerd
 ---
 
 A Unicarioca junto com a comunidade de alunos e ex alunos de Informática antecipou o Dia da Toalha, também conhecido por outros como o dia do Orgulho Nerd para o dia **23/05/2013**.  

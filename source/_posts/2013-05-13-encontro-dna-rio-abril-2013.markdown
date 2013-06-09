@@ -5,6 +5,8 @@ date: 2013-05-12 09:01
 comments: true
 categories: [Relato, Encontro, Rio de Janeiro, .NET]
 author: Jac Abreu Lopes
+keywords: net, dotnet, dnad, dna rio, rio de janeiro, encontro .net rio de janeiro, arquitetura .net, toalhatech
+description: relato do encontro da comunidade de .NET do Rio de Janeiro - DotNetArchitects Rio de Janeiro
 ---
 
 Olá pessoal. Tudo bem com vocês?

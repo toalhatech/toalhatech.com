@@ -3,8 +3,10 @@ layout: post
 title: "Objetivo do ToalhaTech"
 date: 2013-05-12 00:36
 comments: true
-categories: [Sobre o ToalhaTech]
+categories: Sobre o ToalhaTech
 author: Jac Abreu Lopes
+keywords: toalhatech, sobre, objetivo, comunidade, TI, eventos, eventos de TI
+description: Post de abertura do blog toalhatech descrevendo objetivo do blog com comunidades de TI
 ---
 
 Nós de TI frequentamos eventos, reuniões e afins para encontrar com outras pessoas do nosso meio e trocarmos informações, conhecemos outras pessoas que tem boas referências e assim construímos parte do que somos como profissionais. Muitas vezes, fazemos até amizades fortes vivenciando estes momentos. 
