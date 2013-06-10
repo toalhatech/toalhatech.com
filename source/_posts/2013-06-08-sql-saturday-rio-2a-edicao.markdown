@@ -3,20 +3,21 @@ layout: post
 title: "SQL Saturday RIO - 2a edicao"
 date: 2013-06-08 19:12
 comments: true
-categories: Evento, SQL, SQLServer, RiodeJaneiro
+categories: Eventos, SQL, SQLServer, RiodeJaneiro
+keywords: TI, Eventos, SQL, SQLServer, Rio de Janeiro, toalhatech
 ---
 
 Recadinho da [Val Parajara](https://twitter.com/valparajara):
 
-A 2a edição do SQL Saturday RIO está se aproximando, será dia 31/08 e já temos 200 inscritos para o evento.
+A 2a edição do SQL Saturday RIO está se aproximando, será dia 31/08 e já temos 200 inscritos para o evento.  
 
-Inscreva-se já e garanta a sua vaga na edição RIO do maior evento **gratuito sobre SQL Server**, garanta já sua vaga.
+Inscreva-se já e garanta a sua vaga na edição RIO do maior evento **gratuito sobre SQL Server**, garanta já sua vaga.  
 
-Ainda estamos trabalhando na montagem <!-- more -->da agenda do evento, mas você já pode conferir as palestras que foram oferecidas para o evento em [http://www.sqlsaturday.com/245/schedule.aspx](http://www.sqlsaturday.com/245/schedule.aspx).
+Ainda estamos trabalhando na montagem <!-- more -->da agenda do evento, mas você já pode conferir as palestras que foram oferecidas para o evento em [http://www.sqlsaturday.com/245/schedule.aspx](http://www.sqlsaturday.com/245/schedule.aspx).  
 
-[O Call for Speakers estará aberto até o dia 18 de julho de 2013](http://www.sqlsaturday.com/245/callforspeakers.aspx)
+[O Call for Speakers estará aberto até o dia 18 de julho de 2013](http://www.sqlsaturday.com/245/callforspeakers.aspx)  
 
-Inscreva-se em : [http://www.sqlsaturday.com/245/register.aspx](http://www.sqlsaturday.com/245/register.aspx)
+Inscreva-se em : [http://www.sqlsaturday.com/245/register.aspx](http://www.sqlsaturday.com/245/register.aspx)  
 
 [O evento será na Universidade Veiga de Almeida (UVA)](https://maps.google.com.br/maps?q=Universidade+Veiga+de+Almeida+-+Rua+Ibituruna,+Rio+de+Janeiro&aq=f&um=1&ie=UTF-8&hl=pt-BR&sa=N&tab=wl&authuser=0)
 

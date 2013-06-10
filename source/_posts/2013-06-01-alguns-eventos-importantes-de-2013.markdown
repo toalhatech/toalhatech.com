@@ -5,7 +5,7 @@ date: 2013-06-01 11:48
 comments: true
 categories: eventos, Brasil, 2013
 author: Equipe ToalhaTech
-keywords: eventos, desenvolvimento, brasil, rio de janeiro, rj, sao paulo, sp, brasilia, ceara, ce, porto alegre, poa, agile brazil, agile brasil, frontinrio, justjava, frontinbh, frontinsp, dnad, qconsp, jsconfbr, fisl, brasiljs, braziljs, rubyconfbr, python brasil, ruby, arquitetura, javascript, front, software livre, bahia, ba, sergipe, aracaju, frontinaracaju, frontinbahia, frontinfortaleza
+keywords: eventos, desenvolvimento, brasil, rio de janeiro, rj, sao paulo, sp, brasilia, ceara, ce, porto alegre, poa, agile brazil, agile brasil, frontinrio, justjava, frontinbh, frontinsp, dnad, qconsp, jsconfbr, fisl, brasiljs, braziljs, rubyconfbr, python brasil, ruby, arquitetura, javascript, front, software livre, bahia, ba, sergipe, aracaju, frontinaracaju, frontinbahia, frontinfortaleza, minas gerais, mg, si, linux, BHack, web day, SQL Saturday, SQL Saturday RIO
 description: post com a agenda de vários eventos importantes das comunidades de desenvolvimento de software do Brasil de 2013.
 ---
 
@@ -41,6 +41,13 @@ Pensando nisso, fizemos uma lista de alguns eventos que são do nosso conhecimen
 *   Valor Inscrição: R$ 300,00 preço único divulgado na página de inscrições até o dia em que o post foi escrito
 *   Período de Inscrição: [11/04/2013 - prazo final não divulgado na página de inscrições até o dia em que o post foi escrito](http://2013.jsconfbr.org/#register)  
 
+#####Evento: [BHack Conference 2013](http://www.bhack.com.br/#SLACKSHOW)  
+*   Data do Evento: 22 e 23 de junho  
+*   Tecnologia/Tema: Segurança de Informação, Linux Slackware.
+*   Estado de realização do Evento: Minas Gerais 
+*   Valor Inscrição: [R$ 64,80 e R$ 108,00](http://toalhatech.com/blog/2013/06/08/bhack-conference-2013/)
+*   Período de Inscrição: [11/04/2013 - prazo final não divulgado na página de inscrições até o dia em que o post foi escrito](http://www.bhack.com.br/#works) 
+
 #####Evento: [Agile Brazil 2013](http://www.agilebrazil.com/2013/pt/)
 *   Data do Evento: 26 até 28 de junho  
 *   Tecnologia/Tema: Agile  
@@ -69,6 +76,13 @@ Pensando nisso, fizemos uma lista de alguns eventos que são do nosso conhecimen
 *   Tecnologia/Tema: Diversas  
 *   Estado de realização do Evento: Ceará    
 *   Valor Inscrição: não divulgado na página do evento até o dia em que o post foi escrito  
+*   Período de Inscrição: [prazo final não divulgado na página de inscrições até o dia em que o post foi escrito](http://jugoncalves.github.io/fif2013/)    
+
+#####Evento: [Web Day 2013](http://www.webday.com.br/)  
+*   Data do Evento: 20 de julho   
+*   Tecnologia/Tema: Diversas  
+*   Estado de realização do Evento: São Paulo 
+*   Valor Inscrição: [R$ 40,00](http://toalhatech.com/blog/2013/06/08/web-day-2013/)  
 *   Período de Inscrição: [prazo final não divulgado na página de inscrições até o dia em que o post foi escrito](http://jugoncalves.github.io/fif2013/)    
 
 #####Evento: [FrontinBahia 2013](http://www.frontinbahia.com.br/)  
@@ -129,6 +143,13 @@ Pensando nisso, fizemos uma lista de alguns eventos que são do nosso conhecimen
 *   Estado de realização do Evento: Sergipe    
 *   Valor Inscrição: não divulgado na página do evento até o dia em que o post foi escrito
 *   Período de Inscrição: [não divulgado na página do evento até o dia em que o post foi escrito](http://www.frontinaracaju.com.br/)  
+
+#####Evento: [SQL Saturday RIO 2013](http://www.sqlsaturday.com/245/eventhome.aspx)  
+*   Data do Evento: 31 de agosto   
+*   Tecnologia/Tema: SQL, SQL Server    
+*   Estado de realização do Evento: Rio de Janeiro
+*   Valor Inscrição: [Gratuito](http://toalhatech.com/blog/2013/06/08/sql-saturday-rio-2a-edicao/)
+*   Período de Inscrição: [não divulgado na página do evento até o dia em que o post foi escrito](http://www.sqlsaturday.com/245/eventhome.aspx)
  
 ###Setembro
 #####Evento: [FrontInSP](http://www.frontinsampa.com.br/)  

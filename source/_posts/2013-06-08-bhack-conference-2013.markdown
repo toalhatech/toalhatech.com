@@ -4,6 +4,7 @@ title: "BHack Conference 2013"
 date: 2013-06-08 19:52
 comments: true
 categories: Eventos, Segurança da Informação, Linux, Skackware, SI, MinasGerais
+keywords: TI, Eventos, Segurança da Informação, Linux, Skackware, SI, Minas Gerais, toalhatech
 ---
 
 A dica deste evento foi da [Vivi Sousa](https://twitter.com/vivocah). Ela mandou um email perguntando se o ToalhaTech só falaria sobre eventos no RJ. A resposta para esta pergunta é: Nós publicamos e queremos publicar eventos do Brasil inteiro :).
@@ -18,11 +19,12 @@ Essas informações são vistas logo no início do site [http://www.bhack.com.br
 
 Será um "evento de 3 eventos", o BHack, o OWASP Uai Day e o SlackShow. O Uai Day voltado para segurança de aplicações e o SlackShow é o evento anual sobre o linux skackware. 
 
-Para quem gostou, as inscrições ainda estão abertas. Existem 2 formas de se inscrever:
-*   Master, que dá direito aos 3 eventos (BHack + Owasp UaiDay + SlackShow), por R$ 108,00
-*   Comum, que dá direito somente aos eventos (Owasp UaiDay + SlackShow), por R$ 64,80.
+Para quem gostou, as inscrições ainda estão abertas. Existem 2 formas de se inscrever:    
+*   Master, que dá direito aos 3 eventos (BHack + Owasp UaiDay + SlackShow), por R$ 108,00  
+*   Comum, que dá direito somente aos eventos (Owasp UaiDay + SlackShow), por R$ 64,80.  
 
+O evento será nos dias 22 e 23 de junho de 2013, em Belo Horizonte/Minas Gerais, na FACULDADE FUMEC 
 
-Com vários palestrantes e muito conteúdo, ainda dá tempo de se inscrever e participar :).
+Com vários palestrantes e muito conteúdo, ainda dá tempo de se [inscrever e participar](http://www.bhack.com.br/#works) :).
 
 Até a próxima o/

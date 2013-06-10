@@ -1,0 +1,20 @@
+---
+layout: post
+title: "Web Day 2013"
+date: 2013-06-08 21:22
+comments: true
+categories: Eventos, Web, SaoPaulo
+keywords: TI, Eventos, Web, web day, SaoPaulo, sp, toalhatech
+---
+
+O [Web Day](http://www.webday.com.br) é um seminário para desenvolvedores web. Segundo o site do evento, *"será um evento técnico, onde os conceitos atuais serão vistos mais a fundo. As palestras serão realizadas por profissionais que atuam no mercado"*.
+
+Com esta premissa bem direta ao assunto :), [palestrantes conhecidos no mundo front-end, ruby on rails e outros](http://www.webday.com.br/p/palestrantes_30.html), o evento ocorrerá no dia 20 de julho de 2013.
+
+A grade do evento já foi divulgada <!-- more -->[http://www.webday.com.br/p/programacao.html](http://www.webday.com.br/p/programacao.html)
+
+As inscrições custam R$ 40,00 [https://www.ingresse.com.br/webday](https://www.ingresse.com.br/webday) e será na [PUC-SP](http://www.webday.com.br/p/data-local.html).
+
+Corra e se inscreva antes que as vagas acabem :).
+
+Até a próxima o/
