@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Alguns eventos importantes de 2013"
+title: "Eventos de TI em 2013 - Listagem de vários eventos importantes"
 date: 2013-06-01 11:48
 comments: true
 categories: eventos, Brasil, 2013
 author: Equipe ToalhaTech
-keywords: eventos, desenvolvimento, brasil, rio de janeiro, rj, sao paulo, sp, brasilia, ceara, ce, porto alegre, poa, agile brazil, agile brasil, frontinrio, justjava, frontinbh, frontinsp, dnad, qconsp, jsconfbr, fisl, brasiljs, braziljs, rubyconfbr, python brasil, ruby, arquitetura, javascript, front, software livre, bahia, ba, sergipe, aracaju, frontinaracaju, frontinbahia, frontinfortaleza, minas gerais, mg, si, linux, BHack, web day, SQL Saturday, SQL Saturday RIO
-description: post com a agenda de vários eventos importantes das comunidades de desenvolvimento de software do Brasil de 2013.
+keywords: ti, eventos, desenvolvimento, brasil, TDC, thedevelopersconference, rubyconfbr,  rio de janeiro, rj, sao paulo, sp, brasilia, ceara, ce, porto alegre, poa, agile brazil, agile brasil, frontinrio, justjava, frontinbh, frontinsp, dnad, qconsp, jsconfbr, fisl, brasiljs, braziljs, rubyconfbr, python brasil, ruby, arquitetura, javascript, front, software livre, bahia, ba, sergipe, aracaju, frontinaracaju, frontinbahia, frontinfortaleza, minas gerais, mg, si, linux, BHack, web day, SQL Saturday, SQL Saturday RIO
+description: agenda de vários eventos importantes das comunidades de desenvolvimento de software do Brasil em 2013.
 ---
 
 Eventos são momentos importantes de várias comunidades para reunir seus membros e trocar experiências. Um evento é maior que um encontro, seja pela infraestrutura do local, seja pela organização, conteúdo e expectativa dos participantes. Neste ano de 2013, já ocorreram alguns eventos de grande expressão, como o TDC Floripa, Python <!-- more -->Nordeste e o DevinSampa por exemplo,  mas vários outros ainda acontecerão e com inscrições abertas ou para abrir.  
