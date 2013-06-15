@@ -25,6 +25,10 @@
 <a href="http://www.quora.com/{{site.quora_user}}" rel="tooltip" title="Quora"><img class="social_icon" title="Quora" alt="Quora icon" src="{{ root_url }}/images/glyphicons_385_quora.png"></a>
 {% endif %}
 
+{% if site.subscribe_rss %}
+<a href="{{site.subscribe_rss}}" rel="tooltip" title="RSS"><img class="social_icon" title="RSS" alt="RSS icon" src="{{ root_url }}/images/rss.png"></a>
+{% endif %}
+
 {% if site.email %}
 <h2></h2>
 <a href="mailto:{{ site.email }}">{{ site.email }}</a>
