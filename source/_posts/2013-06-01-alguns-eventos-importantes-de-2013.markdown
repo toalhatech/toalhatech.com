@@ -5,7 +5,7 @@ date: 2013-06-01 11:48
 comments: true
 categories: eventos, Brasil, 2013
 author: Equipe ToalhaTech
-keywords: ti, eventos, desenvolvimento, brasil, TDC, thedevelopersconference, rubyconfbr,  rio de janeiro, rj, sao paulo, sp, brasilia, ceara, ce, porto alegre, poa, agile brazil, agile brasil, frontinrio, justjava, frontinbh, frontinsp, dnad, qconsp, jsconfbr, fisl, brasiljs, braziljs, rubyconfbr, python brasil, ruby, arquitetura, javascript, front, software livre, bahia, ba, sergipe, aracaju, frontinaracaju, frontinbahia, frontinfortaleza, minas gerais, mg, si, linux, BHack, web day, SQL Saturday, SQL Saturday RIO
+keywords: ti, eventos, desenvolvimento, brasil, TDC, thedevelopersconference, rubyconfbr,  rio de janeiro, rj, sao paulo, sp, brasilia, ceara, ce, porto alegre, poa, agile brazil, agile brasil, frontinrio, justjava, frontinbh, frontinsp, dnad, qconsp, jsconfbr, fisl, brasiljs, braziljs, rubyconfbr, python brasil, ruby, arquitetura, javascript, front, software livre, bahia, ba, sergipe, aracaju, frontinaracaju, frontinbahia, frontinfortaleza, minas gerais, mg, si, linux, BHack, web day, SQL Saturday, SQL Saturday RIO, php, phpconference, Agenda, eventos, ti, agenda de eventos de ti, agenda eventos ti 2013, 2013, dotnet
 description: agenda de vários eventos importantes das comunidades de desenvolvimento de software do Brasil em 2013.
 ---
 
@@ -134,8 +134,8 @@ Pensando nisso, fizemos uma lista de alguns eventos que são do nosso conhecimen
 *   Data do Evento: 29 e 30 de agosto   
 *   Tecnologia/Tema: Ruby    
 *   Estado de realização do Evento: São Paulo  
-*   Valor Inscrição: não divulgado na página do evento até o dia em que o post foi escrito
-*   Período de Inscrição: [iniciará no final de junho/2013, segundo organizadores](https://twitter.com/AkitaOnRails/status/332882173730385920)  
+*   Valor Inscrição: com desconto R$ 250,00 - até dia 8 de julho a ser realizado no [seguinte link](https://www.facebook.com/locaweb/app_156218351098324) a R$ 350,00  
+*   Período de Inscrição: 24 de junho - [não divulgado o prazo final de inscrições até o dia da atualização deste post](http://www.rubyconf.com.br/pt-BR/home)    
 
 #####Evento: [FrontinAracaju 2013](http://www.frontinaracaju.com.br/)  
 *   Data do Evento: 31 de agosto   
@@ -182,6 +182,13 @@ Pensando nisso, fizemos uma lista de alguns eventos que são do nosso conhecimen
 *   Valor Inscrição: não divulgado na página do evento até o dia em que o post foi escrito 
 *   Período de Inscrição: [não divulgado na página do evento até o dia em que o post foi escrito](http://agiletrendsbr.com/2013/inscricoes/) 
 
+#####Evento: [DevDay 2013](http://devday.devisland.com/)  
+*   Data do Evento: 19 de outubro   
+*   Tecnologia/Tema: Diversos  
+*   Estado de realização do Evento: Minas Gerais    
+*   Valor Inscrição: R$ 40,00 (Lote 0, destinado a participantes do DevDay 2012) a R$ 90,00
+*   Período de Inscrição: [até o dia do evento](http://devday.devisland.com/) 
+
 #####Evento: [AgileinRio 2013](http://rioagile.com.br/agile-in-rio.html)  
 *   Data do Evento: 26 e 27 de outubro   
 *   Tecnologia/Tema: Agile    
@@ -189,6 +196,14 @@ Pensando nisso, fizemos uma lista de alguns eventos que são do nosso conhecimen
 *   Valor Inscrição: R$ 150,00 a R$ 250,00  
 *   Período de Inscrição: [até o dia do evento](http://agileinrio.eventbrite.com/) 
 
+
+###Novembro
+#####Evento: [PHP Conference Brasil 2013](http://www.phpconference.com.br/)  
+*   Data do Evento: 28 de novembro até 01 de dezembro
+*   Tecnologia/Tema: PHP    
+*   Estado de realização do Evento: São Paulo 
+*   Valor Inscrição: não divulgado na página do evento até o dia em que o post foi escrito
+*   Período de Inscrição: [não divulgado na página do evento até o dia em que o post foi escrito](http://www.phpconference.com.br/) 
 
 
 
