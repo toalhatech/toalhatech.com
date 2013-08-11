@@ -182,12 +182,26 @@ Pensando nisso, fizemos uma lista de alguns eventos que são do nosso conhecimen
 *   Valor Inscrição: não divulgado na página do evento até o dia em que o post foi escrito 
 *   Período de Inscrição: [não divulgado na página do evento até o dia em que o post foi escrito](http://agiletrendsbr.com/2013/inscricoes/) 
 
+#####Evento: [Hack & Design Conference 2013](http://hackdesignconf.com.br/)  
+*   Data do Evento: 5 de outubro   
+*   Tecnologia/Tema: Diversos  
+*   Estado de realização do Evento: Rio de Janeiro    
+*   Valor Inscrição: R$ 130,00 (Lote 0, destinado a participantes do DevDay 2012) a R$ 200,00
+*   Período de Inscrição: [até o dia 04/10/2013](http://www.eventick.com.br/hdc) 
+
 #####Evento: [DevDay 2013](http://devday.devisland.com/)  
 *   Data do Evento: 19 de outubro   
 *   Tecnologia/Tema: Diversos  
 *   Estado de realização do Evento: Minas Gerais    
 *   Valor Inscrição: R$ 40,00 (Lote 0, destinado a participantes do DevDay 2012) a R$ 90,00
 *   Período de Inscrição: [até o dia do evento](http://devday.devisland.com/) 
+
+#####Evento: [TDC Porto Alegre 2013](http://www.thedevelopersconference.com.br/tdc/2013/data-e-local#portoalegre)  
+*   Data do Evento: 25 e 26 de outubro   
+*   Tecnologia/Tema: Diversas    
+*   Estado de realização do Evento: Porto Alegre  
+*   Valor Inscrição: R$ 70,00 a R$ 110,00  
+*   Período de Inscrição: [até dia 16/08/2013 - R$ 70,00 até o dia do evento](http://www.thedevelopersconference.com.br/tdc/2013/inscricoes#portoalegre)  
 
 #####Evento: [AgileinRio 2013](http://rioagile.com.br/agile-in-rio.html)  
 *   Data do Evento: 26 e 27 de outubro   
@@ -204,6 +218,29 @@ Pensando nisso, fizemos uma lista de alguns eventos que são do nosso conhecimen
 *   Estado de realização do Evento: São Paulo 
 *   Valor Inscrição: não divulgado na página do evento até o dia em que o post foi escrito
 *   Período de Inscrição: [não divulgado na página do evento até o dia em que o post foi escrito](http://www.phpconference.com.br/) 
+
+#####Evento: [TDC Recife 2013](http://www.thedevelopersconference.com.br/tdc/2013/index.html#recife)  
+*   Data do Evento: 8 e 9 de novembro  
+*   Tecnologia/Tema: Diversas      
+*   Estado de realização do Evento: Pernambuco   
+*   Valor Inscrição: R$ 70,00 a R$ 110,00 
+*   Período de Inscrição: [não divulgado na página do evento até o dia em que o post foi atualizado](http://www.thedevelopersconference.com.br/) 
+
+#####Evento: [Rupy Brasil 2013](http://rupy.com.br/)  
+*   Data do Evento: 28 e 29 de novembro  
+*   Tecnologia/Tema: Ruby e Python        
+*   Estado de realização do Evento: São Paulo     
+*   Valor Inscrição: não divulgado na página do evento até o dia em que o post foi atualizado  
+*   Período de Inscrição: [não divulgado na página do evento até o dia em que o post foi atualizado. Pré inscrições já disponíveis](http://designa.us2.list-manage.com/subscribe?u=90c0f8998e92920b5635111bb&id=9da17ec714)  
+
+
+###Dezembro
+#####Evento: [JavaOne América Latina 2013](http://www.oracle.com/javaone/lad-pt/index.html)  
+*   Data do Evento: 10 de dezembro até 12 de dezembro
+*   Tecnologia/Tema: Java    
+*   Estado de realização do Evento: Não divulgado na página do evento até o dia em que o post foi atualizado. Possibilidades de que seja em São Paulo.
+*   Valor Inscrição: não divulgado na página do evento até o dia em que o post foi escrito
+*   Período de Inscrição: [não divulgado na página do evento até o dia em que o post foi escrito](http://www.oracle.com/javaone/lad-pt/index.html) 
 
 
 

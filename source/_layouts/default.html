@@ -5,5 +5,8 @@
   {{ content | expand_urls: root_url }}
   {% include footer.html %}
   {% include after_footer.html %}
+  {% if site.Facebook_pagename %}
+    {% likebox %}
+  {% endif %}
 </body>
 </html>

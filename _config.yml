@@ -8,7 +8,7 @@ title: ToalhaTech
 subtitle: Não saia de casa sem ler
 author: Equipe ToalhaTech
 simple_search: http://google.com/search
-description: Tecnologia, Comunidades de Desenvolvimento de Software e Eventos de TI
+description: Tecnologia, Comunidades de Desenvolvimento de Software e Eventos de TI. Anúncios e relatos de eventos e posts técnicos.
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -60,9 +60,9 @@ default_asides: [asides/recent_posts.html, asides/github.html, custom/asides/pop
 # blog_index_asides:
 # post_asides:
 # page_asides:
-blog_index_asides:  [custom/asides/about.html, asides/recent_posts.html, asides/twitter.html,  asides/pinboard.html, sides/googleplus.html]
-post_asides:        [custom/asides/about.html, asides/twitter.html,  asides/pinboard.html, sides/googleplus.html]
-page_asides:	    [custom/asides/about.html, asides/twitter.html,  asides/pinboard.html, sides/googleplus.html]
+blog_index_asides:  [custom/asides/about.html, asides/recent_posts.html, asides/twitter.html,  asides/pinboard.html, asides/googleplus.html, asides/likebox.html]
+post_asides:        [custom/asides/about.html, asides/twitter.html,  asides/pinboard.html, asides/googleplus.html]
+page_asides:	    [custom/asides/about.html, asides/twitter.html,  asides/pinboard.html, asides/googleplus.html]
 
 # ----------------------- #
 #   3rd Party Settings    #
@@ -104,4 +104,11 @@ disqus_show_comment_count: false
 google_analytics_tracking_id: UA-40886042-1
 
 # Facebook Like
-facebook_like: false
+facebook_like: true
+
+# Facebook likebox (for pages)
+facebook_pagename: Toalhatech
+facebook_showfaces: true
+facebook_showstream: true
+facebook_width: 260
+
