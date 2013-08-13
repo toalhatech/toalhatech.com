@@ -1,19 +1,10 @@
 <div class="row">  
-  <div class="span6">
-    {% if site.simple_search %}
-    <form class="navbar-form" action="{{ site.simple_search }}" method="get">
-      <fieldset role="search">
-        <input type="hidden" name="q" value="site:{{ site.url | shorthand_url }}" />
-        <input class="span2" type="text" name="q" results="0" placeholder="Search"/>
-      </fieldset>
-    </form>
-      {% endif %}
-<h2><a href="/blog/archives">Arquivo de Posts</a></h2>
-  </div>
-<div class="span4">
+  <div class="span5">
     {% include custom/asides/about.html %}
   </div>
-  <div class="span2">
+<div class="span3">
+  </div>
+  <div class="span4">
     {% include custom/asides/found_on.html %}
   </div>
 </div>
