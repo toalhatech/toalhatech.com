@@ -1,0 +1,10 @@
+Observações sobre ambiente:
+
+Linux mint:
+
+-ruby -v
+versão ruby: ruby 1.9.3p194 (2012-04-20 revision 35410) [x86_64-linux]
+
+-rvm version
+rvm 1.20.5 (stable) by Wayne E. Seguin <wayneeseguin@gmail.com>, Michal Papis <mpapis@gmail.com> [https://rvm.io/]
+
