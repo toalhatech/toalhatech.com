@@ -13,7 +13,7 @@ description: Encontro do grupo de Estrutura de Dados agosto 2013 rio de janeiro
 Olá, pessoal. Tudo bem com vocês?
 
 No dia 10 de agosto (de 2013), será realizado o 2º encontro do grupo de estrutura de dados e o local é na [Caelum/RJ](http://www.caelum.com.br/).  
-Após muitas conversas este encontro e acredito fortemente que os outros também, tem por intuito reunir pessoas interessadas em algoritmos e estrutura de dados e compartilhar o que estão fazendo,<!-- more -->  o que estão pesquisando e afins, sem o formato palestra - palestrante fala e as pessoas ouvem. O objetivo é trocar, é falar sobre algo e as pessoas possam intervir, questionar, complementar o conteúdo no mesmo instante.  
+Após muitas conversas este encontro e acredito fortemente que os outros também, tem por intuito reunir pessoas interessadas em algoritmos e estrutura de dados e<!-- more --> compartilhar o que estão fazendo,  o que estão pesquisando e afins, sem o formato palestra - palestrante fala e as pessoas ouvem. O objetivo é trocar, é falar sobre algo e as pessoas possam intervir, questionar, complementar o conteúdo no mesmo instante.  
 
 As inscrições serão realizadas até o dia 7 de agosto, pelo link: http://t.co/ZMVGR9FeQc  
 
