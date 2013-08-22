@@ -1,0 +1,59 @@
+---
+layout: post
+title: "DNAD 2013 - 1o Dia"
+date: 2013-08-21 00:47
+comments: true
+categories: eventos
+author: Roberta Arcoverde
+---
+
+Nos dias 2 e 3 de agosto aconteceu o DNAD 2013 - evento de arquitetura tradicionalmente organizado em Sampa, deslocado pro Rio de Janeiro pela 1a vez. Essa foi minha terceira participação no DNAD e foi, sem dúvidas, a minha favorita. Num evento cujo suposto foco em .net está presente desde sua primeira edição (no nome, inclusive), foi surpreendente a pluralidade de tecnologias (ou "ecossistemas" - um termo que eu detesto) abordadas. <!-- more -->Ainda mais surpreendente foi a qualidade das discussões - paralelas ou não. Os mais atentos certamente "pescaram" nos corredores gente discutindo interpretadores, concorrência, paralelismo, e paradigmas de linguagens; um prato cheio pra quem gosta de Ciência da Computação.
+
+#### Paralelismo - padrões e algoritmos (exemplos com C++ AMP) ####
+
+A palestra de abertura meio que deu o tom do evento: o [Elemar Jr](http://elemarjr.net/), em sua primeira empreitada 'palestrística' focada em código, falou de C++ AMP. Uma das coisas de que mais gostei foi a estrutura da apresentação: ele começou dando um background pessoal, falando de arquitetura de computadores desde os tempos dos saudosos 8086 até a solução multicore das GPUs atuais. Ficou muito fácil de acompanhar, apesar da complexidade do assunto. Deu saudades dos ray tracings da faculdade :)
+Para mostrar como a GPU é uma unidade de processamento mais eficiente que a CPU quando se trata paralelização massiva, ele rodou um pequeno programinha que aplicava blur numa imagem. A renderização da imagem levava em torno de 10 segundos quando processada na CPU e míseros 100ms na GPU (caindo ainda mais em execuções subsequentes, enquanto a audiência mandava um "ohhhh" uníssono). Pros curiosos, o Elemar disponibilizou o código fonte e a explicação do mesmo no seu [blog](http://elemarjr.net/2013/07/29/image-effects-com-c-amp-blur/).
+
+Listei abaixo algumas das mensagens/lições que mais me marcaram nessa palestra:
+>* Use a unidade de processamento certa para o seu problema
+>* GPUs têm CENTENAS de cores. Tipo, CENTENAS! Aquele seu quad-core não parece tão legal agora, né?
+>* E, claro, aprenda C++ se quiser se tornar um desenvolvedor ninja
+
+#### Uma Introdução a Machine Learning ####
+
+A primeira coisa que me chamou a atenção na palestra do [Guilherme Silveira](https://twitter.com/guilhermecaelum) foi a escolha do termo em inglês (Machine Learning vs Aprendizagem de Máquina), o tipo de besteira que me distrai mas não faz a menor diferença. Como bom matemático, o Guilheme começou a palestra mostrando uma regressão linear para classificar apartamentos em 'acima' ou 'abaixo' do preço médio. A partir daí, mostrou como as funções que respondem a este tipo de questão podem ser "descobertas" (ou, pra ser mais precisa, aproximadas). A escolha de abordar machine learning a partir de seus fundamentos mais básicos - matemáticos - foi muito feliz, na minha opinião. Ele exemplificou diversos problemas solucionáveis com técnicas de machine learning (redes neurais foi a que eu pude reconhecer mais claramente), embora não tenha entrado no mérito da implementação dessas técnicas. Também explicou como a própria Caelum usa machine learning para identificar com antecedência alunos com alta probabilidade de abandonar os cursos. Achei legal também como ele mostrou que Machine Learning pode ser muito simples, e ao mesmo tempo muito poderoso. O melhor exemplo é o da garota de 16 anos que montou um [sitezinho](http://cloud4cancer.appspot.com/) capaz de diagnosticar câncer de mama com altíssima precisão, a partir de 5 ou 6 perguntas e uma rede neural.
+
+#### Implementando Restful SOA com DDD ####
+
+O [Daniel Yokoyama](https://twitter.com/dmyoko) abriu a tarde de palestras, e, confesso, foi difícil acompanhar devido ao sono pós-almoço. Horário ingrato esse. Pra piorar, cheguei já no meio da palestra e perdi boa parte. Eu procurei os slides da palestra pra rebootar minha memória, mas não encontrei. De qualquer forma, uma das mensagens fortes dessa palestra do Daniel foi sobre a importância de conhecer a fundo DDD antes de achar que está doing it right. No caso, ele frisou que o principal capítulo do famoso livro do Eric Evans era justamente aquele que quase ninguém lê - o último. Pessoalmente, eu mesma nunca li, pois acho tanto o assunto quanto o livro bem chatinhos. Mas vale a dica :)
+
+#### Construindo uma API de dados esportivos que responde a 6000 req/s ####
+
+A palestra seguinte foi do [Rafael Martins](https://twitter.com/rafael_mws), desenvolvedor da Globo.com. Tanto palestra quanto palestrante me surpreenderam muito positivamente. O case apresentado foi a API de dados do portal do Globo Esporte. Segundo o Rafael, o que começou como um projeto despretensioso, interno, respondendo a apenas algumas dezenas de requisições por segundo, de repente precisou evoluir para uma API externa, com a capacidade citada no título. Para atender a tal demanda, a palavra chave da palestra foi *cache*. A arquitetura da solução deles tem vários níveis diferentes de caching, desde antes de chegar nos web servers até o clássico, entre aplicação e banco de dados. Achei bem legal também a estratégia de fazer caching-por-recurso. Explicando de forma absurdamente resumida (e injustamente simplificada), todos os recursos utilizados pelos serviços são cacheados por "tipo", e reusados sempre que possível. Para usar o exemplo que ele deu, imagine que eu use um serviço pra buscar a escalação do Brasil de 1994; em seguida, eu uso o serviço que traz os artilheiros de todos os Brasileirões. Ambos trarão o jogador Romário nos seus resultados, um recurso único reusado nos dois serviços. Uma consequência imediata é que eles praticamente não fazem joins nas suas consultas, o que achei bem maneiro.
+O Rafael falou bastante também da infra utilizada para suportar essa API: eles alteraram o NGinx pra dar suporte a autenticação, usaram Tornado, Redis e SqlAlchemy. Coisas que eles alteraram foram disponibilizadas no [GitHub da Globo.com](https://github.com/globocom), uma iniciativa maneiríssima!
+
+#### Arquitetura evolutiva na prática ####
+
+Depois do coffee-break, [Denis Ferrari](https://twitter.com/denisferrari) deu uma palestra muito bacana sobre Arquitetura Evolutiva. Em suma, ele usou um case que passou por quatro arquiteturas diferentes, de forma emergente, para mostrar os benefícios (e problemas) de arquiteturas emergentes. Um dos aspectos de que mais gostei da palestra dele foi a despretensão: ele fez questão de ressaltar que, apesar do sucesso do projeto, cometeu sim alguns equívocos e faria várias coisas de forma diferente hoje em dia. 
+Uma dica legal que o Denis deu no fim da palestra, pros que moram em Vitória-ES, foi o [meet2brains](http://www.meet2brains.com.br) - grupo que organiza uma série de eventos e palestras gratuitas. Ah, ele também disponibilizou os [slides no SlideShare](http://www.slideshare.net/denisnferrari/arquitetura-evolutiva-dnad-2013)!
+
+#### O que aprendi em 5 anos de pesquisa em TDD? ####
+
+O [Maurício Aniche](https://twitter.com/mauricioaniche) falou em seguida sobre seus 5 anos de pesquisa em TDD. Vale ressaltar que o Maurício é um profissional bem sucedido tanto na vida acadêmica (estudante de Doutorado) quanto na indústria (ou mercado, termo que alguns preferem usar). Sendo TDD um tema ainda pouco explorado na academia (exceto pelo PoV de testes/qualidade externa), as contribuições do Maurício são pioneiras - e foram elas que ele dividiu conosco nessa palestra. 
+Em sua pesquisa, o Maurício investigou os erros mais comuns cometidos pelos desenvolvedores ao praticar TDD: esquecer do passo de refatoração, começar por testes complexos e otimizar prematuramente são alguns dos erros de que me lembro.
+Algumas das mensagens que me marcaram mais:
+>* TDD não faz mágica. Programadores ruins vão desenvolver arquiteturas ruins, mesmo quando guiados por testes, por não conseguir "ouvir" o feedback
+>* Se tá difícil testar, tá errado :)
+>* Simplicidade != estupidez! Cuidado pra não deixar seus baby steps se tornarem stupid steps (aquele exemplo batidérrimo de retornar um magic number pra uma função de somar (quem nunca?))
+
+#### Desenvolvendo aplicações acessíveis na plataforma .NET ####
+
+Fechando o primeiro dia, tivemos a palestra do [Alexandre Costa](https://twitter.com/magoolation) sobre desenvolvimento de aplicações acessíveis. O Alexandre (ou Magoolation) é um desenvolvedor cego, e explicou que software acessível é aquele que atende a pessoas com quaisquer necessidades - não apenas visuais, mas também auditivas e motoras, por exemplo. Essa palestra me fez pensar pela primeira vez em algumas features que pensamos ser muito maneiras mas que limitam desastrosamente a acessibilidade de nossos sites - como captchas e drag and drop (os dois são complicados pra cegos, o segundo é complicado também para pessoas com dificuldades motoras). Outras dicas simples que o Alexandre deu, e que vale muito mencionar:
+>* Evitar usar posicionamento absoluto no html;
+>* Evitar usar cores como fonte de informação ("botão vermelho" vs "botão verde", por exemplo)
+>* Usar sempre "label for"
+>* Evitar atualização automática das páginas (auto-refresh)
+>* Usar tabIndex com inteligência
+>* A melhor de todas: se quiser testar a acessibilidade do seu sistema, tente operá-lo com o monitor desligado. ;)
+
+De forma geral, o primeiro dia do evento foi bem intenso; como já dava pra prever (vide [programação](http://dnad.azurewebsites.net/#programacao)), as palestras foram de altíssima qualidade e o conteúdo técnico idem! Vou postar em breve minhas impressões do 2o dia também, fiquem ligados! o/
