@@ -17,7 +17,7 @@ Em conversas posteriores, a Anna Cruz incentivou que a Samanta Cicília e eu esc
 
 Anna, Samanta e eu nos conhecemos por intermédio de um evento, o railsgirls_rj.
 
-Com isso, a [Anna Cruz](https://twitter.com/yuizinha) , a [Samy Souza](https://twitter.com/samantacicilia) e eu [(Jac Abreu Lopes)](https://twitter.com/JacAbreu), criamos o ToalhaTech - um blog para falarmos sobre o que vimos de interessante nos eventos, para anunciar eventos e para falar de outros temas que consideramos interessantes relacionados a tecnologia. 
+Com isso, a [Anna Cruz](https://twitter.com/yuizinha) , a [Samy Souza](https://twitter.com/samantacicilia) e eu [(Jac Abreu Lopes)](https://twitter.com/JacAbreu), criamos o ToalhaTech - um blog para falarmos sobre o que vimos de interessante nos eventos, para anunciar eventos e para falar de outros temas que consideramos interessantes relacionados a tecnologia. Em agosto/2013, a [Roberta Arcoverde](https://twitter.com/rla4) entrou no nosso time e tem feito um excelente trabalho.
 
 O nome “ToalhaTech” surgiu porque todas nós gostamos do Mochileiro das Galáxias e tão importante quanto sempre ter a sua toalha é ler o ToalhaTech :).
 
