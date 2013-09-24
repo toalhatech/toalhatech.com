@@ -3,11 +3,13 @@ layout: post
 title: "DNAD 2013 - 2o Dia"
 date: 2013-09-11 23:14
 comments: true
-categories: eventos
+categories: eventos, .net, dnad, 2013
 author: Roberta Arcoverde
+keywords: dnad, dnad2013, dnad 2013, relato dnad 2013, roberta arcoverde, .net, 2013
+description: Relato do dnad2013
 ---
 
-Depois de um [1o dia inspirador](http://toalhatech.com/blog/2013/08/21/dnad-2013-1o-dia/), o 2o dia do DNAD também estava bem promissor. Infelizmente, entretanto, duas das palestras que eu mais gostaria de ver (sobre Tsuru, da Flavia Missi e Quando Parei de Usar Padrões, do Vinicius Quaiato) foram canceladas por motivos de força maior. Uma pena, tanto pra audiência quanto pros palestrantes. Por causa destes contratempos, a ordem das palestras não seguiu exatamente a programação, e o [Elemar Jr](http://elemarjr.net/) abriu a sequência - mais uma vez, de forma irrepreensível.<!-- more -->
+Depois de um [1o dia inspirador](http://toalhatech.com/blog/2013/08/21/dnad-2013-1o-dia/), o 2o dia do DNAD também estava bem promissor. Infelizmente, entretanto, duas das palestras que eu mais gostaria de ver (sobre Tsuru, da Flavia Missi e Quando Parei de Usar Padrões, do Vinicius Quaiato) foram canceladas por motivos de força maior. Uma pena, tanto pra audiência quanto pros palestrantes. Por causa destes contratempos, a ordem das palestras não seguiu exatamente a programação, e o [Elemar Jr](http://elemarjr.net/) abriu a sequência - mais uma<!-- more --> vez, de forma irrepreensível.
 
 #### CQRS aplicado para construção de aplicações de alto desempenho usando Windows Azure ####
 Nessa palestra o Elemar voltou a suas origens palestrísticas, com um foco mais arquitetural. Especificamente, ele apresentou um case de CQRS, sobre HTTP, com alto grau de processamento, utilizando Windows Azure. A primeira coisa que me surpreendeu nessa palestra foi o uso de cloud pra fazer processamento distribuído: o tipo de coisa que parece meio óbvia depois que você conhece um case assim, mas que eu jamais teria considerado sozinha.  No caso do Elemar, o serviço (que atende pela alcunha de Mooble) tinha por objetivo atender às demandas de 95% (!) do setor moveleiro nacional, com catálogos gigantescos, e necessidades sofisticadas de apresentação destes catálogos (pense em visualizações tridimensionais de objetos - tanto individualmente quanto num projeto de design de interiores). Por sinal, a renderização tridimensional dos objetos contou com uma "pegadinha" bem legal: no preview, o 3D é, na verdade, um grande sprite formado por dezenas de imagens, cada uma em um ângulo diferente!

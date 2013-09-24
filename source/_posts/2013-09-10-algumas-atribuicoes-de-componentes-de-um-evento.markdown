@@ -7,7 +7,7 @@ categories:
 ---
 
 
-Há um tempo, foi publicado aqui no Toalhatech um texto sobre dicas básicas para organizar um evento e este post é indiretamente um complemento do mesmo. Nós gostariamos de falar o que acreditamos ser limites entre evento/organização/palestrantes/patrocinadores.  
+Há um tempo, foi publicado aqui no Toalhatech um texto sobre [dicas básicas para organizar um evento](http://toalhatech.com/blog/2013/08/11/passos-basicos-para-realizar-um-evento/) e este post é indiretamente um complemento do mesmo. Nós gostariamos de falar o que acreditamos ser limites entre evento/organização/palestrantes/patrocinadores.  
 
 Em um grande evento no final de agosto/2013, infelizmente ocorreu uma pesada troca de farpas entre palestrantes e representantes de patrocinadores, que teve<!-- more -->  como estopim uma palestra afirmando que algumas tecnologias não funcionavam tão bem quanto as empresas que constroem esses softwares dizem. O que deveria ser somente um slide polêmico causou uma confusão muito triste e com acusações de que ano que vem algumas empresas não patrocinariam o evento, pois gostaria que o evento tivesse mais critério na hora de escolher quem palestrará ou não.  
 
