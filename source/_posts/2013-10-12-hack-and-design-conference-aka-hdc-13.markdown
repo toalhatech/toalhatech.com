@@ -21,4 +21,4 @@ Para os devs, teve a palestra do Pedro Franceschi falando sobre o editor de text
 
 O encerramento do evento foi feito pelo Klaus Wuestefeld, falando sobre a Computação soberana (quem quiser conhecer mais, tem um texto meu no [O Globo](http://oglobo.globo.com/blogs/tecnologia/posts/2013/02/14/computacao-soberana-sneer-484559.asp)) e o [Sneer](http://sneer.me/home.html). Quer saber sobre a queda do Google e o fim do Facebook? Então conheça a Computação Soberana! (Ouça também o Grok Podcast sobre o tema: [Parte 1](http://www.grokpodcast.com/2012/06/15/episodio-70-computacao-soberana-parte-1-de-3/), [Parte 2](http://www.grokpodcast.com/2012/06/22/episodio-71-computacao-soberana-parte-2-de-3/), [Parte 3](http://www.grokpodcast.com/2012/07/13/episodio-72-computacao-soberana-parte-3-de-3/))
 
-Até a próxima!
+Até a próxima!!!!!!!!
