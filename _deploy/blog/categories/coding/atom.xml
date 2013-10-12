@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Coding | ToalhaTech]]></title>
+  <link href="http://toalhatech.com/blog/categories/coding/atom.xml" rel="self"/>
+  <link href="http://toalhatech.com/"/>
+  <updated>2013-10-12T18:20:23-03:00</updated>
+  <id>http://toalhatech.com/</id>
+  <author>
+    <name><![CDATA[Equipe ToalhaTech]]></name>
+    <email><![CDATA[contato@toalhatech.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Dojo+Atividades na UNICARIOCA - Comemorando Dia da Toalha]]></title>
+    <link href="http://toalhatech.com/blog/2013/05/21/dojo-atividades-na-unicarioca-comemorando-dia-da-toalha/"/>
+    <updated>2013-05-21T19:26:00-03:00</updated>
+    <id>http://toalhatech.com/blog/2013/05/21/dojo-atividades-na-unicarioca-comemorando-dia-da-toalha</id>
+    <content type="html"><![CDATA[<p>A Unicarioca junto com a comunidade de alunos e ex alunos de Informática antecipou o Dia da Toalha, também conhecido por outros como o dia do Orgulho Nerd para o dia <strong>23/05/2013</strong>.<br/>
+O Evento conta com uma oficina de Xadrez e também uma Oficina de Dojo.
+Será um evento aberto para todos os nerds que queiram comemorar conosco ;)</p>
+
+<!-- more -->
+
+
+<p>A programação:</p>
+
+<p>18:30 às 20:30 &ndash; Oficina de Xadrez  <br/>
+Objetivo: Esta oficina tem o propósito de apontar os benefícios do
+estudo e da prática do Xadrez, desenvolvimento não só do raciocínio lógico e abstrato como também no desenvolvimento das habilidades cognitivas e em todas operações do intelecto. <br/>
+Local: Térreo &ndash; Hall<br/>
+Palestrante: Rosana Soriano – aluna do curso de Ciência  da Computação e membro da Comunidade UniCariocaDev.</p>
+
+<p>18:30 às 20:30 &ndash; Oficina de Dojo &ndash; Coding Dojo<br/>
+Objetivo: O Dojo é um espaço onde programadores se reúnem para treinar e aprender. As reuniões são periódicas e centradas num desafio de programação. Apesar do desafio, o objetivo não é terminar o problema. A idéia é aprender com as experiências vivenciadas pelo grupo.  O ambiente é inclusivo, seguro e convidativo. Fonte: <a href="http://apoie.org/Dojo.html">http://apoie.org/Dojo.html</a> <br/>
+Local Auditório Arcy Magno <br/>
+Palestrante: <a href="http://thiagobelem.net/">Thiago Belem</a> – freelancer, estagiário, professor e desenvolvedor. Desenvolvedor especialista em CakePHP, Ruby on Rails, HTML5 e jQuery.</p>
+
+<p>20:30 às 21:30 &ndash; Palestra<br/>
+Objetivo: Palestra de Encerramento<br/>
+Local: Auditório Arcy Magno</p>
+
+<p>O evento será na unidade do Rio Comprido e começará às 18:30<br/>
+Endereço: <a href="http://maps.google.com.br/maps?q=Av.+Paulo+de+Frontin,+568&amp;um=1&amp;ie=UTF-8&amp;hq=&amp;hnear=0x997fb23f317bef:0x6146793c05971778,Av.+Paulo+de+Frontin,+568+-+Rio+Comprido,+Rio+de+Janeiro+-+RJ,+20261-243&amp;gl=br&amp;sa=X&amp;ei=bfabUfXjMofu9ASNnIHYCg&amp;ved=0CCsQ8gEwAA">Av. Paulo de Frontin, 568</a></p>
+]]></content>
+  </entry>
+  
+</feed>

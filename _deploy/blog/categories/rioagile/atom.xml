@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: rioagile, | ToalhaTech]]></title>
+  <link href="http://toalhatech.com/blog/categories/rioagile/atom.xml" rel="self"/>
+  <link href="http://toalhatech.com/"/>
+  <updated>2013-10-12T18:20:23-03:00</updated>
+  <id>http://toalhatech.com/</id>
+  <author>
+    <name><![CDATA[Equipe ToalhaTech]]></name>
+    <email><![CDATA[contato@toalhatech.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Como foi o Rio Agile Talks de Maio/2013]]></title>
+    <link href="http://toalhatech.com/blog/2013/06/02/como-foi-o-rio-agile-talks-maio-2013/"/>
+    <updated>2013-06-02T13:06:00-03:00</updated>
+    <id>http://toalhatech.com/blog/2013/06/02/como-foi-o-rio-agile-talks-maio-2013</id>
+    <content type="html"><![CDATA[<p>No dia 18 de maio aconteceu, na <a href="http://www.ideais.com.br/">Ideais Tecnologia</a>, o terceiro encontro de 2013 da comunidade ágil do Rio de Janeiro.</p>
+
+<p>O evento contou tanto com profissionais que trabalham com ágil quanto com aqueles que ainda não trabalham. Uma novidade foi a presença de vários profissionais da área de Testes o/.<!-- more --></p>
+
+<p>A primeira palestra foi do <a href="https://twitter.com/RafaelCGuerra">Rafael Guerra</a> &ndash; &ldquo;Kanban além de Software&rdquo;. Nada de slides mas sim um quadro de Kanban para apresentar o conteúdo, mesclando teoria com prática e abordando conceitos como Kaizen e mostrando que o &ldquo;pensamento japonês&rdquo; pode ser aplicado em áreas de negócio.</p>
+
+<p>Na parte de testes teve a minha palestra (primeira palestra oficial da <a href="https://twitter.com/samantacicilia">Samy</a>) &ndash; &ldquo;O que faz (ou não) um tester no mundo ágil&rdquo;, contando um pouquinho das minhas experiências como Analista de Testes em projetos que utilizam metodologias ágeis e mostrando que o tester faz muito mais do que simplesmente testar funcionalidades. Os slides estão disponíveis no meu <a href="http://www.slideshare.net/samantacicilia/o-que-faz-ou-no-um-tester-no-mundo-gil-21125190">slideshare</a>.</p>
+
+<p>Depois do almoço aconteceram duas dinâmicas muito legais.</p>
+
+<p>Um Workshop de Constelações Organizacionais com o <a href="https://twitter.com/danielhst">Daniel Teixeira</a>, onde foi aplicada uma prática que é utilizada na psicoterapia familiar (constelações) para ajudar a encontrar uma solução para determinado problema. No exercício, o problema escolhido foi uma empresa que tinha dificuldades para implantar metodologias ágeis e foram escolhidas pessoas para representar os envolvidos na situação (diretor, coordenador, líder técnico, time, metodologia ágil e etc). Através das disposições das pessoas no ambiente, todos puderam contribuir para que fosse encontrada uma forma de resolver esse problema e aproximar as metodologias ágeis da vida da empresa.</p>
+
+<p>Por último tivemos um Open Space com o <a href="https://twitter.com/marcosgarrido">Marcos Garrido</a> sobre o <a href="https://knowledge21.com.br">Knowledge21</a>.</p>
+
+<p>O próximo Talks acontece em Julho, e em outubro acontecerá o Agile in Rio. Acompanhe o site da comunidade e fique por dentro das novidades: <a href="http://rioagile.com.br">Rio Agile</a>.</p>
+]]></content>
+  </entry>
+  
+</feed>

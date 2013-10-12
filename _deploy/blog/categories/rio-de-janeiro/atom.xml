@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Rio de Janeiro | ToalhaTech]]></title>
+  <link href="http://toalhatech.com/blog/categories/rio-de-janeiro/atom.xml" rel="self"/>
+  <link href="http://toalhatech.com/"/>
+  <updated>2013-10-12T18:20:23-03:00</updated>
+  <id>http://toalhatech.com/</id>
+  <author>
+    <name><![CDATA[Equipe ToalhaTech]]></name>
+    <email><![CDATA[contato@toalhatech.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Rio Agile Talks - Maio/2013]]></title>
+    <link href="http://toalhatech.com/blog/2013/05/14/rio-agile-talks-de-maio-2013/"/>
+    <updated>2013-05-14T19:30:00-03:00</updated>
+    <id>http://toalhatech.com/blog/2013/05/14/rio-agile-talks-de-maio-2013</id>
+    <content type="html"><![CDATA[<p>O Rio Agile Talks, segundo os idealizadores:</p>
+
+<p>&ldquo;é uma comunidade carioca focada em métodos ágeis e lean para desenvolvimento de software criada em Janeiro de 2011. A principal motivação para sua criação é a frase &lsquo;Procure a comunidade mais próxima de você&rsquo;, citada por Rachel Davies em seu livro Agile Coaching. Bem como paróquias são importantes na formação e renovação dos religiosos, a Rio Agile sempre buscará ter a mesma importância <!-- more --> e o mesmo papel para os agilistas cariocas, pautada sobre os valores e princípios do Agile e do Lean.&rdquo;</p>
+
+<p>O evento acontece a cada 2 meses e reúne a comunidade carioca voltada pra desenvolvimento ágil com palestras e bate-papos sobre o assunto.</p>
+
+<p>No site oficial <a href="http://rioagile.com.br/">Rio Agile</a> você encontra tudo sobre a comunidade e os eventos.</p>
+
+<p>Essa semana, dia 18/05, acontece mais um Talks e eu vou falar sobre Testes (minha primeira palestra pra valer).</p>
+
+<p>As inscrições ainda estão abertas: <a href="http://rioagiletalks-eorg.eventbrite.com/#">Incrições Talks de Maio</a></p>
+
+<p>Espero vocês lá e bem vindos ao <a href="http://toalhatech.com">toalhatech.com!</a></p>
+
+<p>Até a próxima!
+=)</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Encontro DNA Rio de Abril/2013]]></title>
+    <link href="http://toalhatech.com/blog/2013/05/12/encontro-dna-rio-abril-2013/"/>
+    <updated>2013-05-12T09:01:00-03:00</updated>
+    <id>http://toalhatech.com/blog/2013/05/12/encontro-dna-rio-abril-2013</id>
+    <content type="html"><![CDATA[<p>Olá pessoal. Tudo bem com vocês?</p>
+
+<p>A comunidade de .NET do Rio de Janeiro tem um encontro mensal, o DNA Rio &ndash; <a href="https://twitter.com/search?q=%23DNARio&amp;src=hash">#DNARio</a>. Neste encontro, sem formato definido além da rodada de apresentações entre os presentes, é falado sobre várias tecnologias, não se prendendo às da platafoma .NET. Isso faz com que o leque de temas seja bastante aberto e um encontro bastante legal para quem programa nas linguagens da Microsoft ou não.<!-- more --> Pelo tempo que frequento as reuniões do #DNARio, acredito que o principal objetivo do encontro seja possibilitar pessoas se encontrarem para falar sobre tecnologia &ndash; pessoas falarem é o mais importante.</p>
+
+<p>O encontro do DNA Rio de abril foi realizado no dia 6, na <a href="http://www.caelum.com.br/">Caelum/RJ</a> &ndash; eles tem as melhores recepcionistas do mundo. Obrigada Caelum por nos receber tão bem. Durante a apresentação deste encontro, os participantes falaram além do nome, o que está trabalhando e o que está estudando atualmente.</p>
+
+<p>Falar sobre “estou estudando&hellip;” pode ser bastante incomodo, pois e se você não estiver nada além da pesquisa rápida para resolver o bug no código do sprint da empresa? Estudar para o trabalho é estudar? Esse desconforto nos faz pensar sobre o que estamos fazendo e as nossas motivações. Essa pergunta foi o ponto de partida para um debate bastante interessante sobre aprendizado.</p>
+
+<p>A primeira parte da discussão foi como aproveitar melhor o tempo que estudamos, já que não basta estudar se não obtemos nenhum resultado disso, seja conhecimento teórico ou resultados na prática. Desse ponto, muitos concordaram que aprender primeiro e colocar tudo em prática de uma vez pode ser uma “armadilha mental” perigosa, já que se pode gastar muito tempo sem dar um passo sequer e se dar conta quando tentamos colocar em prática a instrução obtida. Estudar coisas muito diferentes pode também ser outra armadilha.</p>
+
+<p>Depois disso, foi debatida as diferenças entre aprender e dominar. Um dos pontos que auxilia muito na questão da prática é escolher bem um objetivo, um ponto onde o conhecimento obtido será aplicado. Esta escolha nem sempre é trivial. Uma excelente forma de “colocar a mão na massa” é procurar projetos open source, principalmente aqueles que já são usados no dia a dia. Fazer o fork do projeto, ler a wiki e participar da lista de discussão do projeto compõe um possível e promissor ponto de partida para contribuir com um projeto open source, como indicou o <a href="https://twitter.com/qmx">@qmx</a> no seu <a href="http://blog.qmx.me/the-release/">post</a>. Este texto é inspirador para muitos e de certa forma, se tornou um dos guias para o que fazer num momento que muitos programadores chegam. Este momento pode ser, por exemplo, quando só o programamos no trabalho não basta, pois falta a sensação de desafios ou simplesmente precisar aprender sobre algo que se utiliza muito e por algum motivo a ferramenta não está atendendo à necessidade para que a história, tarefa, funcionalidade seja entregue.</p>
+
+<p>A primeira vista, ler código de projetos desconhecidos, wikis, listas de discussão de pessoas já ambientadas no projeto não é algo trivial, exige esforço, esforço para persistir, mas vale a pena pelo aprendizado e a possibilidade de contribuir com algo que está na sua vida e estará na vida de muitas outras pessoas.</p>
+
+<p>No encontro de março, o <a href="https://twitter.com/breno_ferreira">@breno_ferreira</a> fez uma pequena apresentação, indicando sites onde poderiamos fazer cursos para aprender novas tecnologias, através do coursera e seus similares. Além disso, nos contou um pouco sobre seu progresso no curso de scala do coursera. Breno nos disse que iniciou este curso justamente pelo seu enfoque em programação funcional, que está deixando de ser “tendencia” e se tornando presente em nosso dia a dia de diversas formas. No encontro de abril, ele prosseguiu com seu relato, citando pontos principais sobre o que aprendeu com exemplos práticos, numa exposição interativa de conceitos.</p>
+
+<p>Durante a apresentação, foi citado inferência de tipos do scala e comparado com a inferência de tipos do F#, Set, tail recursion, listas imutáveis e tipos de alta ordem.</p>
+
+<p>E todo o 1º sábado do mês tem DNA Rio. Para saber mais, tem a <a href="https://groups.google.com/forum/?hl=pt&amp;fromgroups#!forum/dotnetarchitects">lista do .NET Architects</a> ou no twitter do <a href="https://twitter.com/dnaRio">@dnaRio</a>. Esteja conosco, apresente algo interessante que você tem fez ou está fazendo. O DNA Rio é um dos lugares mais democráticos e amigáveis para se aprender e compartilhar conhecimento.</p>
+
+<p>Todos são muito bem vindos. É só se inscrever e aparecer.</p>
+
+<p>Até a próxima o/.</p>
+]]></content>
+  </entry>
+  
+</feed>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: encontros, | ToalhaTech]]></title>
+  <link href="http://toalhatech.com/blog/categories/encontros/atom.xml" rel="self"/>
+  <link href="http://toalhatech.com/"/>
+  <updated>2013-10-12T18:20:23-03:00</updated>
+  <id>http://toalhatech.com/</id>
+  <author>
+    <name><![CDATA[Equipe ToalhaTech]]></name>
+    <email><![CDATA[contato@toalhatech.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[RubyOnRio de Setembro/2013]]></title>
+    <link href="http://toalhatech.com/blog/2013/09/14/rubyonrio-de-setembro-2013/"/>
+    <updated>2013-09-14T18:17:00-03:00</updated>
+    <id>http://toalhatech.com/blog/2013/09/14/rubyonrio-de-setembro-2013</id>
+    <content type="html"><![CDATA[<p>Olá, pessoal. Tudo bem com vocês?</p>
+
+<p>Como muitos sabem, nos dias 29 e 30 de agosto ocorreu a edição 2013 da RubyConfBr e a comunidade carioca de Ruby está ainda mais animada para se encontrar, falar sobre o evento e sobre a tecnologia. Desta vez, eles resolveram sair um pouco da tradicional formato sala-projetor para algo mais informal: um encontro na starbucks do Centro/RJ.</p>
+
+<p>O encontro rolará dia 28/09 a partir das<!-- more --> 13:00 e é só pedir o seu café favorito, sem inscrições ou formalidades.</p>
+
+<p>Para saber mais sobre o <a href="https://groups.google.com/forum/#!topic/rubyonrio/aMpriXK3kA4">encontro</a> e sobre outros tópicos maneiros sobre ruby que rolam, é só acompanhar a <a href="https://groups.google.com/forum/#!forum/rubyonrio">lista do rubyonrio no google groups</a>, além do twitter o <a href="https://twitter.com/rubyonrio">@rubyonrio</a></p>
+
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com.br/maps?ie=UTF8&amp;q=Starbucks&amp;fb=1&amp;gl=br&amp;hq=starbucks&amp;hnear=0x997f5e0ce71753:0xd182cac657b04b4a,R.+Gon%C3%A7alves+Dias,+Rio+de+Janeiro&amp;cid=0,0,16913246456884119362&amp;t=m&amp;iwloc=A&amp;ll=-22.904907,-43.179008&amp;spn=0.006295,0.006295&amp;output=embed"></iframe>
+
+
+<br /><small><a href="https://maps.google.com.br/maps?ie=UTF8&amp;q=Starbucks&amp;fb=1&amp;gl=br&amp;hq=starbucks&amp;hnear=0x997f5e0ce71753:0xd182cac657b04b4a,R.+Gon%C3%A7alves+Dias,+Rio+de+Janeiro&amp;cid=0,0,16913246456884119362&amp;t=m&amp;iwloc=A&amp;ll=-22.904907,-43.179008&amp;spn=0.006295,0.006295&amp;source=embed" style="color:#0000FF;text-align:left">Ver mapa maior</a></small>
+
+
+<p>Até a próxima o/.</p>
+]]></content>
+  </entry>
+  
+</feed>
