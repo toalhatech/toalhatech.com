@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Brasil, | ToalhaTech]]></title>
+  <link href="http://toalhatech.com/blog/categories/brasil/atom.xml" rel="self"/>
+  <link href="http://toalhatech.com/"/>
+  <updated>2013-10-23T21:18:39-02:00</updated>
+  <id>http://toalhatech.com/</id>
+  <author>
+    <name><![CDATA[Equipe ToalhaTech]]></name>
+    <email><![CDATA[contato@toalhatech.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Eventos de TI em 2013 - Listagem de vários eventos importantes]]></title>
+    <link href="http://toalhatech.com/blog/2013/06/01/alguns-eventos-importantes-de-2013/"/>
+    <updated>2013-06-01T11:48:00-03:00</updated>
+    <id>http://toalhatech.com/blog/2013/06/01/alguns-eventos-importantes-de-2013</id>
+    <content type="html"><![CDATA[<p>Eventos são momentos importantes de várias comunidades para reunir seus membros e trocar experiências. Um evento é maior que um encontro, seja pela infraestrutura do local, seja pela organização, conteúdo e expectativa dos participantes. Neste ano de 2013, já ocorreram alguns eventos de grande expressão, como o TDC Floripa, Python <!-- more -->Nordeste e o DevinSampa por exemplo,  mas vários outros ainda acontecerão e com inscrições abertas ou para abrir.<br/>
+Pensando nisso, fizemos uma lista de alguns eventos que são do nosso conhecimento. Infelizmente, nem todos os eventos foram listados, mas se você sabe de algum que não está citado abaixo, por favor, nos avise para que atualizarmos o post e divulgar o máximo possível as comunidades/eventos :).</p>
+
+<h3>Junho</h3>
+
+<h5>Evento: <a href="http://soujava.org.br/justjava-2013/">JustJava</a></h5>
+
+<ul>
+<li>Data do Evento: 7 e 8 de junho</li>
+<li>Tecnologia/Tema: Java</li>
+<li>Estado de realização do Evento: São Paulo</li>
+<li>Valor Inscrição: R$ 295,00 a 350,00</li>
+<li>Período de Inscrição: <a href="http://www.sucesusp.org.br/mailing2013/Conteudos/20130607/">até o dia do evento</a></li>
+</ul>
+
+
+<h5>Evento: <a href="http://sampajs.com.br/">Sampa.js</a></h5>
+
+<ul>
+<li>Data do Evento: 8 de junho</li>
+<li>Tecnologia/Tema: Java Script</li>
+<li>Estado de realização do Evento: São Paulo</li>
+<li>Valor Inscrição: R$ 50,00</li>
+<li>Período de Inscrição: <a href="http://bonoevento.com/sampajsv31">até o dia do evento</a></li>
+</ul>
+
+
+<h5>Evento: <a href="http://www.frontinrio.com.br/">FrontInRio</a></h5>
+
+<ul>
+<li>Data do Evento: 15 de junho</li>
+<li>Tecnologia/Tema: Diversas</li>
+<li>Estado de realização do Evento: Rio de Janeiro</li>
+<li>Valor Inscrição: R$ 50,00</li>
+<li>Período de Inscrição: <a href="http://www.frontinrio.com.br/#tickets">até 14/06/2013</a></li>
+</ul>
+
+
+<h5>Evento: <a href="http://2013.jsconfbr.org/">JSConfBr</a></h5>
+
+<ul>
+<li>Data do Evento: 22 de junho</li>
+<li>Tecnologia/Tema: Java Script</li>
+<li>Estado de realização do Evento: Ceará</li>
+<li>Valor Inscrição: R$ 300,00 preço único divulgado na página de inscrições até o dia em que o post foi escrito</li>
+<li>Período de Inscrição: <a href="http://2013.jsconfbr.org/#register">11/04/2013 &ndash; prazo final não divulgado na página de inscrições até o dia em que o post foi escrito</a></li>
+</ul>
+
+
+<h5>Evento: <a href="http://www.bhack.com.br/#SLACKSHOW">BHack Conference 2013</a></h5>
+
+<ul>
+<li>Data do Evento: 22 e 23 de junho</li>
+<li>Tecnologia/Tema: Segurança de Informação, Linux Slackware.</li>
+<li>Estado de realização do Evento: Minas Gerais</li>
+<li>Valor Inscrição: <a href="http://toalhatech.com/blog/2013/06/08/bhack-conference-2013/">R$ 64,80 e R$ 108,00</a></li>
+<li>Período de Inscrição: <a href="http://www.bhack.com.br/#works">11/04/2013 &ndash; prazo final não divulgado na página de inscrições até o dia em que o post foi escrito</a></li>
+</ul>
+
+
+<h5>Evento: <a href="http://www.agilebrazil.com/2013/pt/">Agile Brazil 2013</a></h5>
+
+<ul>
+<li>Data do Evento: 26 até 28 de junho</li>
+<li>Tecnologia/Tema: Agile</li>
+<li>Estado de realização do Evento: Brasília</li>
+<li>Valor Inscrição: R$ 250,00 a R$ 599,00 antecipado. Clausula <em>Por empenho</em> descrita na página de inscrição &ndash; para ela, a inscrição custava R$ 799,00</li>
+<li>Período de Inscrição: <a href="http://www.agilebrazil.com/2013/pt/inscricao/">11/04/2013 &ndash; 17/06/2013 antecipado. Clausula <em>Por empenho</em> descrita na página de inscrição &ndash; para ela a inscrição é até o dia do evento</a></li>
+</ul>
+
+
+<h3>Julho</h3>
+
+<h5>Evento: <a href="http://softwarelivre.org/fisl14">FISL14 2013</a></h5>
+
+<ul>
+<li>Data do Evento: 3 até 6 julho</li>
+<li>Tecnologia/Tema: Diversas</li>
+<li>Estado de realização do Evento: Rio Grande do Sul</li>
+<li>Valor Inscrição: R$ 50,00 a R$ 280,00</li>
+<li>Período de Inscrição: <a href="http://fisl.org.br/14/greve/">até o dia do evento</a></li>
+</ul>
+
+
+<h5>Evento: <a href="http://www.thedevelopersconference.com.br/tdc/2013/data-e-local#saopaulo">TDC São Paulo 2013</a></h5>
+
+<ul>
+<li>Data do Evento: 10 até 14 julho</li>
+<li>Tecnologia/Tema: Diversas</li>
+<li>Estado de realização do Evento: São Paulo</li>
+<li>Valor Inscrição: R$ 70,00 a R$ 110,00</li>
+<li>Período de Inscrição: <a href="http://www.thedevelopersconference.com.br/tdc/2013/inscricoes#saopaulo">até o dia do evento</a></li>
+</ul>
+
+
+<h5>Evento: <a href="http://jugoncalves.github.io/fif2013/">FrontinFortaleza 2013</a></h5>
+
+<ul>
+<li>Data do Evento: 20 de julho</li>
+<li>Tecnologia/Tema: Diversas</li>
+<li>Estado de realização do Evento: Ceará</li>
+<li>Valor Inscrição: não divulgado na página do evento até o dia em que o post foi escrito</li>
+<li>Período de Inscrição: <a href="http://jugoncalves.github.io/fif2013/">prazo final não divulgado na página de inscrições até o dia em que o post foi escrito</a></li>
+</ul>
+
+
+<h5>Evento: <a href="http://www.webday.com.br/">Web Day 2013</a></h5>
+
+<ul>
+<li>Data do Evento: 20 de julho</li>
+<li>Tecnologia/Tema: Diversas</li>
+<li>Estado de realização do Evento: São Paulo</li>
+<li>Valor Inscrição: <a href="http://toalhatech.com/blog/2013/06/08/web-day-2013/">R$ 40,00</a></li>
+<li>Período de Inscrição: <a href="http://jugoncalves.github.io/fif2013/">prazo final não divulgado na página de inscrições até o dia em que o post foi escrito</a></li>
+</ul>
+
+
+<h5>Evento: <a href="http://www.frontinbahia.com.br/">FrontinBahia 2013</a></h5>
+
+<ul>
+<li>Data do Evento: 27 de julho</li>
+<li>Tecnologia/Tema: Diversas</li>
+<li>Estado de realização do Evento: Bahia</li>
+<li>Valor Inscrição: não divulgado na página do evento até o dia em que o post foi escrito</li>
+<li>Período de Inscrição: <a href="https://adobeformscentral.com/?f=uVj67iB49tkqNOHnRMlbxQ">prazo final não divulgado na página de inscrições até o dia em que o post foi escrito</a></li>
+</ul>
+
+
+<h3>Agosto</h3>
+
+<h5>Evento: <a href="http://dnad.azurewebsites.net/">DNAD 2013</a></h5>
+
+<ul>
+<li>Data do Evento: 2 e 3 de agosto</li>
+<li>Tecnologia/Tema: Arquitetura</li>
+<li>Estado de realização do Evento: Rio de Janeiro</li>
+<li>Valor Inscrição: R$ 150,00 para as inscrições feitas até o dia 08/06/2013 e R$ 200,00 o 2º lote a partir do dia 09/06/2013</li>
+<li>Período de Inscrição: <a href="http://dnad.azurewebsites.net/#inscricoes">prazo final não divulgado na página de inscrições até o dia em que o post foi escrito</a></li>
+</ul>
+
+
+<h5>Evento: <a href="http://frontinbh.com.br/">FrontinBH 2013</a></h5>
+
+<ul>
+<li>Data do Evento: 3 de agosto</li>
+<li>Tecnologia/Tema: Diversas</li>
+<li>Estado de realização do Evento: Minas Gerais</li>
+<li>Valor Inscrição: R$ 60,00 para as inscrições feitas até o dia 03/07/2013</li>
+<li>Período de Inscrição: <a href="http://frontinbh.com.br/#ticktes">03/07/2013 segundo o que foi divulgado na página de inscrições até o dia em que o post foi escrito</a></li>
+</ul>
+
+
+<h5>Evento: <a href="http://www.caipiraagil.com/">Caipira Ágil 2013</a></h5>
+
+<ul>
+<li>Data do Evento: 17 de agosto</li>
+<li>Tecnologia/Tema: Agile</li>
+<li>Estado de realização do Evento: São Paulo</li>
+<li>Valor Inscrição: R$ 33,00 para as inscrições feitas até o dia 01/08/2013 &ndash; 1º lote.</li>
+<li>Período de Inscrição: <a href="http://www.eventick.com.br/caipiraagil">01/08/2013 termina o 1º lote de ingressos</a></li>
+</ul>
+
+
+<h5>Evento: <a href="http://braziljs.com.br/">BrazilJS 2013</a></h5>
+
+<ul>
+<li>Data do Evento: 22 e 33 de agosto</li>
+<li>Tecnologia/Tema: Java Script</li>
+<li>Estado de realização do Evento: Rio Grande do Sul</li>
+<li>Valor Inscrição: R$ 170,00 para as inscrições feitas até o dia 07/06/2013. Valores posteriores para inscrições após esta data não divulgados na página de inscrições até o dia em que o post foi escrito</li>
+<li>Período de Inscrição: <a href="http://www.eventick.com.br/braziljs-2013">prazo final não divulgado na página de inscrições até o dia em que o post foi escrito</a></li>
+</ul>
+
+
+<h5>Evento: <a href="http://qconsp.com/">QCONSP 2013</a></h5>
+
+<ul>
+<li>Data do Evento: Tutoriais &ndash; 29 de agosto. Conferência &ndash; 30 e 31 de agosto</li>
+<li>Tecnologia/Tema: Diversas</li>
+<li>Estado de realização do Evento: São Paulo</li>
+<li>Valor Inscrição: Tutoriais e Conferência &ndash; R$ 749,00 à R$ 1099,00. Conferência &ndash; R$ 549,00 à 899</li>
+<li>Período de Inscrição: <a href="http://qconsp.com/register.html">até o dia do evento</a></li>
+</ul>
+
+
+<h5>Evento: RubyConfBr 2013</h5>
+
+<ul>
+<li>Data do Evento: 29 e 30 de agosto</li>
+<li>Tecnologia/Tema: Ruby</li>
+<li>Estado de realização do Evento: São Paulo</li>
+<li>Valor Inscrição: com desconto R$ 250,00 &ndash; até dia 8 de julho a ser realizado no <a href="https://www.facebook.com/locaweb/app_156218351098324">seguinte link</a> a R$ 350,00</li>
+<li>Período de Inscrição: 24 de junho &ndash; <a href="http://www.rubyconf.com.br/pt-BR/home">não divulgado o prazo final de inscrições até o dia da atualização deste post</a></li>
+</ul>
+
+
+<h5>Evento: <a href="http://www.frontinaracaju.com.br/">FrontinAracaju 2013</a></h5>
+
+<ul>
+<li>Data do Evento: 31 de agosto</li>
+<li>Tecnologia/Tema: Diversas</li>
+<li>Estado de realização do Evento: Sergipe</li>
+<li>Valor Inscrição: não divulgado na página do evento até o dia em que o post foi escrito</li>
+<li>Período de Inscrição: <a href="http://www.frontinaracaju.com.br/">não divulgado na página do evento até o dia em que o post foi escrito</a></li>
+</ul>
+
+
+<h5>Evento: <a href="http://www.sqlsaturday.com/245/eventhome.aspx">SQL Saturday RIO 2013</a></h5>
+
+<ul>
+<li>Data do Evento: 31 de agosto</li>
+<li>Tecnologia/Tema: SQL, SQL Server</li>
+<li>Estado de realização do Evento: Rio de Janeiro</li>
+<li>Valor Inscrição: <a href="http://toalhatech.com/blog/2013/06/08/sql-saturday-rio-2a-edicao/">Gratuito</a></li>
+<li>Período de Inscrição: <a href="http://www.sqlsaturday.com/245/eventhome.aspx">não divulgado na página do evento até o dia em que o post foi escrito</a></li>
+</ul>
+
+
+<h3>Setembro</h3>
+
+<h5>Evento: <a href="http://www.frontinsampa.com.br/">FrontInSP</a></h5>
+
+<ul>
+<li>Data do Evento: 14 de setembro</li>
+<li>Tecnologia/Tema: Diversas</li>
+<li>Estado de realização do Evento: São Paulo</li>
+<li>Valor Inscrição: R$ 200,00 &ndash; preço do 2º lote de ingressos.</li>
+<li>Período de Inscrição: <a href="http://www.eventick.com.br/frontinsampa2013">até 31/07/2013</a></li>
+</ul>
+
+
+<h5>Evento: <a href="http://www.testday.com.br/">TestDay</a></h5>
+
+<ul>
+<li>Data do Evento: 21 de setembro</li>
+<li>Tecnologia/Tema: Teste</li>
+<li>Estado de realização do Evento: São Paulo</li>
+<li>Valor Inscrição: R$ 40,00</li>
+<li>Período de Inscrição: <a href="https://www.ingresse.com.br/testday">prazo final não divulgado na página de inscrições até o dia em que o post foi escrito</a></li>
+</ul>
+
+
+<h3>Outubro</h3>
+
+<h5>Evento: <a href="http://2013.pythonbrasil.org.br/">python-brasil 2013</a></h5>
+
+<ul>
+<li>Data do Evento: 2 até 4 de outubro</li>
+<li>Tecnologia/Tema: Python</li>
+<li>Estado de realização do Evento: Brasília</li>
+<li>Valor Inscrição: não divulgado na página do evento até o dia em que o post foi escrito</li>
+<li>Período de Inscrição: <a href="http://2013.pythonbrasil.org.br/inscricoes">não divulgado na página do evento até o dia em que o post foi escrito</a></li>
+</ul>
+
+
+<h5>Evento: <a href="http://www.agiletrendsbr.com/">AgileTrends 2013</a></h5>
+
+<ul>
+<li>Data do Evento: 4 e 5 de outubro</li>
+<li>Tecnologia/Tema: Agile e tendências de desenvolvimento de software</li>
+<li>Estado de realização do Evento: São Paulo</li>
+<li>Valor Inscrição: não divulgado na página do evento até o dia em que o post foi escrito</li>
+<li>Período de Inscrição: <a href="http://agiletrendsbr.com/2013/inscricoes/">não divulgado na página do evento até o dia em que o post foi escrito</a></li>
+</ul>
+
+
+<h5>Evento: <a href="http://hackdesignconf.com.br/">Hack &amp; Design Conference 2013</a></h5>
+
+<ul>
+<li>Data do Evento: 5 de outubro</li>
+<li>Tecnologia/Tema: Diversos</li>
+<li>Estado de realização do Evento: Rio de Janeiro</li>
+<li>Valor Inscrição: R$ 130,00 (Lote 0, destinado a participantes do DevDay 2012) a R$ 200,00</li>
+<li>Período de Inscrição: <a href="http://www.eventick.com.br/hdc">até o dia 04/10/2013</a></li>
+</ul>
+
+
+<h5>Evento: <a href="http://devday.devisland.com/">DevDay 2013</a></h5>
+
+<ul>
+<li>Data do Evento: 19 de outubro</li>
+<li>Tecnologia/Tema: Diversos</li>
+<li>Estado de realização do Evento: Minas Gerais</li>
+<li>Valor Inscrição: R$ 40,00 (Lote 0, destinado a participantes do DevDay 2012) a R$ 90,00</li>
+<li>Período de Inscrição: <a href="http://devday.devisland.com/">até o dia do evento</a></li>
+</ul>
+
+
+<h5>Evento: <a href="http://www.thedevelopersconference.com.br/tdc/2013/data-e-local#portoalegre">TDC Porto Alegre 2013</a></h5>
+
+<ul>
+<li>Data do Evento: 25 e 26 de outubro</li>
+<li>Tecnologia/Tema: Diversas</li>
+<li>Estado de realização do Evento: Porto Alegre</li>
+<li>Valor Inscrição: R$ 70,00 a R$ 110,00</li>
+<li>Período de Inscrição: <a href="http://www.thedevelopersconference.com.br/tdc/2013/inscricoes#portoalegre">até dia 16/08/2013 &ndash; R$ 70,00 até o dia do evento</a></li>
+</ul>
+
+
+<h5>Evento: <a href="http://rioagile.com.br/agile-in-rio.html">AgileinRio 2013</a></h5>
+
+<ul>
+<li>Data do Evento: 26 e 27 de outubro</li>
+<li>Tecnologia/Tema: Agile</li>
+<li>Estado de realização do Evento: Rio de Janeiro</li>
+<li>Valor Inscrição: R$ 150,00 a R$ 250,00</li>
+<li>Período de Inscrição: <a href="http://agileinrio.eventbrite.com/">até o dia do evento</a></li>
+</ul>
+
+
+<h3>Novembro</h3>
+
+<h5>Evento: <a href="http://www.phpconference.com.br/">PHP Conference Brasil 2013</a></h5>
+
+<ul>
+<li>Data do Evento: 28 de novembro até 01 de dezembro</li>
+<li>Tecnologia/Tema: PHP</li>
+<li>Estado de realização do Evento: São Paulo</li>
+<li>Valor Inscrição: não divulgado na página do evento até o dia em que o post foi escrito</li>
+<li>Período de Inscrição: <a href="http://www.phpconference.com.br/">não divulgado na página do evento até o dia em que o post foi escrito</a></li>
+</ul>
+
+
+<h5>Evento: <a href="http://www.thedevelopersconference.com.br/tdc/2013/index.html#recife">TDC Recife 2013</a></h5>
+
+<ul>
+<li>Data do Evento: 8 e 9 de novembro</li>
+<li>Tecnologia/Tema: Diversas</li>
+<li>Estado de realização do Evento: Pernambuco</li>
+<li>Valor Inscrição: R$ 70,00 a R$ 110,00</li>
+<li>Período de Inscrição: <a href="http://www.thedevelopersconference.com.br/">não divulgado na página do evento até o dia em que o post foi atualizado</a></li>
+</ul>
+
+
+<h5>Evento: <a href="http://rupy.com.br/">Rupy Brasil 2013</a></h5>
+
+<ul>
+<li>Data do Evento: 28 e 29 de novembro</li>
+<li>Tecnologia/Tema: Ruby e Python</li>
+<li>Estado de realização do Evento: São Paulo</li>
+<li>Valor Inscrição: não divulgado na página do evento até o dia em que o post foi atualizado</li>
+<li>Período de Inscrição: <a href="http://designa.us2.list-manage.com/subscribe?u=90c0f8998e92920b5635111bb&amp;id=9da17ec714">não divulgado na página do evento até o dia em que o post foi atualizado. Pré inscrições já disponíveis</a></li>
+</ul>
+
+
+<h3>Dezembro</h3>
+
+<h5>Evento: <a href="http://www.oracle.com/javaone/lad-pt/index.html">JavaOne América Latina 2013</a></h5>
+
+<ul>
+<li>Data do Evento: 10 de dezembro até 12 de dezembro</li>
+<li>Tecnologia/Tema: Java</li>
+<li>Estado de realização do Evento: Não divulgado na página do evento até o dia em que o post foi atualizado. Possibilidades de que seja em São Paulo.</li>
+<li>Valor Inscrição: não divulgado na página do evento até o dia em que o post foi escrito</li>
+<li>Período de Inscrição: <a href="http://www.oracle.com/javaone/lad-pt/index.html">não divulgado na página do evento até o dia em que o post foi escrito</a></li>
+</ul>
+
+
+<p>Favorite este post e não se esqueça de se inscrever e participar desses momentos importantes para o desenvolvimento de software do Brasil. Os eventos descritos que não possuem valor e período de inscrição serão atualizados assim que as informações forem divulgadas pelos organizadores dos eventos.</p>
+
+<p>Até a próxima o/.</p>
+]]></content>
+  </entry>
+  
+</feed>

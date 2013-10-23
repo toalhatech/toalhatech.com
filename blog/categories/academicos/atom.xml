@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: academicos | ToalhaTech]]></title>
+  <link href="http://toalhatech.com/blog/categories/academicos/atom.xml" rel="self"/>
+  <link href="http://toalhatech.com/"/>
+  <updated>2013-10-23T21:18:39-02:00</updated>
+  <id>http://toalhatech.com/</id>
+  <author>
+    <name><![CDATA[Equipe ToalhaTech]]></name>
+    <email><![CDATA[contato@toalhatech.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[CBSoft 2013 - Congresso Brasileiro de Software]]></title>
+    <link href="http://toalhatech.com/blog/2013/10/09/cbsoft-2013-congresso-brasileiro-de-software/"/>
+    <updated>2013-10-09T21:04:00-03:00</updated>
+    <id>http://toalhatech.com/blog/2013/10/09/cbsoft-2013-congresso-brasileiro-de-software</id>
+    <content type="html"><![CDATA[<p>Esse ano tive o prazer de participar novamente do <a href="http://cbsoft2013.unb.br/">CBSoft &ndash; Congresso Brasileiro de Software</a>. A edição 2013 foi realizada em Brasília, por coincidência no mesmo centro de convenções onde também estava rolando o Python Brasil.</p>
+
+<p>A <a href="http://cbsoft2013.unb.br/">CBSoft</a> surgiu em 2010, a partir da união de quatro tradicionais eventos promovidos pela Sociedade Brasileira de Computação:<!-- more --></p>
+
+<ul>
+<li>SBES &ndash; Simpósio Brasileiro de Engenharia de Software</li>
+<li>SBBD &ndash; Simpósio Brasileiro de Banco de Dados</li>
+<li>SBLP &ndash; Simpósio Brasileiro de Linguagens de Programação</li>
+<li>SBCARS &ndash; Simpósio Brasileiro de Componentes, Arquiteturas e Reutilização de Software</li>
+</ul>
+
+
+<p>Os anais de todos os 4 eventos, contendo todos os artigos apresentados, foram <a href="http://cbsoft2013.unb.br/anais">disponibilizados para download</a>. Um dos artigos de que mais gostei, embora não tenha lido todos, é o <em>The Impact of Scrum on Customer Satisfaction: An Empirical Study</em>, da galera da UFPE e do CESAR, em Recife. Trata-se de um estudo empírico que avalia até que ponto o uso de Scrum como método de desenvolvimento está relacionado a satisfação do cliente. Por sinal, estudos empíricos como este representam justamente o aspecto de que mais gosto em artigos acadêmicos: nada pode ser afirmado sem que procedimentos bem definidos (estatísticos e matemáticos, por exemplo) comprovem a validade da afirmação. Em outras palavras, não há &ldquo;achismo&rdquo;. Este artigo, por sinal, ganhou o 2nd Best Paper Award do SBES. O primeiro lugar ficou com o <em>On the Influence of Model Structure and Test Case Profile on the Prioritization of Test Cases in the Context of Model-based Testing</em>.</p>
+
+<p>Nos anais do <a href="http://cbsoft2013.unb.br/sblp">SBLP</a> também há vários artigos interessantes. Estão na minha lista de leitura os artigos <em>Exception Handling for Error Reporting in Parsing Expression Grammars</em>, <em>On the Performance of Multidimensional Array Representations in Programming Languages Based on Virtual Execution Machines</em>, e <em>Zipper-Based Attribute Grammars and Their Extensions</em>. Confiram!</p>
+]]></content>
+  </entry>
+  
+</feed>

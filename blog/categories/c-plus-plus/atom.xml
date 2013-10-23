@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: C++, | ToalhaTech]]></title>
+  <link href="http://toalhatech.com/blog/categories/c-plus-plus/atom.xml" rel="self"/>
+  <link href="http://toalhatech.com/"/>
+  <updated>2013-10-23T21:18:39-02:00</updated>
+  <id>http://toalhatech.com/</id>
+  <author>
+    <name><![CDATA[Equipe ToalhaTech]]></name>
+    <email><![CDATA[contato@toalhatech.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[10° Encontro de Programadores C/C++]]></title>
+    <link href="http://toalhatech.com/blog/2013/05/17/10-degrees-encontro-programadores-c-c-plus-plus/"/>
+    <updated>2013-05-17T08:38:00-03:00</updated>
+    <id>http://toalhatech.com/blog/2013/05/17/10-degrees-encontro-programadores-c-c-plus-plus</id>
+    <content type="html"><![CDATA[<p>O Grupo de Usuários de C e C++ do Brasil tem o prazer de convidar a comunidade a participar do 10° Encontro de Programadores de C &amp; C++ que será realizado no Rio de Janeiro em <strong>25 de Maio de 2013</strong>.
+O Evento ocorrerá no auditório <em>RAV62 do Instituto de Matemática e Estatística da UERJ</em> <a href="http://www.uerj.br/como_chegar.php">(mapa)</a>, localizado no sexto andar do edifício principal (João Lira Filho), bloco F.</p>
+
+<!-- more -->
+
+
+<p>Os Encontros de Programadores de C &amp; C++ tem o formato de workshop ou reunião técnica, e pretendem reunir profissionais, acadêmicos e hobbyistas para troca de experiências e ideias.</p>
+
+<p>Mais informações:<a href="http://www.ccppbrasil.org/wiki/Grupo:Encontro_X">http://www.ccppbrasil.org/wiki/Grupo:Encontro_X</a></p>
+
+<p>O evento é gratuito.</p>
+
+<p>Esperamos vocês.</p>
+]]></content>
+  </entry>
+  
+</feed>

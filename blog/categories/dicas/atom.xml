@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: dicas, | ToalhaTech]]></title>
+  <link href="http://toalhatech.com/blog/categories/dicas/atom.xml" rel="self"/>
+  <link href="http://toalhatech.com/"/>
+  <updated>2013-10-23T21:18:39-02:00</updated>
+  <id>http://toalhatech.com/</id>
+  <author>
+    <name><![CDATA[Equipe ToalhaTech]]></name>
+    <email><![CDATA[contato@toalhatech.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Passos básicos para realizar um evento]]></title>
+    <link href="http://toalhatech.com/blog/2013/08/11/passos-basicos-para-realizar-um-evento/"/>
+    <updated>2013-08-11T17:18:00-03:00</updated>
+    <id>http://toalhatech.com/blog/2013/08/11/passos-basicos-para-realizar-um-evento</id>
+    <content type="html"><![CDATA[<p>Olá, pessoal. Tudo bem?</p>
+
+<p>Este post não é muito o que costumo escrever, mas espero que possa ajudar pessoas a tirarem dúvidas e se animarem a promover o encontro/evento de suas comunidades locais (e se fizerem, avisem para nós. Teremos o maior prazer de anunciar ^_^). O texto é baseado numa conversa que tive com a Anna Cruz sobre os passos básicos que aprendemos ao<!-- more --> longo das experiências que tivemos para organizar e participar de eventos:</p>
+
+<p>1) Listar nomes de pessoas indicadas para organizar o evento e apresentar entre sí os integrantes do grupo. Se for possível, reuniões presenciais ajudam bastante.</p>
+
+<p>2) Estimativa de local + valores de coffee break (caso o evento/encontro precise disso). Essa estimativa ajudará a decidir os valores do evento e é bom para definir com o quanto os patrocinadores poderão contribuir, caso eles deem a opção de você escolher o valor do patrocínio.</p>
+
+<p>3) Definir data. Definir ou pelo menos estimar as datas do evento. As estimativas e as possíveis datas ajudam bastante para fazer a proposta para os patrocinadores.</p>
+
+<p>4) Com esses dados, procurar patrocínio. Não se acanhe em procurar patrocínio só na sua cidade/estado. Existem empresas maneiras que ajudam comunidades pequenas, elas só precisam saber que vocês precisam dela :). Essas empresas devem ser valorizadas.</p>
+
+<p>5) Abrir chamada para palestrantes enviarem suas palestras. Algo que seria muito legal é o palestrante enviar um paper com o conteúdo da sua palestra e no final do evento, ter a publicação de todos os papers. É uma pratica acadêmica comum, porém acredito que seria legal trazer isso para eventos do mercado/industria, que são mais informais.</p>
+
+<p>6) Definir e publicar a grade da programação do evento. Isso ajuda na decisão dos participantes de se inscreverem ou não. Já vi várias pessoas não se inscreverem na primeira parte do período de inscrição, que geralmente é mais barato por falta de definição de grade e depois que o preço foi reajustado, o valor ficou alto demais e eles não foram ao evento. É muito triste quando isso acontece.</p>
+
+<p>7) Abrir as inscrições para os participantes.</p>
+
+<p>8) Organizar infraestrutura necessária e principalmente wi-fi funcionando para o evento, que é uma das maiores reclamações de todos os eventos que falham nesse quesito. Café/água liberados também é ítem de infraestrurura e deve ser tratado como tal.</p>
+
+<p>É claro que tem muito mais que isso, porém isso é o script básico a ser seguido.</p>
+
+<p>Participar de eventos ou encontros são realmente importantes para profissionais, principalmente para pessoas de TI. Conheci pessoas muito legais como o <a href="https://github.com/wilsonrf">Wilson França</a>, <a href="http://www.packtpub.com/authors/profiles/roberto-moutinho">Roberto Moutinho</a> que me ensinaram <a href="http://grails.org/">Grails</a>. A <a href="https://twitter.com/desisant">Desiree Santos</a> e a <a href="https://twitter.com/yuizinha">Anna Cruz</a> &ndash; que me apresentaram à propostas maravilhosas voltadas para mulheres como o Rails Girls e o rodAda Hacker. As meninas que fazem parte do time do blog (<a href="https://twitter.com/yuizinha">Anna</a>, <a href="https://twitter.com/samantacicilia">Samanta</a> e <a href="https://twitter.com/rla4">Roberta</a>) e as colaboradoras (<a href="https://twitter.com/vivocah">Vivi</a>, <a href="https://twitter.com/valparajara">Val</a> e <a href="https://twitter.com/renata_carreira">Renata</a>), conheci todas através de eventos ou encontros, por isso posso dizer que aproveitem encontros e eventos, seja voluntário e repasse conhecimento ou simplesmente ajudem, pois faz diferença tanto na vida profissional quanto para conhecer amigos.</p>
+
+<p>Até a próxima o/</p>
+]]></content>
+  </entry>
+  
+</feed>

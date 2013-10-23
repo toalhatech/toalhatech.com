@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Skackware, | ToalhaTech]]></title>
+  <link href="http://toalhatech.com/blog/categories/skackware/atom.xml" rel="self"/>
+  <link href="http://toalhatech.com/"/>
+  <updated>2013-10-23T21:18:39-02:00</updated>
+  <id>http://toalhatech.com/</id>
+  <author>
+    <name><![CDATA[Equipe ToalhaTech]]></name>
+    <email><![CDATA[contato@toalhatech.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[BHack Conference 2013]]></title>
+    <link href="http://toalhatech.com/blog/2013/06/08/bhack-conference-2013/"/>
+    <updated>2013-06-08T19:52:00-03:00</updated>
+    <id>http://toalhatech.com/blog/2013/06/08/bhack-conference-2013</id>
+    <content type="html"><![CDATA[<p>A dica deste evento foi da <a href="https://twitter.com/vivocah">Vivi Sousa</a>. Ela mandou um email perguntando se o ToalhaTech só falaria sobre eventos no RJ. A resposta para esta pergunta é: Nós publicamos e queremos publicar eventos do Brasil inteiro :).</p>
+
+<p>Segundo a descrição encontrada no site, o BHack Conference 2013 é:</p>
+
+<p><em>&ldquo;Evento voltado à Segurança da Informação</em><!-- more --><em> (SI). Trazendo a cena mineira a possibilidade de espaço para disseminação de informação atualizada e de qualidade sobre temas essenciais, contando com um seleto grupo de palestrantes renomados e com profundo conhecimento em sua área de atuação. Além disso o evento será anfitrião do primeiro capítulo da Owasp Uai Day e da segunda edição do Slackware Show na capital mineira, evento este que ocorre nacionalmente desde 2005.
+BHack, como o nome já tenta mencionar, ACK é um sinal que um dispositivo de rede envia a outro para confirmar que recebeu corretamente a mensagem, o propósito do evento é transmitir informação de qualidade, gerar conhecimento e integrar dois públicos que, apesar de distintos, devem ser parceiros no dia a dia: técnicos e gestores de SI.
+No intuito de promover a referida integração, neste ano serão dois dias de evento, com palestras intercaladas entre gerenciais e técnicas na Track 1 e Track 2, além de atividades extras sendo realizadas durante todo o evento.&rdquo;</em></p>
+
+<p>Essas informações são vistas logo no início do site <a href="http://www.bhack.com.br/#SLACKSHOW">http://www.bhack.com.br/#SLACKSHOW</a>.</p>
+
+<p>Será um &ldquo;evento de 3 eventos&rdquo;, o BHack, o OWASP Uai Day e o SlackShow. O Uai Day voltado para segurança de aplicações e o SlackShow é o evento anual sobre o linux skackware.</p>
+
+<p>Para quem gostou, as inscrições ainda estão abertas. Existem 2 formas de se inscrever:  <br/>
+*   Master, que dá direito aos 3 eventos (BHack + Owasp UaiDay + SlackShow), por R$ 108,00<br/>
+*   Comum, que dá direito somente aos eventos (Owasp UaiDay + SlackShow), por R$ 64,80.</p>
+
+<p>O evento será nos dias 22 e 23 de junho de 2013, em Belo Horizonte/Minas Gerais, na FACULDADE FUMEC</p>
+
+<p>Com vários palestrantes e muito conteúdo, ainda dá tempo de se <a href="http://www.bhack.com.br/#works">inscrever e participar</a> :).</p>
+
+<p>Até a próxima o/</p>
+]]></content>
+  </entry>
+  
+</feed>

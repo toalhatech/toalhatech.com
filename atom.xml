@@ -1,0 +1,967 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[ToalhaTech]]></title>
+  <link href="http://toalhatech.com/atom.xml" rel="self"/>
+  <link href="http://toalhatech.com/"/>
+  <updated>2013-10-23T21:18:39-02:00</updated>
+  <id>http://toalhatech.com/</id>
+  <author>
+    <name><![CDATA[Equipe ToalhaTech]]></name>
+    <email><![CDATA[contato@toalhatech.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hack &amp; Design Conference, aka HDC'13]]></title>
+    <link href="http://toalhatech.com/blog/2013/10/12/hack-and-design-conference-aka-hdc-13/"/>
+    <updated>2013-10-12T17:38:00-03:00</updated>
+    <id>http://toalhatech.com/blog/2013/10/12/hack-and-design-conference-aka-hdc-13</id>
+    <content type="html"><![CDATA[<p>No dia 05 de outubro rolou o <a href="http://hackdesignconf.com.br/">HDC’13</a>, um evento que reuniu a comunidade de hacking e codificação com a de design. O resultado? Deu muito certo! Uma grande variedade de palestras e temas sobre essas duas áreas que se complementam. Foi um dia inteiro de aprendizado e descobertas.</p>
+
+<p>Infelizmente perdi as duas primeiras palestras. A primeira foi do Sylvestre Mergulhão e Rafael Lima dando dicas de<!-- more --> como crescer e ganhar mais trabalhando com o que gosta. A segunda foi do Victor Montalvão convidando os designers e desenvolvedores a refletir se o que eles tem feito está realmente baseado nas vontades do usuário, afinal de contas, é ele quem manda. =)</p>
+
+<p>O Emilio Cini Simoni apresentou uma palestra #hardcore falando do mundo dos bankers (segurança é uma área que tem me encantado muito ultimamente). Como são formadas as quadrilhas? Sistemas de fraude, mercado negro, como essa galera se comunica e como se proteger desses ataques. Foi uma ótima palestra!</p>
+
+<p>A Flavia Fortes e o Mauro George contaram um pouquinho como é o dia na HE:labs mostrando a importância de ter o cliente sempre por perto e envolvido nas atividades do time.</p>
+
+<p>As palestras do Lula Rocha (Metapix &ndash; Soluções e desafios na construção de um site de cursos e tutoriais online) e Alexandre Benitah (Como gerar uma melhor experiência de uso? Entenda as necessidades do usuário!) tiveram um foco bem parecido falando da importância de ouvir o usuário e experimentar (através de testes A/B por exemplo) entendendo como o usuário se comporta ao utilizar seu produto e os problemas que ele enfrenta. O Lula contou sua experiência no desenvolvimento do site <a href="http://metapix.com.br/">Metapix</a>, que oferece um serviço de cursos e tutoriais online sobre ferramentas de design gráfico e manipulação de imagens, desde a concepção da ideia até as futuras evoluções. Já o Benitah contou algumas técnicas utilizadas para melhorar a experiência do usuário no <a href="http://estoujogando.com.br/">Estou Jogando</a>, uma rede social para gamers brasileiros.</p>
+
+<p>Para os devs, teve a palestra do Pedro Franceschi falando sobre o editor de texto Vim, contando sua experiência com outros editores e as vantagens de utilizá-lo.</p>
+
+<p>O encerramento do evento foi feito pelo Klaus Wuestefeld, falando sobre a Computação soberana (quem quiser conhecer mais, tem um texto meu no <a href="http://oglobo.globo.com/blogs/tecnologia/posts/2013/02/14/computacao-soberana-sneer-484559.asp">O Globo</a>) e o <a href="http://sneer.me/home.html">Sneer</a>. Quer saber sobre a queda do Google e o fim do Facebook? Então conheça a Computação Soberana! (Ouça também o Grok Podcast sobre o tema: <a href="http://www.grokpodcast.com/2012/06/15/episodio-70-computacao-soberana-parte-1-de-3/">Parte 1</a>, <a href="http://www.grokpodcast.com/2012/06/22/episodio-71-computacao-soberana-parte-2-de-3/">Parte 2</a>, <a href="http://www.grokpodcast.com/2012/07/13/episodio-72-computacao-soberana-parte-3-de-3/">Parte 3</a>)</p>
+
+<p>Até a próxima!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[CBSoft 2013 - Congresso Brasileiro de Software]]></title>
+    <link href="http://toalhatech.com/blog/2013/10/09/cbsoft-2013-congresso-brasileiro-de-software/"/>
+    <updated>2013-10-09T21:04:00-03:00</updated>
+    <id>http://toalhatech.com/blog/2013/10/09/cbsoft-2013-congresso-brasileiro-de-software</id>
+    <content type="html"><![CDATA[<p>Esse ano tive o prazer de participar novamente do <a href="http://cbsoft2013.unb.br/">CBSoft &ndash; Congresso Brasileiro de Software</a>. A edição 2013 foi realizada em Brasília, por coincidência no mesmo centro de convenções onde também estava rolando o Python Brasil.</p>
+
+<p>A <a href="http://cbsoft2013.unb.br/">CBSoft</a> surgiu em 2010, a partir da união de quatro tradicionais eventos promovidos pela Sociedade Brasileira de Computação:<!-- more --></p>
+
+<ul>
+<li>SBES &ndash; Simpósio Brasileiro de Engenharia de Software</li>
+<li>SBBD &ndash; Simpósio Brasileiro de Banco de Dados</li>
+<li>SBLP &ndash; Simpósio Brasileiro de Linguagens de Programação</li>
+<li>SBCARS &ndash; Simpósio Brasileiro de Componentes, Arquiteturas e Reutilização de Software</li>
+</ul>
+
+
+<p>Os anais de todos os 4 eventos, contendo todos os artigos apresentados, foram <a href="http://cbsoft2013.unb.br/anais">disponibilizados para download</a>. Um dos artigos de que mais gostei, embora não tenha lido todos, é o <em>The Impact of Scrum on Customer Satisfaction: An Empirical Study</em>, da galera da UFPE e do CESAR, em Recife. Trata-se de um estudo empírico que avalia até que ponto o uso de Scrum como método de desenvolvimento está relacionado a satisfação do cliente. Por sinal, estudos empíricos como este representam justamente o aspecto de que mais gosto em artigos acadêmicos: nada pode ser afirmado sem que procedimentos bem definidos (estatísticos e matemáticos, por exemplo) comprovem a validade da afirmação. Em outras palavras, não há &ldquo;achismo&rdquo;. Este artigo, por sinal, ganhou o 2nd Best Paper Award do SBES. O primeiro lugar ficou com o <em>On the Influence of Model Structure and Test Case Profile on the Prioritization of Test Cases in the Context of Model-based Testing</em>.</p>
+
+<p>Nos anais do <a href="http://cbsoft2013.unb.br/sblp">SBLP</a> também há vários artigos interessantes. Estão na minha lista de leitura os artigos <em>Exception Handling for Error Reporting in Parsing Expression Grammars</em>, <em>On the Performance of Multidimensional Array Representations in Programming Languages Based on Virtual Execution Machines</em>, e <em>Zipper-Based Attribute Grammars and Their Extensions</em>. Confiram!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[RSOnRails 2013]]></title>
+    <link href="http://toalhatech.com/blog/2013/09/15/rsonrails-2013/"/>
+    <updated>2013-09-15T10:55:00-03:00</updated>
+    <id>http://toalhatech.com/blog/2013/09/15/rsonrails-2013</id>
+    <content type="html"><![CDATA[<p>O mês de outubro terá vários eventos legais. Um dos que vem somar para este mês é o <a href="http://rsonrails.com.br/">RSOnRails</a>, evento que ocorrerá dia 19 de outubro no Rio Grande do Sul.</p>
+
+<p>Neste momento, o evento está na fase de <a href="http://call4paperz.com/events/rs-on-rails-2013">call4papers</a>, e várias pessoas estão submetendo palestras e certamente a proposta de ser &ldquo;O maior evento de Ruby do Sul&rdquo; será alcançada. Aproveite para mandar a sua proposta ou votar :).</p>
+
+<p>As inscrições já estão abertas e podem ser feitas no próprio <a href="http://rsonrails.com.br/">site do evento</a>, custando <!-- more -->R$ 80,00 a inteira e R$ 60,00 para estudantes.</p>
+
+<p>Local do rsonrails: Rio Grande do Sul, Porto Alegre, PUCRS &ndash; Auditório do prédio 32</p>
+
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com.br/maps?ie=UTF8&amp;q=Pontif%C3%ADcia+Universidade+Cat%C3%B3lica+do+Rio+Grande+do+Sul&amp;fb=1&amp;gl=br&amp;hq=Pontif%C3%ADcia+Universidade+Cat%C3%B3lica+do+Rio+Grande+do+Sul&amp;hnear=Pontif%C3%ADcia+Universidade+Cat%C3%B3lica+do+Rio+Grande+do+Sul&amp;cid=0,0,13248223140037344003&amp;t=m&amp;ll=-30.060472,-51.175532&amp;spn=0.006295,0.006295&amp;output=embed"></iframe>
+
+
+<br /><small><a href="https://maps.google.com.br/maps?ie=UTF8&amp;q=Pontif%C3%ADcia+Universidade+Cat%C3%B3lica+do+Rio+Grande+do+Sul&amp;fb=1&amp;gl=br&amp;hq=Pontif%C3%ADcia+Universidade+Cat%C3%B3lica+do+Rio+Grande+do+Sul&amp;hnear=Pontif%C3%ADcia+Universidade+Cat%C3%B3lica+do+Rio+Grande+do+Sul&amp;cid=0,0,13248223140037344003&amp;t=m&amp;ll=-30.060472,-51.175532&amp;spn=0.006295,0.006295&amp;source=embed" style="color:#0000FF;text-align:left">Ver mapa maior</a></small>  
+
+
+<p>Até a próxima o/.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[RubyOnRio de Setembro/2013]]></title>
+    <link href="http://toalhatech.com/blog/2013/09/14/rubyonrio-de-setembro-2013/"/>
+    <updated>2013-09-14T18:17:00-03:00</updated>
+    <id>http://toalhatech.com/blog/2013/09/14/rubyonrio-de-setembro-2013</id>
+    <content type="html"><![CDATA[<p>Olá, pessoal. Tudo bem com vocês?</p>
+
+<p>Como muitos sabem, nos dias 29 e 30 de agosto ocorreu a edição 2013 da RubyConfBr e a comunidade carioca de Ruby está ainda mais animada para se encontrar, falar sobre o evento e sobre a tecnologia. Desta vez, eles resolveram sair um pouco da tradicional formato sala-projetor para algo mais informal: um encontro na starbucks do Centro/RJ.</p>
+
+<p>O encontro rolará dia 28/09 a partir das<!-- more --> 13:00 e é só pedir o seu café favorito, sem inscrições ou formalidades.</p>
+
+<p>Para saber mais sobre o <a href="https://groups.google.com/forum/#!topic/rubyonrio/aMpriXK3kA4">encontro</a> e sobre outros tópicos maneiros sobre ruby que rolam, é só acompanhar a <a href="https://groups.google.com/forum/#!forum/rubyonrio">lista do rubyonrio no google groups</a>, além do twitter o <a href="https://twitter.com/rubyonrio">@rubyonrio</a></p>
+
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com.br/maps?ie=UTF8&amp;q=Starbucks&amp;fb=1&amp;gl=br&amp;hq=starbucks&amp;hnear=0x997f5e0ce71753:0xd182cac657b04b4a,R.+Gon%C3%A7alves+Dias,+Rio+de+Janeiro&amp;cid=0,0,16913246456884119362&amp;t=m&amp;iwloc=A&amp;ll=-22.904907,-43.179008&amp;spn=0.006295,0.006295&amp;output=embed"></iframe>
+
+
+<br /><small><a href="https://maps.google.com.br/maps?ie=UTF8&amp;q=Starbucks&amp;fb=1&amp;gl=br&amp;hq=starbucks&amp;hnear=0x997f5e0ce71753:0xd182cac657b04b4a,R.+Gon%C3%A7alves+Dias,+Rio+de+Janeiro&amp;cid=0,0,16913246456884119362&amp;t=m&amp;iwloc=A&amp;ll=-22.904907,-43.179008&amp;spn=0.006295,0.006295&amp;source=embed" style="color:#0000FF;text-align:left">Ver mapa maior</a></small>
+
+
+<p>Até a próxima o/.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[DNAD 2013 - 2o Dia]]></title>
+    <link href="http://toalhatech.com/blog/2013/09/11/dnad-2013-2o-dia/"/>
+    <updated>2013-09-11T23:14:00-03:00</updated>
+    <id>http://toalhatech.com/blog/2013/09/11/dnad-2013-2o-dia</id>
+    <content type="html"><![CDATA[<p>Depois de um <a href="http://toalhatech.com/blog/2013/08/21/dnad-2013-1o-dia/">1o dia inspirador</a>, o 2o dia do DNAD também estava bem promissor. Infelizmente, entretanto, duas das palestras que eu mais gostaria de ver (sobre Tsuru, da Flavia Missi e Quando Parei de Usar Padrões, do Vinicius Quaiato) foram canceladas por motivos de força maior. Uma pena, tanto pra audiência quanto pros palestrantes. Por causa destes contratempos, a ordem das palestras não seguiu exatamente a programação, e o <a href="http://elemarjr.net/">Elemar Jr</a> abriu a sequência &ndash; mais uma<!-- more --> vez, de forma irrepreensível.</p>
+
+<h4>CQRS aplicado para construção de aplicações de alto desempenho usando Windows Azure</h4>
+
+<p>Nessa palestra o Elemar voltou a suas origens palestrísticas, com um foco mais arquitetural. Especificamente, ele apresentou um case de CQRS, sobre HTTP, com alto grau de processamento, utilizando Windows Azure. A primeira coisa que me surpreendeu nessa palestra foi o uso de cloud pra fazer processamento distribuído: o tipo de coisa que parece meio óbvia depois que você conhece um case assim, mas que eu jamais teria considerado sozinha.  No caso do Elemar, o serviço (que atende pela alcunha de Mooble) tinha por objetivo atender às demandas de 95% (!) do setor moveleiro nacional, com catálogos gigantescos, e necessidades sofisticadas de apresentação destes catálogos (pense em visualizações tridimensionais de objetos &ndash; tanto individualmente quanto num projeto de design de interiores). Por sinal, a renderização tridimensional dos objetos contou com uma &ldquo;pegadinha&rdquo; bem legal: no preview, o 3D é, na verdade, um grande sprite formado por dezenas de imagens, cada uma em um ângulo diferente!</p>
+
+<p>Finalmente, a escolha por CQRS foi muito bem justificada, especialmente quando explicadas as necessidades de comandos (uploads de novos itens, por exemplo) e consultas. Todo processo de upload de um novo item nos catálogos (ou seja, o &lsquo;C&rsquo; do CQRS) envolve atualizar os blobs dos itens binários (preview/modelo 3D, etc), as meta-informações dos objetos (em um banco NoSQL &ndash; MongoDB, se não me engano), e o sistema de indexação (Lucene). Essas operações são enfileiradas e processadas por workers no Windows Azure. As consultas, por sua vez, trafegam como JSON, sobre HTTP, com alta disponibilidade (3Mb/s, pelo que anotei!). Evidentemente, para melhor entender a arquitetura apresentada pelo Elemar, vale conferir sua <a href="http://elemarjr.net/tag/cqrs/">série de posts sobre CQRS</a>.</p>
+
+<h4>Dynamic Language Design for the JVM</h4>
+
+<p>Eu sou particularmente fascinada por linguagens de programação e compiladores. Não por acaso, estava bastante empolgada com a palestra do <a href="http://blog.qmx.me/">Douglas Campos</a> (vulgo <a href="https://twitter.com/qmx">@qmx</a>), prolífico commiter de JRuby, além de desenvolvedor na RedHat. Logo no início, Douglas recomendou um dos meus livros favoritos da época da faculdade &ndash; o querido/temido <a href="http://www.amazon.com/Compilers-Principles-Techniques-Tools-Edition/dp/0321486811">livro do Dragão</a>! Apenas boas coisas podem suceder uma recomendação dessas, e, de fato, a palestra foi um prato cheio pros aficionados por linguagens/compiladores.</p>
+
+<p>O Douglas começou falando um pouco sobre a JVM (&ldquo;uma obra de arte&rdquo;, ele disse). Uma curiosidade interessante, pra quem gosta de números: a JVM é fruto de mais de 10.000 horas de trabalho de top engineers (and counting)! O foco da palestra foram os problemas encontrados (e suas respectivas soluções) durante a implementação de JRuby &ndash; uma implementação completa de Ruby rodando sobre a JVM. A ideia já começa problemática quando consideramos que Ruby é uma linguagem dinâmica e a JVM é estaticamente tipada; de fato, quase que a totalidade dos problemas mostrados pelo Douglas tinham como causa este mismatch. Um dos exemplos que ele mostrou referia-se à tipagem de números: Ruby deixa que o tipo de uma variável mude dinamicamente em caso de overflows aritméticos. Já na JVM, existem diferentes funções aritméticas para os diferentes tipos existentes (<code>iadd</code>, por exemplo, é a função nativa para soma de <em>inteiros</em>. Qual seria a função nativa para soma de <em>objetos</em> que se comportam como inteiros? Rá!).</p>
+
+<p>Uma das coisas que mais me marcaram foi a mensagem de que otimizações são vitais para compiladores de linguagens dinâmicas: quando os tipos mudam em tempo de execução, uma série de otimizações que os compiladores de linguagens estaticamente tipadas fazem são inviáveis. Alguns exemplos são alocação de memória e resolução de métodos virtuais.</p>
+
+<p>Ah, como curiosidade adicional, o Douglas recomendou um site muito divertido pra quem quer construir uma CPU do zero (e assim entender como as coisas funcionam): o <a href="http://www.nand2tetris.org/">NAND2Tetris</a>. Confesso que tenho um pequeno trauma de <a href="http://www.cpdee.ufmg.br/~l.errico/introvhdl.pdf">VHDL (Linguagem de Descrição de Hardware VHSIC)</a> desde a faculdade, mas talvez seja uma boa oportunidade de curá-lo. Não encontrei os slides dessa palestra especificamente, mas o Douglas aprofundou o assunto no QCon SP 2013, <a href="http://soapbox.qmx.me/p/2013/qconsp/hosting-dynlangapps-jvm/#/">e disponibilizou a apresentação</a>.</p>
+
+<p>O Elemar Jr também se animou com a palestra e resolveu mexer com o NAND2Tetris, registrando suas impressões em uma <a href="http://elemarjr.net/?s=NAND2Tetris">série de posts</a>.</p>
+
+<h4>Survey sobre Programação Concorrente com .NET</h4>
+
+<p>Eu estava bastante interessada na palestra do <a href="http://fabiogaluppo.wordpress.com/">Fábio Galuppo</a> &ndash; MVP de C++ há UMA DÉCADA (!) &ndash; mas pra meu azar surgiu um imprevisto e tive que sair correndo do DNAD. Fica como prêmio consolação <a href="https://github.com/fabiogaluppo/samples/tree/master/events/dnad2013/_Parallel">o código fonte</a> mostrado durante a palestra.</p>
+
+<h4>Painel de Programação Funcional</h4>
+
+<p>Quando voltei para o DNAD, o Painel de Programação Funcional &ndash; último do dia &ndash; já estava quase terminando. Compuseram a mesa o Elemar Jr, o Fábio Galuppo, o Pedro Teixeira e o Rodrigo Vidal. Infelizmente não cheguei a tempo de ver o desenvolvimento do tema desde o início (4 visões diferentes do que é programação funcional), mas sim de presenciar uma das melhores explicações de como o paradigma funcional representa o mundo melhor que o imperativo. Numa observação (muito pertinente, por sinal) da audiência, foi dito que &ldquo;o mundo era representado por uma sequência de pequenos passos bem definidos (imperativo)&rdquo;. O Elemar prontamente discordou, e explicou seu ponto de vista a partir de um diálogo que teve com a mãe, tentando (em vão) explicar o que ele fazia no trabalho.</p>
+
+<blockquote><p>- Mãe, pense no procedimento necessário pra limpar um bebê.<br/>
+- Sim, tirar a roupa, lavar e secar.<br/>
+- Bem&hellip; na verdade, você primeiro pega o bebê; depois levanta a camisa; depois tira o short; depois tira a fralda; aí você pega a água e&hellip;<br/>
+- Filho; eu só tiro a roupa, lavo e seco.</p></blockquote>
+
+<p>Eis que &ldquo;tirar a roupa&rdquo;, &ldquo;lavar&rdquo; e &ldquo;secar&rdquo; o bebê são abstrações funcionais do que a mãe do Elemar faz. Taí a explicação funcional do procedimento. E taí a descrição de como o mundo é representado desta forma.</p>
+
+<p>A imagem abaixo ilustra a agenda do painel e exemplifica estas abstrações em F#.</p>
+
+<p><img src="https://pbs.twimg.com/media/BQyDiG0CMAEalJA.jpg:large" alt="Alt agenda do painel: o que é, pra que serve, como aprender, como aprendemos e benefícios" /></p>
+
+<p>De forma geral, o saldo do DNAD2013 foi bem positivo. Na minha opinião, esta edição foi imbatível quanto à qualidade das apresentações, dos palestrantes e até dos brindes (!). A organização do evento também foi bastante competente ao tornar imperceptíveis alguns contratempos que poderiam ter sido desastrosos (como o cancelamento de duas palestras, no mesmo dia). Que venha agora 2014, com o super desafio de superar o DNAD 2013 :)</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Algumas atribuições de componentes de um evento]]></title>
+    <link href="http://toalhatech.com/blog/2013/09/10/algumas-atribuicoes-de-componentes-de-um-evento/"/>
+    <updated>2013-09-10T19:33:00-03:00</updated>
+    <id>http://toalhatech.com/blog/2013/09/10/algumas-atribuicoes-de-componentes-de-um-evento</id>
+    <content type="html"><![CDATA[<p>Há um tempo, foi publicado aqui no Toalhatech um texto sobre <a href="http://toalhatech.com/blog/2013/08/11/passos-basicos-para-realizar-um-evento/">dicas básicas para organizar um evento</a> e este post é indiretamente um complemento do mesmo. Nós gostariamos de falar o que acreditamos ser limites entre evento/organização/palestrantes/patrocinadores.</p>
+
+<p>Em um grande evento no final de agosto/2013, infelizmente ocorreu uma pesada troca de farpas entre palestrantes e representantes de patrocinadores, que teve<!-- more -->  como estopim uma palestra afirmando que algumas tecnologias não funcionavam tão bem quanto as empresas que constroem esses softwares dizem. O que deveria ser somente um slide polêmico causou uma confusão muito triste e com acusações de que ano que vem algumas empresas não patrocinariam o evento, pois gostaria que o evento tivesse mais critério na hora de escolher quem palestrará ou não.</p>
+
+<p>É nesse ponto que queremos focar.</p>
+
+<p>Não é nosso objetivo dizer qual lado está certo ou errado. O que gostaríamos de deixar bem claro é separação de responsabilidades. O evento se propõe a ser um espaço livre onde pessoas expõem conteúdo/ideias/conhecimento. A responsabilidade dos organizadores dos eventos é escolher palestras da melhor qualidade possível e prover um espaço livre, com infra estrutura para as pessoas trocarem conteúdo/ideias/conhecimento. Infraestrutura pode ser entendido como café, água, wifi, local para pessoas conversarem sem atrapalhar as palestras, tomadas, locais para as pessoas sentarem, etc.</p>
+
+<p>Não é da responsabilidade da organização do evento controlar o que palestrante falará. A organização escolhe as palestras de acordo com o tema proposto e até onde saibamos, ninguém tem que mandar os slides e o texto para ser pré aprovado.</p>
+
+<p>Não é culpa do evento se algum palestrante/patrocinador briga com outro palestrante/patrocinador, ainda mais se for fora do local ou horário do evento.</p>
+
+<p>Se querem ter um evento somente falando de pontos positivos de uma tecnologia, seria melhor tentar isso em um evento corporativo e não em um evento livre, com a participação de várias comunidades diferentes.</p>
+
+<p>As palestras, principalmente de evento multidisciplinar, deveriam representar o melhor da visão de cada comunidade tecnológica &ndash; e opiniões contrárias são comuns/habituais.</p>
+
+<p>Quanto aos patrocinadores, eventos não são concretizados sem o apoio e patrocínio, para diminuir os custos das inscrições, para permitir que o maior número de pessoas possível participem, porém não é muito legal restringir o conteúdo apresentado. O ideal é que nos stands de cada empresa tenham pessoas capacitadas para responder as perguntas das pessoas que assistem essas palestras, e quem sabe convencê-las de que o palestrante falou o que falou porque ainda não conhece aquela tecnologia maneirissima que vocês tem :).</p>
+
+<p>As ideias apresentadas acima são básicas, todavia parece que precisam ser melhor explicitados os limites dos vários componentes de um evento, desde o participante até o tradicional sorteio de brindes.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Python Day Sergipe]]></title>
+    <link href="http://toalhatech.com/blog/2013/08/30/python-day-sergipe/"/>
+    <updated>2013-08-30T08:18:00-03:00</updated>
+    <id>http://toalhatech.com/blog/2013/08/30/python-day-sergipe</id>
+    <content type="html"><![CDATA[<p>Olá, pessoal. Bom dia :).</p>
+
+<p>Algo que realmente gosto de ver são encontros e eventos espalhados por todo o país. O fortalecimento de uma comunidade local é benéfico para todas as comunidades e deveriamos nos ajudar mais neste sentido. <br/>
+O <a href="http://pug-se.github.io/">Python User Group Sergipe</a> anunciou no <a href="https://groups.google.com/forum/#!forum/python-brasil">Python Brasil Google Groups</a> a primeira edição do
+<strong><a href="http://pug-se.github.io/pythonday/">Python Day Sergipe</a></strong>.<br/>
+O evento ocorrerá no dia 26 de outubro, com palestras pela manhã e minicursos a tarde sobre Python.<!-- more --></p>
+
+<p>O primeiro lote para inscrição vai até o dia 30/09 e custa R$ 40,00. Inscrições pelo link <a href="http://pug-se.github.io/pythonday/">http://pug-se.github.io/pythonday/</a></p>
+
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com.br/maps?f=q&amp;source=s_q&amp;hl=pt&amp;geocode=&amp;q=+Neoworking+Rua+Edson+Ribeiro,+552+-+Salgado+Filho,+Aracaju+-+SE&amp;aq=&amp;sll=-10.931616,-37.055351&amp;sspn=0.008764,0.016512&amp;gl=br&amp;g=R.+Edson+Ribeiro,+552+-+Salgado+Filho,+Aracaju+-+SE,+49020-370&amp;ie=UTF8&amp;hq=Neoworking&amp;hnear=R.+Edson+Ribeiro,+552+-+Salgado+Filho,+Aracaju+-+Sergipe,+49020-370&amp;ll=-10.932532,-37.055919&amp;spn=0.008764,0.016512&amp;t=m&amp;z=14&amp;iwloc=A&amp;cid=11060859093349500951&amp;output=embed"></iframe>
+
+
+<br /><small><a href="https://maps.google.com.br/maps?f=q&amp;source=embed&amp;hl=pt&amp;geocode=&amp;q=+Neoworking+Rua+Edson+Ribeiro,+552+-+Salgado+Filho,+Aracaju+-+SE&amp;aq=&amp;sll=-10.931616,-37.055351&amp;sspn=0.008764,0.016512&amp;gl=br&amp;g=R.+Edson+Ribeiro,+552+-+Salgado+Filho,+Aracaju+-+SE,+49020-370&amp;ie=UTF8&amp;hq=Neoworking&amp;hnear=R.+Edson+Ribeiro,+552+-+Salgado+Filho,+Aracaju+-+Sergipe,+49020-370&amp;ll=-10.932532,-37.055919&amp;spn=0.008764,0.016512&amp;t=m&amp;z=14&amp;iwloc=A&amp;cid=11060859093349500951" style="color:#0000FF;text-align:left">Ver mapa maior</a></small>  
+
+
+<p>Até a próxima o/</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[DNAD 2013 - 1o Dia]]></title>
+    <link href="http://toalhatech.com/blog/2013/08/21/dnad-2013-1o-dia/"/>
+    <updated>2013-08-21T00:47:00-03:00</updated>
+    <id>http://toalhatech.com/blog/2013/08/21/dnad-2013-1o-dia</id>
+    <content type="html"><![CDATA[<p>Nos dias 2 e 3 de agosto aconteceu o DNAD 2013 &ndash; evento de arquitetura tradicionalmente organizado em Sampa, deslocado pro Rio de Janeiro pela 1a vez. Essa foi minha terceira participação no DNAD e foi, sem dúvidas, a minha favorita. Num evento cujo suposto foco em .net está presente desde sua primeira edição (no nome, inclusive), foi surpreendente a pluralidade de tecnologias (ou &ldquo;ecossistemas&rdquo; &ndash; um termo que eu detesto) abordadas. <!-- more -->Ainda mais surpreendente foi a qualidade das discussões &ndash; paralelas ou não. Os mais atentos certamente &ldquo;pescaram&rdquo; nos corredores gente discutindo interpretadores, concorrência, paralelismo, e paradigmas de linguagens; um prato cheio pra quem gosta de Ciência da Computação.</p>
+
+<h4>Paralelismo &ndash; padrões e algoritmos (exemplos com C++ AMP)</h4>
+
+<p>A palestra de abertura meio que deu o tom do evento: o <a href="http://elemarjr.net/">Elemar Jr</a>, em sua primeira empreitada &lsquo;palestrística&rsquo; focada em código, falou de C++ AMP. Uma das coisas de que mais gostei foi a estrutura da apresentação: ele começou dando um background pessoal, falando de arquitetura de computadores desde os tempos dos saudosos 8086 até a solução multicore das GPUs atuais. Ficou muito fácil de acompanhar, apesar da complexidade do assunto. Deu saudades dos ray tracings da faculdade :)
+Para mostrar como a GPU é uma unidade de processamento mais eficiente que a CPU quando se trata paralelização massiva, ele rodou um pequeno programinha que aplicava blur numa imagem. A renderização da imagem levava em torno de 10 segundos quando processada na CPU e míseros 100ms na GPU (caindo ainda mais em execuções subsequentes, enquanto a audiência mandava um &ldquo;ohhhh&rdquo; uníssono). Pros curiosos, o Elemar disponibilizou o código fonte e a explicação do mesmo no seu <a href="http://elemarjr.net/2013/07/29/image-effects-com-c-amp-blur/">blog</a>.</p>
+
+<p>Listei abaixo algumas das mensagens/lições que mais me marcaram nessa palestra:</p>
+
+<blockquote><ul>
+<li>Use a unidade de processamento certa para o seu problema</li>
+<li>GPUs têm CENTENAS de cores. Tipo, CENTENAS! Aquele seu quad-core não parece tão legal agora, né?</li>
+<li>E, claro, aprenda C++ se quiser se tornar um desenvolvedor ninja</li>
+</ul>
+</blockquote>
+
+<h4>Uma Introdução a Machine Learning</h4>
+
+<p>A primeira coisa que me chamou a atenção na palestra do <a href="https://twitter.com/guilhermecaelum">Guilherme Silveira</a> foi a escolha do termo em inglês (Machine Learning vs Aprendizagem de Máquina), o tipo de besteira que me distrai mas não faz a menor diferença. Como bom matemático, o Guilheme começou a palestra mostrando uma regressão linear para classificar apartamentos em &lsquo;acima&rsquo; ou &lsquo;abaixo&rsquo; do preço médio. A partir daí, mostrou como as funções que respondem a este tipo de questão podem ser &ldquo;descobertas&rdquo; (ou, pra ser mais precisa, aproximadas). A escolha de abordar machine learning a partir de seus fundamentos mais básicos &ndash; matemáticos &ndash; foi muito feliz, na minha opinião. Ele exemplificou diversos problemas solucionáveis com técnicas de machine learning (redes neurais foi a que eu pude reconhecer mais claramente), embora não tenha entrado no mérito da implementação dessas técnicas. Também explicou como a própria Caelum usa machine learning para identificar com antecedência alunos com alta probabilidade de abandonar os cursos. Achei legal também como ele mostrou que Machine Learning pode ser muito simples, e ao mesmo tempo muito poderoso. O melhor exemplo é o da garota de 16 anos que montou um <a href="http://cloud4cancer.appspot.com/">sitezinho</a> capaz de diagnosticar câncer de mama com altíssima precisão, a partir de 5 ou 6 perguntas e uma rede neural.</p>
+
+<h4>Implementando Restful SOA com DDD</h4>
+
+<p>O <a href="https://twitter.com/dmyoko">Daniel Yokoyama</a> abriu a tarde de palestras, e, confesso, foi difícil acompanhar devido ao sono pós-almoço. Horário ingrato esse. Pra piorar, cheguei já no meio da palestra e perdi boa parte. Eu procurei os slides da palestra pra rebootar minha memória, mas não encontrei. De qualquer forma, uma das mensagens fortes dessa palestra do Daniel foi sobre a importância de conhecer a fundo DDD antes de achar que está doing it right. No caso, ele frisou que o principal capítulo do famoso livro do Eric Evans era justamente aquele que quase ninguém lê &ndash; o último. Pessoalmente, eu mesma nunca li, pois acho tanto o assunto quanto o livro bem chatinhos. Mas vale a dica :)</p>
+
+<h4>Construindo uma API de dados esportivos que responde a 6000 req/s</h4>
+
+<p>A palestra seguinte foi do <a href="https://twitter.com/rafael_mws">Rafael Martins</a>, desenvolvedor da Globo.com. Tanto palestra quanto palestrante me surpreenderam muito positivamente. O case apresentado foi a API de dados do portal do Globo Esporte. Segundo o Rafael, o que começou como um projeto despretensioso, interno, respondendo a apenas algumas dezenas de requisições por segundo, de repente precisou evoluir para uma API externa, com a capacidade citada no título. Para atender a tal demanda, a palavra chave da palestra foi <em>cache</em>. A arquitetura da solução deles tem vários níveis diferentes de caching, desde antes de chegar nos web servers até o clássico, entre aplicação e banco de dados. Achei bem legal também a estratégia de fazer caching-por-recurso. Explicando de forma absurdamente resumida (e injustamente simplificada), todos os recursos utilizados pelos serviços são cacheados por &ldquo;tipo&rdquo;, e reusados sempre que possível. Para usar o exemplo que ele deu, imagine que eu use um serviço pra buscar a escalação do Brasil de 1994; em seguida, eu uso o serviço que traz os artilheiros de todos os Brasileirões. Ambos trarão o jogador Romário nos seus resultados, um recurso único reusado nos dois serviços. Uma consequência imediata é que eles praticamente não fazem joins nas suas consultas, o que achei bem maneiro.
+O Rafael falou bastante também da infra utilizada para suportar essa API: eles alteraram o NGinx pra dar suporte a autenticação, usaram Tornado, Redis e SqlAlchemy. Coisas que eles alteraram foram disponibilizadas no <a href="https://github.com/globocom">GitHub da Globo.com</a>, uma iniciativa maneiríssima!</p>
+
+<h4>Arquitetura evolutiva na prática</h4>
+
+<p>Depois do coffee-break, <a href="https://twitter.com/denisferrari">Denis Ferrari</a> deu uma palestra muito bacana sobre Arquitetura Evolutiva. Em suma, ele usou um case que passou por quatro arquiteturas diferentes, de forma emergente, para mostrar os benefícios (e problemas) de arquiteturas emergentes. Um dos aspectos de que mais gostei da palestra dele foi a despretensão: ele fez questão de ressaltar que, apesar do sucesso do projeto, cometeu sim alguns equívocos e faria várias coisas de forma diferente hoje em dia.
+Uma dica legal que o Denis deu no fim da palestra, pros que moram em Vitória-ES, foi o <a href="http://www.meet2brains.com.br">meet2brains</a> &ndash; grupo que organiza uma série de eventos e palestras gratuitas. Ah, ele também disponibilizou os <a href="http://www.slideshare.net/denisnferrari/arquitetura-evolutiva-dnad-2013">slides no SlideShare</a>!</p>
+
+<h4>O que aprendi em 5 anos de pesquisa em TDD?</h4>
+
+<p>O <a href="https://twitter.com/mauricioaniche">Maurício Aniche</a> falou em seguida sobre seus 5 anos de pesquisa em TDD. Vale ressaltar que o Maurício é um profissional bem sucedido tanto na vida acadêmica (estudante de Doutorado) quanto na indústria (ou mercado, termo que alguns preferem usar). Sendo TDD um tema ainda pouco explorado na academia (exceto pelo PoV de testes/qualidade externa), as contribuições do Maurício são pioneiras &ndash; e foram elas que ele dividiu conosco nessa palestra.
+Em sua pesquisa, o Maurício investigou os erros mais comuns cometidos pelos desenvolvedores ao praticar TDD: esquecer do passo de refatoração, começar por testes complexos e otimizar prematuramente são alguns dos erros de que me lembro.
+Algumas das mensagens que me marcaram mais:</p>
+
+<blockquote><ul>
+<li>TDD não faz mágica. Programadores ruins vão desenvolver arquiteturas ruins, mesmo quando guiados por testes, por não conseguir &ldquo;ouvir&rdquo; o feedback</li>
+<li>Se tá difícil testar, tá errado :)</li>
+<li>Simplicidade != estupidez! Cuidado pra não deixar seus baby steps se tornarem stupid steps (aquele exemplo batidérrimo de retornar um magic number pra uma função de somar (quem nunca?))</li>
+</ul>
+</blockquote>
+
+<h4>Desenvolvendo aplicações acessíveis na plataforma .NET</h4>
+
+<p>Fechando o primeiro dia, tivemos a palestra do <a href="https://twitter.com/magoolation">Alexandre Costa</a> sobre desenvolvimento de aplicações acessíveis. O Alexandre (ou Magoolation) é um desenvolvedor cego, e explicou que software acessível é aquele que atende a pessoas com quaisquer necessidades &ndash; não apenas visuais, mas também auditivas e motoras, por exemplo. Essa palestra me fez pensar pela primeira vez em algumas features que pensamos ser muito maneiras mas que limitam desastrosamente a acessibilidade de nossos sites &ndash; como captchas e drag and drop (os dois são complicados pra cegos, o segundo é complicado também para pessoas com dificuldades motoras). Outras dicas simples que o Alexandre deu, e que vale muito mencionar:</p>
+
+<blockquote><ul>
+<li>Evitar usar posicionamento absoluto no html;</li>
+<li>Evitar usar cores como fonte de informação (&ldquo;botão vermelho&rdquo; vs &ldquo;botão verde&rdquo;, por exemplo)</li>
+<li>Usar sempre &ldquo;label for&rdquo;</li>
+<li>Evitar atualização automática das páginas (auto-refresh)</li>
+<li>Usar tabIndex com inteligência</li>
+<li>A melhor de todas: se quiser testar a acessibilidade do seu sistema, tente operá-lo com o monitor desligado. ;)</li>
+</ul>
+</blockquote>
+
+<p>De forma geral, o primeiro dia do evento foi bem intenso; como já dava pra prever (vide <a href="http://dnad.azurewebsites.net/#programacao">programação</a>), as palestras foram de altíssima qualidade e o conteúdo técnico idem! Vou postar em breve minhas impressões do 2o dia também, fiquem ligados! o/</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Agile in Rio 2013]]></title>
+    <link href="http://toalhatech.com/blog/2013/08/19/agile-in-rio-2013/"/>
+    <updated>2013-08-19T18:42:00-03:00</updated>
+    <id>http://toalhatech.com/blog/2013/08/19/agile-in-rio-2013</id>
+    <content type="html"><![CDATA[<p>Baseado no recado que a <a href="https://twitter.com/samantacicilia">@SamySouza</a> deixou no <a href="http://oglobo.globo.com/blogs/tecnologia/posts/2013/08/19/agile-in-rio-2013-507057.asp">O Globo</a>:</p>
+
+<div style="float: left"><img src="http://toalhatech.com/images/logoAgileInRio.png" /></div>
+
+
+<p>Durante os dias 26 e 27 de Outubro de 2013 ocorrerá o <a href="http://www.agileinrio.com.br/">Agile in Rio</a>: conferência realizada pela comunidade Agile do Rio de Janeiro para a comunidade<!-- more --> Agile do Brasil inteiro, com o objetivo de trazer para o mercado uma visão moderna sobre o desenvolvimento de software. Os principais pontos abordados, além de desenvolvimento de software são processos de gestão e ambiente de trabalho, que permitem o desenvolvimento sustentável de software e resultados finais de alta qualidade e aderência às necessidades mais atuais dos clientes</p>
+
+<p>O evento é focado no desenvolvimento de software sob os paradigmas Agile e Lean. Para concretizar o objetivo do Agile in Rio, várias pessoas com diversas experiências para compartilhar serão palestrantes: Alexandre Magno, Alisson Vale, Rodrigo de Toledo, Rafael Sabbagh,  Rodrigo Yoshima, Vinicius Teles e outros integrantes da comunidade ágil brasileira. Além desse super time, a presença internacional de Mary Poppendieck, que abrirá primeiro dia de atividades.</p>
+
+<p>Tendo como premissa o direcionamento para o mercado/industria de software, o evento é composto de 2 trilhas: gestão e desenvolvimento. Todos os profissionais de TI e interessados em desenvolvimento de software e agile constituem o público alvo do Agile in Rio.</p>
+
+<p>Informações sobre inscrições, grade de palestras e tudo mais  sobre o Agile in Rio, com realização na Universidade La Salle (Rua Gastão Gonçalves 79, Santa Rosa &ndash;  Niterói &ndash;  RJ), estão disponíveis no <a href="http://www.agileinrio.com.br/">www.agileinrio.com.br</a>.</p>
+
+<p>Outras informações podem ser obtidas através do e-mail de contato: <a href="&#109;&#x61;&#105;&#x6c;&#x74;&#x6f;&#58;&#x64;&#117;&#118;&#x69;&#100;&#x61;&#x73;&#64;&#97;&#x67;&#x69;&#108;&#101;&#x69;&#110;&#114;&#x69;&#x6f;&#x2e;&#x63;&#111;&#x6d;&#x2e;&#x62;&#114;">&#100;&#x75;&#x76;&#x69;&#100;&#97;&#115;&#64;&#97;&#103;&#105;&#x6c;&#x65;&#x69;&#x6e;&#x72;&#105;&#111;&#x2e;&#99;&#111;&#x6d;&#x2e;&#x62;&#114;</a></p>
+
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com.br/maps?f=q&amp;source=embed&amp;hl=pt-BR&amp;geocode=&amp;q=+Universidade+La+Salle++Rua+Gast%C3%A3o+Gon%C3%A7alves+79,+Santa+Rosa+%E2%80%93+Niter%C3%B3i+%E2%80%93+RJ&amp;aq=&amp;sll=-22.896754,-43.106566&amp;sspn=0.015517,0.033023&amp;gl=br&amp;g=R.+Gast%C3%A3o+Gon%C3%A7alves,+79+-+P%C3%A9+Pequeno,+Niter%C3%B3i+-+Rio+de+Janeiro,+24240-030&amp;ie=UTF8&amp;hq=Universidade+La+Salle&amp;hnear=R.+Gast%C3%A3o+Gon%C3%A7alves,+79+-+P%C3%A9+Pequeno,+Niter%C3%B3i+-+Rio+de+Janeiro,+24240-030&amp;ll=-22.896942,-43.10655&amp;spn=0.006295,0.006295&amp;t=m&amp;layer=c&amp;cbll=-22.897117,-43.106429&amp;panoid=qBUdPBXkn4D35o_GX8S8gw&amp;cbp=12,261.72,,0,0&amp;output=svembed"></iframe>
+
+
+<br /><small><a href="https://maps.google.com.br/maps?f=q&amp;source=embed&amp;hl=pt-BR&amp;geocode=&amp;q=+Universidade+La+Salle++Rua+Gast%C3%A3o+Gon%C3%A7alves+79,+Santa+Rosa+%E2%80%93+Niter%C3%B3i+%E2%80%93+RJ&amp;aq=&amp;sll=-22.896754,-43.106566&amp;sspn=0.015517,0.033023&amp;gl=br&amp;g=R.+Gast%C3%A3o+Gon%C3%A7alves,+79+-+P%C3%A9+Pequeno,+Niter%C3%B3i+-+Rio+de+Janeiro,+24240-030&amp;ie=UTF8&amp;hq=Universidade+La+Salle&amp;hnear=R.+Gast%C3%A3o+Gon%C3%A7alves,+79+-+P%C3%A9+Pequeno,+Niter%C3%B3i+-+Rio+de+Janeiro,+24240-030&amp;ll=-22.896942,-43.10655&amp;spn=0.006295,0.006295&amp;t=m&amp;layer=c&amp;cbll=-22.897117,-43.106429&amp;panoid=qBUdPBXkn4D35o_GX8S8gw&amp;cbp=12,261.72,,0,0" style="color:#0000FF;text-align:left">Exibir mapa ampliado</a></small>
+
+
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Passos básicos para realizar um evento]]></title>
+    <link href="http://toalhatech.com/blog/2013/08/11/passos-basicos-para-realizar-um-evento/"/>
+    <updated>2013-08-11T17:18:00-03:00</updated>
+    <id>http://toalhatech.com/blog/2013/08/11/passos-basicos-para-realizar-um-evento</id>
+    <content type="html"><![CDATA[<p>Olá, pessoal. Tudo bem?</p>
+
+<p>Este post não é muito o que costumo escrever, mas espero que possa ajudar pessoas a tirarem dúvidas e se animarem a promover o encontro/evento de suas comunidades locais (e se fizerem, avisem para nós. Teremos o maior prazer de anunciar ^_^). O texto é baseado numa conversa que tive com a Anna Cruz sobre os passos básicos que aprendemos ao<!-- more --> longo das experiências que tivemos para organizar e participar de eventos:</p>
+
+<p>1) Listar nomes de pessoas indicadas para organizar o evento e apresentar entre sí os integrantes do grupo. Se for possível, reuniões presenciais ajudam bastante.</p>
+
+<p>2) Estimativa de local + valores de coffee break (caso o evento/encontro precise disso). Essa estimativa ajudará a decidir os valores do evento e é bom para definir com o quanto os patrocinadores poderão contribuir, caso eles deem a opção de você escolher o valor do patrocínio.</p>
+
+<p>3) Definir data. Definir ou pelo menos estimar as datas do evento. As estimativas e as possíveis datas ajudam bastante para fazer a proposta para os patrocinadores.</p>
+
+<p>4) Com esses dados, procurar patrocínio. Não se acanhe em procurar patrocínio só na sua cidade/estado. Existem empresas maneiras que ajudam comunidades pequenas, elas só precisam saber que vocês precisam dela :). Essas empresas devem ser valorizadas.</p>
+
+<p>5) Abrir chamada para palestrantes enviarem suas palestras. Algo que seria muito legal é o palestrante enviar um paper com o conteúdo da sua palestra e no final do evento, ter a publicação de todos os papers. É uma pratica acadêmica comum, porém acredito que seria legal trazer isso para eventos do mercado/industria, que são mais informais.</p>
+
+<p>6) Definir e publicar a grade da programação do evento. Isso ajuda na decisão dos participantes de se inscreverem ou não. Já vi várias pessoas não se inscreverem na primeira parte do período de inscrição, que geralmente é mais barato por falta de definição de grade e depois que o preço foi reajustado, o valor ficou alto demais e eles não foram ao evento. É muito triste quando isso acontece.</p>
+
+<p>7) Abrir as inscrições para os participantes.</p>
+
+<p>8) Organizar infraestrutura necessária e principalmente wi-fi funcionando para o evento, que é uma das maiores reclamações de todos os eventos que falham nesse quesito. Café/água liberados também é ítem de infraestrurura e deve ser tratado como tal.</p>
+
+<p>É claro que tem muito mais que isso, porém isso é o script básico a ser seguido.</p>
+
+<p>Participar de eventos ou encontros são realmente importantes para profissionais, principalmente para pessoas de TI. Conheci pessoas muito legais como o <a href="https://github.com/wilsonrf">Wilson França</a>, <a href="http://www.packtpub.com/authors/profiles/roberto-moutinho">Roberto Moutinho</a> que me ensinaram <a href="http://grails.org/">Grails</a>. A <a href="https://twitter.com/desisant">Desiree Santos</a> e a <a href="https://twitter.com/yuizinha">Anna Cruz</a> &ndash; que me apresentaram à propostas maravilhosas voltadas para mulheres como o Rails Girls e o rodAda Hacker. As meninas que fazem parte do time do blog (<a href="https://twitter.com/yuizinha">Anna</a>, <a href="https://twitter.com/samantacicilia">Samanta</a> e <a href="https://twitter.com/rla4">Roberta</a>) e as colaboradoras (<a href="https://twitter.com/vivocah">Vivi</a>, <a href="https://twitter.com/valparajara">Val</a> e <a href="https://twitter.com/renata_carreira">Renata</a>), conheci todas através de eventos ou encontros, por isso posso dizer que aproveitem encontros e eventos, seja voluntário e repasse conhecimento ou simplesmente ajudem, pois faz diferença tanto na vida profissional quanto para conhecer amigos.</p>
+
+<p>Até a próxima o/</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Encontro do Grupo de Estrutura de Dados/RJ Agosto/2013]]></title>
+    <link href="http://toalhatech.com/blog/2013/08/04/encontro-do-grupo-de-estrutura-de-dados-slash-rj-agosto-slash-2013/"/>
+    <updated>2013-08-04T11:39:00-03:00</updated>
+    <id>http://toalhatech.com/blog/2013/08/04/encontro-do-grupo-de-estrutura-de-dados-slash-rj-agosto-slash-2013</id>
+    <content type="html"><![CDATA[<p>Olá, pessoal. Tudo bem com vocês?</p>
+
+<p>No dia 10 de agosto (de 2013), será realizado o 2º encontro do grupo de estrutura de dados e o local é na <a href="http://www.caelum.com.br/">Caelum/RJ</a>.<br/>
+Após muitas conversas este encontro e acredito fortemente que os outros também, tem por intuito reunir pessoas interessadas em algoritmos e estrutura de dados e<!-- more --> compartilhar o que estão fazendo,  o que estão pesquisando e afins, sem o formato palestra &ndash; palestrante fala e as pessoas ouvem. O objetivo é trocar, é falar sobre algo e as pessoas possam intervir, questionar, complementar o conteúdo no mesmo instante.</p>
+
+<p>As inscrições serão realizadas até o dia 7 de agosto, pelo link: <a href="http://t.co/ZMVGR9FeQc">http://t.co/ZMVGR9FeQc</a></p>
+
+<p>Como chegar na Caelum/RJ:</p>
+
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com.br/maps?f=q&amp;source=s_q&amp;hl=pt-BR&amp;geocode=&amp;q=R.+do+Ouvidor,+50,+Centro+Rio+De+Janeiro+20040-030&amp;aq=&amp;sll=-12.726084,-53.173828&amp;sspn=67.293442,135.263672&amp;ie=UTF8&amp;hq=&amp;hnear=R.+do+Ouvidor,+50+-+Centro,+Rio+de+Janeiro,+20040-030&amp;t=m&amp;z=14&amp;iwloc=A&amp;ll=-22.902524,-43.176075&amp;output=embed"></iframe>
+
+
+<br /><small><a href="https://maps.google.com.br/maps?f=q&amp;source=embed&amp;hl=pt-BR&amp;geocode=&amp;q=R.+do+Ouvidor,+50,+Centro+Rio+De+Janeiro+20040-030&amp;aq=&amp;sll=-12.726084,-53.173828&amp;sspn=67.293442,135.263672&amp;ie=UTF8&amp;hq=&amp;hnear=R.+do+Ouvidor,+50+-+Centro,+Rio+de+Janeiro,+20040-030&amp;t=m&amp;z=14&amp;iwloc=A&amp;ll=-22.902524,-43.176075" style="color:#0000FF;text-align:left">Exibir mapa ampliado</a></small>  
+
+
+<p>Até a próxima o/</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Encontro sobre Estrutura de Dados]]></title>
+    <link href="http://toalhatech.com/blog/2013/06/28/encontro-sobre-estrutura-de-dados/"/>
+    <updated>2013-06-28T01:08:00-03:00</updated>
+    <id>http://toalhatech.com/blog/2013/06/28/encontro-sobre-estrutura-de-dados</id>
+    <content type="html"><![CDATA[<p>Olá, pessoal. Tudo bem com vocês?</p>
+
+<p>Neste sábado, dia 29 de junho (de 2013) de 10 horas até as 14 horas, será realizado no #CurtoCircuitoHS o Encontro sobre Estrutura de Dados.</p>
+
+<p>Idealizado pelo <a href="https://twitter.com/israelst">@israelst</a>, tem por objetivo reunir pessoas que pesquisam, utilizam no dia a dia ou simplesmente goste de implementar e saber sobre estrutura de dados, algoritmos relacionados a elas e afins. Até agora, 3 apresentações foram<!-- more --> confirmadas, porém qualquer presente pode apresentar conteúdo, é só se sentir a vontade para tal.</p>
+
+<p>Este encontro reune comunidades, linguagens e tecnologias para pontos em comum. Vale a pena partipar. Mais informações podem ser obtidas neste <a href="https://groups.google.com/forum/#!msg/dojo-rio/ni7BAzZ4gyI/ifLstfTQsXIJ">link</a>.</p>
+
+<p>O #CurtoCircuitoHS fica na Av 13 de Maio, 13 &ndash; 6º andar &ndash; sala 616.</p>
+
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com.br/maps?q=Av.+Treze+de+Maio,+13+-+Centro,+Rio+de+Janeiro,+20031-007+%E2%80%8E&amp;ie=UTF8&amp;hq=&amp;hnear=Av.+Treze+de+Maio,+13+-+Centro,+Rio+de+Janeiro,+20031-007&amp;gl=br&amp;ll=-22.909539,-43.176613&amp;spn=0.015516,0.033023&amp;t=m&amp;z=14&amp;iwloc=A&amp;output=embed"></iframe>
+
+
+<br /><small><a href="https://maps.google.com.br/maps?q=Av.+Treze+de+Maio,+13+-+Centro,+Rio+de+Janeiro,+20031-007+%E2%80%8E&amp;ie=UTF8&amp;hq=&amp;hnear=Av.+Treze+de+Maio,+13+-+Centro,+Rio+de+Janeiro,+20031-007&amp;gl=br&amp;ll=-22.909539,-43.176613&amp;spn=0.015516,0.033023&amp;t=m&amp;z=14&amp;iwloc=A&amp;source=embed" style="color:#0000FF;text-align:left">Exibir mapa ampliado</a></small>  
+
+
+<p>Até a próxima o/.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Hackathon para ajudar os protestos Br]]></title>
+    <link href="http://toalhatech.com/blog/2013/06/17/hackaton-para-ajudar-os-protestos-br/"/>
+    <updated>2013-06-17T08:30:00-03:00</updated>
+    <id>http://toalhatech.com/blog/2013/06/17/hackaton-para-ajudar-os-protestos-br</id>
+    <content type="html"><![CDATA[<p>Pessoal, este blog não é politico e nem nada, porém não podemos deixar de fazer a nossa parte para ajudar as pessoas a sairem sãs e salvas destes protestos, que estão sendo respondidos com muita violência por parte do governo. Parte do governo pois a polícia só obedece ordens.</p>
+
+<p>Indo ao que interessa, o Felipe Oliveira está organizando um hackathon para ajudar nas manifestações. O objetivo deste post é<!-- more --> anunciar este hackathon e incentivar a todos que participem dele: <a href="http://hackathonbr.tumblr.com/post/53159289495/caros-amigos-hackers-que-queiram-fazer-a">http://hackathonbr.tumblr.com/post/53159289495/caros-amigos-hackers-que-queiram-fazer-a</a></p>
+
+<p>O Marco Gomes com muitas pessoas, fizeram um mapa colaborativo para os protestos. O aplicativo funciona para iphone e android. Para saber mais sobre isso, vejam em <a href="http://protestosbr.tumblr.com/post/53142143778/mapa-colaborativo-dos-protestos-br">http://protestosbr.tumblr.com/post/53142143778/mapa-colaborativo-dos-protestos-br</a></p>
+
+<p>Devemos nos lembrar que policiais são cidadãos, os manifestantes também são e os que não querem se envolver com isso também são cidadãos deste país.</p>
+
+<p>Pedimos para todos os participantes dos protestos, pessoas que estarão na região e querem fugir do protesto e até a polícia para se lembrarem que somos todos brasileiros e estamos todos juntos neste país, que precisa de mudanças, mas não precisa ser na base da pancada.</p>
+
+<p>Até a próxima.</p>
+
+<h2>UPDATE &ndash; 18/06/2013:</h2>
+
+<p>Segundo o <a href="http://hackathonbr.tumblr.com/post/53159289495/caros-amigos-hackers-que-queiram-fazer-a">http://hackathonbr.tumblr.com/post/53159289495/caros-amigos-hackers-que-queiram-fazer-a</a> e o <a href="https://twitter.com/scaphe/status/346954074861760512">Felipe Oliveira</a>:<br/>
+<em>UPDATE2: Infelizmente acredito que as pessoas não sabem distinguir o termo “Hackathon” como Maratona de desenvolvimento, de movimentos Crackers criminosos. Nosso movimento é legítimo, para criar aplicativos em benfício da sociedade. Infelizmente, por motivos de “força maior”, tive que cancelar esse primeiro encontro, mas sugiro que façamos em alguma Universidade Pública, assim não corremos riscos de exposição individual nem de “supostas investigações” Conto com a colaboração de todos ! &ldquo;</em></p>
+
+<h2>UPDATE &ndash; 19/06/2013:</h2>
+
+<p>Segundo o <a href="http://hackathonbr.tumblr.com/post/53337812104/nova-data-hackathonbr">http://hackathonbr.tumblr.com/post/53337812104/nova-data-hackathonbr</a> e o <a href="https://twitter.com/scaphe/status/347221782006210561">Felipe Oliveira</a>:<br/>
+<em>Caros amigos, Acredito que conseguimos esclarecer nosso movimento legítimo, para construção de aplicativos para a sociedade. Interessados em ajudar a desenvolver, iremos começar na sexta-feira (21/06/2013) às 18h e estender até domingo à noite (23/06/2013) ! Essa será realmente uma maratona !! Inscrevam-se no <a href="https://docs.google.com/forms/d/1LHjoSJ8RMSDcrZdEsVUN2v3OHU27DQgDS1RIOkjAWAw/viewform">link</a>. Não haverá espaço físico para todos, então muitos poderão contribuir remotamente e a comunicação será estabelecida através de Hangouts, GitHub, Skype e afins. Mais informações em breve !</em></p>
+
+<h2>UPDATE &ndash; 20/06/2013:</h2>
+
+<p>O <a href="https://twitter.com/leozeba/status/347555928696053760">@leozeba</a> não conseguiu se inscrever no #hackathon, mas programou uma app, a <a href="http://protesta.herokuapp.com/">proteste.la</a>. Nessa app, você informa o nome, o cargo, o partido, o município, o estado do mesmo e &ldquo;cobra&rdquo; em tempo real que ele aja de acordo com o cargo dele: cargo de servidor do povo. O tumblr do <a href="http://hackathonbr.tumblr.com">hackthon</a> já <a href="http://hackathonbr.tumblr.com/post/53411971227/primeira-app-publicada">anunciou a app</a>.
+Segundo a descrição do tumblr do hackathon:<br/>
+<em>&ldquo;Utilizem com sabedoria, para localizar seus representantes e cobrar explicações. Pressão para votarem contra as PECs 33 e 37, já é boa forma de utilização da ferramenta.&rdquo;</em>   <br/>
+ Até agora, o hackathon de amanhã &ndash; dia 21/06/2013, a partir das 18 horas permanece confirmado. Quem quiser conversar sobre ideias para o hackathon, veja informações neste <a href="https://twitter.com/scaphe/status/347531201839501312">link</a>.</p>
+
+<p>Outras pessoas estão criando ferramentas para ajudar nas manifestações e não estão vinculadas ao hackathon. Um exemplo disso é o <a href="http://brasilmostratuacara.com.br/">http://brasilmostratuacara.com.br/</a>, um manifesto de pessoas, como diz a própria apresentação do brasilmostrasuacara: <em>&ldquo;ser mais um rosto para levar tapa, mais uma voz gritando, que inventamos isso aqui, pra mostrar que somos muitos, temos nome e vamos mostrar a cara&rdquo;</em>.</p>
+
+<h2>Update &ndash; 21/06/2013:</h2>
+
+<p>Hoje começa oficialmente o #hackathon, a partir das 18 horas. Foi criado um <a href="https://www.facebook.com/events/535117963214227/">evento no facebook</a> para lembrar a todos que hoje é o dia de início da maratona de desenvolvimento de software.  Segundo o post no <a href="http://hackathonbr.tumblr.com/post/53476702169/ferramentas-de-comunicacao">tumblr do hackathon</a>: <em>&ldquo;Estamos subindo e configurando o Fórum de discussão, que já está no ar no endereço provisório: <a href="http://hackathonbr.vanillaforums.com/">http://hackathonbr.vanillaforums.com/</a>  e em breve funcionará no HackathonBR.com&rdquo;</em>. Até o momento em que este post foi escrito, o endereço hackathonbr.com ainda não estava publicado, mas o endereço provisório está funcionando e com vários tópicos de possíveis apps para ajudar nas manifestações, como o <a href="http://hackathonbr.vanillaforums.com/discussion/2/software-anti-corrupcao">software anti-corrupção</a>.</p>
+
+<p>Após a revogação do aumento da passagem dos ônibus em vários locais do Brasil, manifestantes levantam outras propostas que julgam ser relevantes para o país. Outras ferramentas para contribuir no protesto e torná-lo um pouco mais organizado, e consequentemente mais útil. Um deles, é <a href="https://trello.com/board/propostas-para-um-brasil-melhor/51c0d20bf9e3980143000766">um perfil que criaram no Trello &ndash; Propostas para um Brasil melhor</a> &ndash; para utilizá-lo, você precisa criar uma conta ou logar utilizando sua conta google. Neste quadro, é possível votar nas propostas já inscritas ou criar novas. Uma das propostas mais votadas é para a quebra do voto secreto no congresso, por exemplo.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Encontro dna Rio de maio e junho de 2013]]></title>
+    <link href="http://toalhatech.com/blog/2013/06/16/encontro-dnario-de-maio-e-junho-de-2013/"/>
+    <updated>2013-06-16T20:39:00-03:00</updated>
+    <id>http://toalhatech.com/blog/2013/06/16/encontro-dnario-de-maio-e-junho-de-2013</id>
+    <content type="html"><![CDATA[<p>Como sempre, no <a href="http://toalhatech.com/blog/2013/05/30/encontros-mensais-bimestrais-de-algumas-comunidades-do-rio-de-janeiro/">1º sábado (sem ser de feriadão prolongado) do mês</a>, ocorreu o encontro da comunidade de <a href="http://toalhatech.com/blog/2013/05/12/encontro-dna-rio-abril-2013/">.NET do Rio de Janeiro</a> &ndash; o <a href="https://twitter.com/dnario">dna Rio</a>. Os encontros de maio e junho foram muito relacionados, por isso resolvi unir os 2 num único post, para facilitar o entendimento.</p>
+
+<p>No encontro de maio, ocorrido no dia 4, foi anunciado oficialmente o evento <a href="dnad.azurewebsites.net">DNAD 2013</a>. Durante o encontro, os participantes<!-- more --> puderam dar algumas sugestões para  o evento, além da  apresentação do <a href="https://twitter.com/juanplopes">@juanlopes</a> sobre Expressões Regulares.</p>
+
+<p>Juan expôs que expressões regulares podem ser implementadas de forma menos custosa do que a implementação atual de várias linguagens, comparando tempo de execução da forma indicada no paper que serviu de base para a apresentação com a forma atual. Ele também demostrou detalhes de complexidade dos algoritmos e os casos em que seria vantajoso utilizar o proposto ou já implementado. Também foi exibida uma implementação baseada no modelo demostrado como de menor complexidade.</p>
+
+<p>O <a href="http://www.slideshare.net/juanplopes/dnarj20130504">link para os slides</a>. Recomendo muito está apresentação.</p>
+
+<p>No mês de junho, o encontro foi no dia 8. Os preparativos do evento foram comentados. Este encontro foi bastante informal, em que os presentes discutiram diversos pontos sobre programação, como melhorar testes, a necessidade de testes de aceitação, pontos fortes e fracos da tecnologia .NET.</p>
+
+<p>A discussão foi bastante proveitosa e enriquecedora. Houve inclusive sugestão para que no próximo encontro tivesse um momento para programação. Seria muito bom se o evento consiga abordar mais este ponto no próximo mês.</p>
+
+<p>Como sempre, o encontro do dna RJ não se limita a tecnologia, abordando vários paradigmas e sendo um encontro de alto nível para profissionais que utilizam .NET ou não. Vale a pena participar de um dos encontros.</p>
+
+<p>Aguardando as surpresas do próximo mês. Até a próxima o/.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Web Day 2013]]></title>
+    <link href="http://toalhatech.com/blog/2013/06/08/web-day-2013/"/>
+    <updated>2013-06-08T21:22:00-03:00</updated>
+    <id>http://toalhatech.com/blog/2013/06/08/web-day-2013</id>
+    <content type="html"><![CDATA[<p>O <a href="http://www.webday.com.br">Web Day</a> é um seminário para desenvolvedores web. Segundo o site do evento, <em>&ldquo;será um evento técnico, onde os conceitos atuais serão vistos mais a fundo. As palestras serão realizadas por profissionais que atuam no mercado&rdquo;</em>.</p>
+
+<p>Com esta premissa bem direta ao assunto :), <a href="http://www.webday.com.br/p/palestrantes_30.html">palestrantes conhecidos no mundo front-end, ruby on rails e outros</a>, o evento ocorrerá no dia 20 de julho de 2013.</p>
+
+<p>A grade do evento já foi divulgada <!-- more --><a href="http://www.webday.com.br/p/programacao.html">http://www.webday.com.br/p/programacao.html</a></p>
+
+<p>As inscrições custam R$ 40,00 <a href="https://www.ingresse.com.br/webday">https://www.ingresse.com.br/webday</a> e será na <a href="http://www.webday.com.br/p/data-local.html">PUC-SP</a>.</p>
+
+<p>Corra e se inscreva antes que as vagas acabem :).</p>
+
+<p>Até a próxima o/</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[BHack Conference 2013]]></title>
+    <link href="http://toalhatech.com/blog/2013/06/08/bhack-conference-2013/"/>
+    <updated>2013-06-08T19:52:00-03:00</updated>
+    <id>http://toalhatech.com/blog/2013/06/08/bhack-conference-2013</id>
+    <content type="html"><![CDATA[<p>A dica deste evento foi da <a href="https://twitter.com/vivocah">Vivi Sousa</a>. Ela mandou um email perguntando se o ToalhaTech só falaria sobre eventos no RJ. A resposta para esta pergunta é: Nós publicamos e queremos publicar eventos do Brasil inteiro :).</p>
+
+<p>Segundo a descrição encontrada no site, o BHack Conference 2013 é:</p>
+
+<p><em>&ldquo;Evento voltado à Segurança da Informação</em><!-- more --><em> (SI). Trazendo a cena mineira a possibilidade de espaço para disseminação de informação atualizada e de qualidade sobre temas essenciais, contando com um seleto grupo de palestrantes renomados e com profundo conhecimento em sua área de atuação. Além disso o evento será anfitrião do primeiro capítulo da Owasp Uai Day e da segunda edição do Slackware Show na capital mineira, evento este que ocorre nacionalmente desde 2005.
+BHack, como o nome já tenta mencionar, ACK é um sinal que um dispositivo de rede envia a outro para confirmar que recebeu corretamente a mensagem, o propósito do evento é transmitir informação de qualidade, gerar conhecimento e integrar dois públicos que, apesar de distintos, devem ser parceiros no dia a dia: técnicos e gestores de SI.
+No intuito de promover a referida integração, neste ano serão dois dias de evento, com palestras intercaladas entre gerenciais e técnicas na Track 1 e Track 2, além de atividades extras sendo realizadas durante todo o evento.&rdquo;</em></p>
+
+<p>Essas informações são vistas logo no início do site <a href="http://www.bhack.com.br/#SLACKSHOW">http://www.bhack.com.br/#SLACKSHOW</a>.</p>
+
+<p>Será um &ldquo;evento de 3 eventos&rdquo;, o BHack, o OWASP Uai Day e o SlackShow. O Uai Day voltado para segurança de aplicações e o SlackShow é o evento anual sobre o linux skackware.</p>
+
+<p>Para quem gostou, as inscrições ainda estão abertas. Existem 2 formas de se inscrever:  <br/>
+*   Master, que dá direito aos 3 eventos (BHack + Owasp UaiDay + SlackShow), por R$ 108,00<br/>
+*   Comum, que dá direito somente aos eventos (Owasp UaiDay + SlackShow), por R$ 64,80.</p>
+
+<p>O evento será nos dias 22 e 23 de junho de 2013, em Belo Horizonte/Minas Gerais, na FACULDADE FUMEC</p>
+
+<p>Com vários palestrantes e muito conteúdo, ainda dá tempo de se <a href="http://www.bhack.com.br/#works">inscrever e participar</a> :).</p>
+
+<p>Até a próxima o/</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[SQL Saturday RIO - 2a edicao]]></title>
+    <link href="http://toalhatech.com/blog/2013/06/08/sql-saturday-rio-2a-edicao/"/>
+    <updated>2013-06-08T19:12:00-03:00</updated>
+    <id>http://toalhatech.com/blog/2013/06/08/sql-saturday-rio-2a-edicao</id>
+    <content type="html"><![CDATA[<p>Recadinho da <a href="https://twitter.com/valparajara">Val Parajara</a>:</p>
+
+<p>A 2a edição do SQL Saturday RIO está se aproximando, será dia 31/08 e já temos 200 inscritos para o evento.</p>
+
+<p>Inscreva-se já e garanta a sua vaga na edição RIO do maior evento <strong>gratuito sobre SQL Server</strong>, garanta já sua vaga.</p>
+
+<p>Ainda estamos trabalhando na montagem <!-- more -->da agenda do evento, mas você já pode conferir as palestras que foram oferecidas para o evento em <a href="http://www.sqlsaturday.com/245/schedule.aspx">http://www.sqlsaturday.com/245/schedule.aspx</a>.</p>
+
+<p><a href="http://www.sqlsaturday.com/245/callforspeakers.aspx">O Call for Speakers estará aberto até o dia 18 de julho de 2013</a></p>
+
+<p>Inscreva-se em : <a href="http://www.sqlsaturday.com/245/register.aspx">http://www.sqlsaturday.com/245/register.aspx</a></p>
+
+<p><a href="https://maps.google.com.br/maps?q=Universidade+Veiga+de+Almeida+-+Rua+Ibituruna,+Rio+de+Janeiro&amp;aq=f&amp;um=1&amp;ie=UTF-8&amp;hl=pt-BR&amp;sa=N&amp;tab=wl&amp;authuser=0">O evento será na Universidade Veiga de Almeida (UVA)</a></p>
+
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com.br/maps?q=Universidade+Veiga+de+Almeida+-+Rua+Ibituruna,+Rio+de+Janeiro&amp;aq=f&amp;ie=UTF8&amp;hl=pt-BR&amp;hq=Universidade+Veiga+de+Almeida+-+Rua+Ibituruna,+Rio+de+Janeiro&amp;t=m&amp;z=15&amp;iwloc=A&amp;output=embed"></iframe>
+
+
+<br /><small><a href="https://maps.google.com.br/maps?q=Universidade+Veiga+de+Almeida+-+Rua+Ibituruna,+Rio+de+Janeiro&amp;aq=f&amp;ie=UTF8&amp;hl=pt-BR&amp;hq=Universidade+Veiga+de+Almeida+-+Rua+Ibituruna,+Rio+de+Janeiro&amp;t=m&amp;z=15&amp;iwloc=A&amp;source=embed" style="color:#0000FF;text-align:left">Exibir mapa ampliado</a></small>
+
+
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Como foi o Rio Agile Talks de Maio/2013]]></title>
+    <link href="http://toalhatech.com/blog/2013/06/02/como-foi-o-rio-agile-talks-maio-2013/"/>
+    <updated>2013-06-02T13:06:00-03:00</updated>
+    <id>http://toalhatech.com/blog/2013/06/02/como-foi-o-rio-agile-talks-maio-2013</id>
+    <content type="html"><![CDATA[<p>No dia 18 de maio aconteceu, na <a href="http://www.ideais.com.br/">Ideais Tecnologia</a>, o terceiro encontro de 2013 da comunidade ágil do Rio de Janeiro.</p>
+
+<p>O evento contou tanto com profissionais que trabalham com ágil quanto com aqueles que ainda não trabalham. Uma novidade foi a presença de vários profissionais da área de Testes o/.<!-- more --></p>
+
+<p>A primeira palestra foi do <a href="https://twitter.com/RafaelCGuerra">Rafael Guerra</a> &ndash; &ldquo;Kanban além de Software&rdquo;. Nada de slides mas sim um quadro de Kanban para apresentar o conteúdo, mesclando teoria com prática e abordando conceitos como Kaizen e mostrando que o &ldquo;pensamento japonês&rdquo; pode ser aplicado em áreas de negócio.</p>
+
+<p>Na parte de testes teve a minha palestra (primeira palestra oficial da <a href="https://twitter.com/samantacicilia">Samy</a>) &ndash; &ldquo;O que faz (ou não) um tester no mundo ágil&rdquo;, contando um pouquinho das minhas experiências como Analista de Testes em projetos que utilizam metodologias ágeis e mostrando que o tester faz muito mais do que simplesmente testar funcionalidades. Os slides estão disponíveis no meu <a href="http://www.slideshare.net/samantacicilia/o-que-faz-ou-no-um-tester-no-mundo-gil-21125190">slideshare</a>.</p>
+
+<p>Depois do almoço aconteceram duas dinâmicas muito legais.</p>
+
+<p>Um Workshop de Constelações Organizacionais com o <a href="https://twitter.com/danielhst">Daniel Teixeira</a>, onde foi aplicada uma prática que é utilizada na psicoterapia familiar (constelações) para ajudar a encontrar uma solução para determinado problema. No exercício, o problema escolhido foi uma empresa que tinha dificuldades para implantar metodologias ágeis e foram escolhidas pessoas para representar os envolvidos na situação (diretor, coordenador, líder técnico, time, metodologia ágil e etc). Através das disposições das pessoas no ambiente, todos puderam contribuir para que fosse encontrada uma forma de resolver esse problema e aproximar as metodologias ágeis da vida da empresa.</p>
+
+<p>Por último tivemos um Open Space com o <a href="https://twitter.com/marcosgarrido">Marcos Garrido</a> sobre o <a href="https://knowledge21.com.br">Knowledge21</a>.</p>
+
+<p>O próximo Talks acontece em Julho, e em outubro acontecerá o Agile in Rio. Acompanhe o site da comunidade e fique por dentro das novidades: <a href="http://rioagile.com.br">Rio Agile</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Eventos de TI em 2013 - Listagem de vários eventos importantes]]></title>
+    <link href="http://toalhatech.com/blog/2013/06/01/alguns-eventos-importantes-de-2013/"/>
+    <updated>2013-06-01T11:48:00-03:00</updated>
+    <id>http://toalhatech.com/blog/2013/06/01/alguns-eventos-importantes-de-2013</id>
+    <content type="html"><![CDATA[<p>Eventos são momentos importantes de várias comunidades para reunir seus membros e trocar experiências. Um evento é maior que um encontro, seja pela infraestrutura do local, seja pela organização, conteúdo e expectativa dos participantes. Neste ano de 2013, já ocorreram alguns eventos de grande expressão, como o TDC Floripa, Python <!-- more -->Nordeste e o DevinSampa por exemplo,  mas vários outros ainda acontecerão e com inscrições abertas ou para abrir.<br/>
+Pensando nisso, fizemos uma lista de alguns eventos que são do nosso conhecimento. Infelizmente, nem todos os eventos foram listados, mas se você sabe de algum que não está citado abaixo, por favor, nos avise para que atualizarmos o post e divulgar o máximo possível as comunidades/eventos :).</p>
+
+<h3>Junho</h3>
+
+<h5>Evento: <a href="http://soujava.org.br/justjava-2013/">JustJava</a></h5>
+
+<ul>
+<li>Data do Evento: 7 e 8 de junho</li>
+<li>Tecnologia/Tema: Java</li>
+<li>Estado de realização do Evento: São Paulo</li>
+<li>Valor Inscrição: R$ 295,00 a 350,00</li>
+<li>Período de Inscrição: <a href="http://www.sucesusp.org.br/mailing2013/Conteudos/20130607/">até o dia do evento</a></li>
+</ul>
+
+
+<h5>Evento: <a href="http://sampajs.com.br/">Sampa.js</a></h5>
+
+<ul>
+<li>Data do Evento: 8 de junho</li>
+<li>Tecnologia/Tema: Java Script</li>
+<li>Estado de realização do Evento: São Paulo</li>
+<li>Valor Inscrição: R$ 50,00</li>
+<li>Período de Inscrição: <a href="http://bonoevento.com/sampajsv31">até o dia do evento</a></li>
+</ul>
+
+
+<h5>Evento: <a href="http://www.frontinrio.com.br/">FrontInRio</a></h5>
+
+<ul>
+<li>Data do Evento: 15 de junho</li>
+<li>Tecnologia/Tema: Diversas</li>
+<li>Estado de realização do Evento: Rio de Janeiro</li>
+<li>Valor Inscrição: R$ 50,00</li>
+<li>Período de Inscrição: <a href="http://www.frontinrio.com.br/#tickets">até 14/06/2013</a></li>
+</ul>
+
+
+<h5>Evento: <a href="http://2013.jsconfbr.org/">JSConfBr</a></h5>
+
+<ul>
+<li>Data do Evento: 22 de junho</li>
+<li>Tecnologia/Tema: Java Script</li>
+<li>Estado de realização do Evento: Ceará</li>
+<li>Valor Inscrição: R$ 300,00 preço único divulgado na página de inscrições até o dia em que o post foi escrito</li>
+<li>Período de Inscrição: <a href="http://2013.jsconfbr.org/#register">11/04/2013 &ndash; prazo final não divulgado na página de inscrições até o dia em que o post foi escrito</a></li>
+</ul>
+
+
+<h5>Evento: <a href="http://www.bhack.com.br/#SLACKSHOW">BHack Conference 2013</a></h5>
+
+<ul>
+<li>Data do Evento: 22 e 23 de junho</li>
+<li>Tecnologia/Tema: Segurança de Informação, Linux Slackware.</li>
+<li>Estado de realização do Evento: Minas Gerais</li>
+<li>Valor Inscrição: <a href="http://toalhatech.com/blog/2013/06/08/bhack-conference-2013/">R$ 64,80 e R$ 108,00</a></li>
+<li>Período de Inscrição: <a href="http://www.bhack.com.br/#works">11/04/2013 &ndash; prazo final não divulgado na página de inscrições até o dia em que o post foi escrito</a></li>
+</ul>
+
+
+<h5>Evento: <a href="http://www.agilebrazil.com/2013/pt/">Agile Brazil 2013</a></h5>
+
+<ul>
+<li>Data do Evento: 26 até 28 de junho</li>
+<li>Tecnologia/Tema: Agile</li>
+<li>Estado de realização do Evento: Brasília</li>
+<li>Valor Inscrição: R$ 250,00 a R$ 599,00 antecipado. Clausula <em>Por empenho</em> descrita na página de inscrição &ndash; para ela, a inscrição custava R$ 799,00</li>
+<li>Período de Inscrição: <a href="http://www.agilebrazil.com/2013/pt/inscricao/">11/04/2013 &ndash; 17/06/2013 antecipado. Clausula <em>Por empenho</em> descrita na página de inscrição &ndash; para ela a inscrição é até o dia do evento</a></li>
+</ul>
+
+
+<h3>Julho</h3>
+
+<h5>Evento: <a href="http://softwarelivre.org/fisl14">FISL14 2013</a></h5>
+
+<ul>
+<li>Data do Evento: 3 até 6 julho</li>
+<li>Tecnologia/Tema: Diversas</li>
+<li>Estado de realização do Evento: Rio Grande do Sul</li>
+<li>Valor Inscrição: R$ 50,00 a R$ 280,00</li>
+<li>Período de Inscrição: <a href="http://fisl.org.br/14/greve/">até o dia do evento</a></li>
+</ul>
+
+
+<h5>Evento: <a href="http://www.thedevelopersconference.com.br/tdc/2013/data-e-local#saopaulo">TDC São Paulo 2013</a></h5>
+
+<ul>
+<li>Data do Evento: 10 até 14 julho</li>
+<li>Tecnologia/Tema: Diversas</li>
+<li>Estado de realização do Evento: São Paulo</li>
+<li>Valor Inscrição: R$ 70,00 a R$ 110,00</li>
+<li>Período de Inscrição: <a href="http://www.thedevelopersconference.com.br/tdc/2013/inscricoes#saopaulo">até o dia do evento</a></li>
+</ul>
+
+
+<h5>Evento: <a href="http://jugoncalves.github.io/fif2013/">FrontinFortaleza 2013</a></h5>
+
+<ul>
+<li>Data do Evento: 20 de julho</li>
+<li>Tecnologia/Tema: Diversas</li>
+<li>Estado de realização do Evento: Ceará</li>
+<li>Valor Inscrição: não divulgado na página do evento até o dia em que o post foi escrito</li>
+<li>Período de Inscrição: <a href="http://jugoncalves.github.io/fif2013/">prazo final não divulgado na página de inscrições até o dia em que o post foi escrito</a></li>
+</ul>
+
+
+<h5>Evento: <a href="http://www.webday.com.br/">Web Day 2013</a></h5>
+
+<ul>
+<li>Data do Evento: 20 de julho</li>
+<li>Tecnologia/Tema: Diversas</li>
+<li>Estado de realização do Evento: São Paulo</li>
+<li>Valor Inscrição: <a href="http://toalhatech.com/blog/2013/06/08/web-day-2013/">R$ 40,00</a></li>
+<li>Período de Inscrição: <a href="http://jugoncalves.github.io/fif2013/">prazo final não divulgado na página de inscrições até o dia em que o post foi escrito</a></li>
+</ul>
+
+
+<h5>Evento: <a href="http://www.frontinbahia.com.br/">FrontinBahia 2013</a></h5>
+
+<ul>
+<li>Data do Evento: 27 de julho</li>
+<li>Tecnologia/Tema: Diversas</li>
+<li>Estado de realização do Evento: Bahia</li>
+<li>Valor Inscrição: não divulgado na página do evento até o dia em que o post foi escrito</li>
+<li>Período de Inscrição: <a href="https://adobeformscentral.com/?f=uVj67iB49tkqNOHnRMlbxQ">prazo final não divulgado na página de inscrições até o dia em que o post foi escrito</a></li>
+</ul>
+
+
+<h3>Agosto</h3>
+
+<h5>Evento: <a href="http://dnad.azurewebsites.net/">DNAD 2013</a></h5>
+
+<ul>
+<li>Data do Evento: 2 e 3 de agosto</li>
+<li>Tecnologia/Tema: Arquitetura</li>
+<li>Estado de realização do Evento: Rio de Janeiro</li>
+<li>Valor Inscrição: R$ 150,00 para as inscrições feitas até o dia 08/06/2013 e R$ 200,00 o 2º lote a partir do dia 09/06/2013</li>
+<li>Período de Inscrição: <a href="http://dnad.azurewebsites.net/#inscricoes">prazo final não divulgado na página de inscrições até o dia em que o post foi escrito</a></li>
+</ul>
+
+
+<h5>Evento: <a href="http://frontinbh.com.br/">FrontinBH 2013</a></h5>
+
+<ul>
+<li>Data do Evento: 3 de agosto</li>
+<li>Tecnologia/Tema: Diversas</li>
+<li>Estado de realização do Evento: Minas Gerais</li>
+<li>Valor Inscrição: R$ 60,00 para as inscrições feitas até o dia 03/07/2013</li>
+<li>Período de Inscrição: <a href="http://frontinbh.com.br/#ticktes">03/07/2013 segundo o que foi divulgado na página de inscrições até o dia em que o post foi escrito</a></li>
+</ul>
+
+
+<h5>Evento: <a href="http://www.caipiraagil.com/">Caipira Ágil 2013</a></h5>
+
+<ul>
+<li>Data do Evento: 17 de agosto</li>
+<li>Tecnologia/Tema: Agile</li>
+<li>Estado de realização do Evento: São Paulo</li>
+<li>Valor Inscrição: R$ 33,00 para as inscrições feitas até o dia 01/08/2013 &ndash; 1º lote.</li>
+<li>Período de Inscrição: <a href="http://www.eventick.com.br/caipiraagil">01/08/2013 termina o 1º lote de ingressos</a></li>
+</ul>
+
+
+<h5>Evento: <a href="http://braziljs.com.br/">BrazilJS 2013</a></h5>
+
+<ul>
+<li>Data do Evento: 22 e 33 de agosto</li>
+<li>Tecnologia/Tema: Java Script</li>
+<li>Estado de realização do Evento: Rio Grande do Sul</li>
+<li>Valor Inscrição: R$ 170,00 para as inscrições feitas até o dia 07/06/2013. Valores posteriores para inscrições após esta data não divulgados na página de inscrições até o dia em que o post foi escrito</li>
+<li>Período de Inscrição: <a href="http://www.eventick.com.br/braziljs-2013">prazo final não divulgado na página de inscrições até o dia em que o post foi escrito</a></li>
+</ul>
+
+
+<h5>Evento: <a href="http://qconsp.com/">QCONSP 2013</a></h5>
+
+<ul>
+<li>Data do Evento: Tutoriais &ndash; 29 de agosto. Conferência &ndash; 30 e 31 de agosto</li>
+<li>Tecnologia/Tema: Diversas</li>
+<li>Estado de realização do Evento: São Paulo</li>
+<li>Valor Inscrição: Tutoriais e Conferência &ndash; R$ 749,00 à R$ 1099,00. Conferência &ndash; R$ 549,00 à 899</li>
+<li>Período de Inscrição: <a href="http://qconsp.com/register.html">até o dia do evento</a></li>
+</ul>
+
+
+<h5>Evento: RubyConfBr 2013</h5>
+
+<ul>
+<li>Data do Evento: 29 e 30 de agosto</li>
+<li>Tecnologia/Tema: Ruby</li>
+<li>Estado de realização do Evento: São Paulo</li>
+<li>Valor Inscrição: com desconto R$ 250,00 &ndash; até dia 8 de julho a ser realizado no <a href="https://www.facebook.com/locaweb/app_156218351098324">seguinte link</a> a R$ 350,00</li>
+<li>Período de Inscrição: 24 de junho &ndash; <a href="http://www.rubyconf.com.br/pt-BR/home">não divulgado o prazo final de inscrições até o dia da atualização deste post</a></li>
+</ul>
+
+
+<h5>Evento: <a href="http://www.frontinaracaju.com.br/">FrontinAracaju 2013</a></h5>
+
+<ul>
+<li>Data do Evento: 31 de agosto</li>
+<li>Tecnologia/Tema: Diversas</li>
+<li>Estado de realização do Evento: Sergipe</li>
+<li>Valor Inscrição: não divulgado na página do evento até o dia em que o post foi escrito</li>
+<li>Período de Inscrição: <a href="http://www.frontinaracaju.com.br/">não divulgado na página do evento até o dia em que o post foi escrito</a></li>
+</ul>
+
+
+<h5>Evento: <a href="http://www.sqlsaturday.com/245/eventhome.aspx">SQL Saturday RIO 2013</a></h5>
+
+<ul>
+<li>Data do Evento: 31 de agosto</li>
+<li>Tecnologia/Tema: SQL, SQL Server</li>
+<li>Estado de realização do Evento: Rio de Janeiro</li>
+<li>Valor Inscrição: <a href="http://toalhatech.com/blog/2013/06/08/sql-saturday-rio-2a-edicao/">Gratuito</a></li>
+<li>Período de Inscrição: <a href="http://www.sqlsaturday.com/245/eventhome.aspx">não divulgado na página do evento até o dia em que o post foi escrito</a></li>
+</ul>
+
+
+<h3>Setembro</h3>
+
+<h5>Evento: <a href="http://www.frontinsampa.com.br/">FrontInSP</a></h5>
+
+<ul>
+<li>Data do Evento: 14 de setembro</li>
+<li>Tecnologia/Tema: Diversas</li>
+<li>Estado de realização do Evento: São Paulo</li>
+<li>Valor Inscrição: R$ 200,00 &ndash; preço do 2º lote de ingressos.</li>
+<li>Período de Inscrição: <a href="http://www.eventick.com.br/frontinsampa2013">até 31/07/2013</a></li>
+</ul>
+
+
+<h5>Evento: <a href="http://www.testday.com.br/">TestDay</a></h5>
+
+<ul>
+<li>Data do Evento: 21 de setembro</li>
+<li>Tecnologia/Tema: Teste</li>
+<li>Estado de realização do Evento: São Paulo</li>
+<li>Valor Inscrição: R$ 40,00</li>
+<li>Período de Inscrição: <a href="https://www.ingresse.com.br/testday">prazo final não divulgado na página de inscrições até o dia em que o post foi escrito</a></li>
+</ul>
+
+
+<h3>Outubro</h3>
+
+<h5>Evento: <a href="http://2013.pythonbrasil.org.br/">python-brasil 2013</a></h5>
+
+<ul>
+<li>Data do Evento: 2 até 4 de outubro</li>
+<li>Tecnologia/Tema: Python</li>
+<li>Estado de realização do Evento: Brasília</li>
+<li>Valor Inscrição: não divulgado na página do evento até o dia em que o post foi escrito</li>
+<li>Período de Inscrição: <a href="http://2013.pythonbrasil.org.br/inscricoes">não divulgado na página do evento até o dia em que o post foi escrito</a></li>
+</ul>
+
+
+<h5>Evento: <a href="http://www.agiletrendsbr.com/">AgileTrends 2013</a></h5>
+
+<ul>
+<li>Data do Evento: 4 e 5 de outubro</li>
+<li>Tecnologia/Tema: Agile e tendências de desenvolvimento de software</li>
+<li>Estado de realização do Evento: São Paulo</li>
+<li>Valor Inscrição: não divulgado na página do evento até o dia em que o post foi escrito</li>
+<li>Período de Inscrição: <a href="http://agiletrendsbr.com/2013/inscricoes/">não divulgado na página do evento até o dia em que o post foi escrito</a></li>
+</ul>
+
+
+<h5>Evento: <a href="http://hackdesignconf.com.br/">Hack &amp; Design Conference 2013</a></h5>
+
+<ul>
+<li>Data do Evento: 5 de outubro</li>
+<li>Tecnologia/Tema: Diversos</li>
+<li>Estado de realização do Evento: Rio de Janeiro</li>
+<li>Valor Inscrição: R$ 130,00 (Lote 0, destinado a participantes do DevDay 2012) a R$ 200,00</li>
+<li>Período de Inscrição: <a href="http://www.eventick.com.br/hdc">até o dia 04/10/2013</a></li>
+</ul>
+
+
+<h5>Evento: <a href="http://devday.devisland.com/">DevDay 2013</a></h5>
+
+<ul>
+<li>Data do Evento: 19 de outubro</li>
+<li>Tecnologia/Tema: Diversos</li>
+<li>Estado de realização do Evento: Minas Gerais</li>
+<li>Valor Inscrição: R$ 40,00 (Lote 0, destinado a participantes do DevDay 2012) a R$ 90,00</li>
+<li>Período de Inscrição: <a href="http://devday.devisland.com/">até o dia do evento</a></li>
+</ul>
+
+
+<h5>Evento: <a href="http://www.thedevelopersconference.com.br/tdc/2013/data-e-local#portoalegre">TDC Porto Alegre 2013</a></h5>
+
+<ul>
+<li>Data do Evento: 25 e 26 de outubro</li>
+<li>Tecnologia/Tema: Diversas</li>
+<li>Estado de realização do Evento: Porto Alegre</li>
+<li>Valor Inscrição: R$ 70,00 a R$ 110,00</li>
+<li>Período de Inscrição: <a href="http://www.thedevelopersconference.com.br/tdc/2013/inscricoes#portoalegre">até dia 16/08/2013 &ndash; R$ 70,00 até o dia do evento</a></li>
+</ul>
+
+
+<h5>Evento: <a href="http://rioagile.com.br/agile-in-rio.html">AgileinRio 2013</a></h5>
+
+<ul>
+<li>Data do Evento: 26 e 27 de outubro</li>
+<li>Tecnologia/Tema: Agile</li>
+<li>Estado de realização do Evento: Rio de Janeiro</li>
+<li>Valor Inscrição: R$ 150,00 a R$ 250,00</li>
+<li>Período de Inscrição: <a href="http://agileinrio.eventbrite.com/">até o dia do evento</a></li>
+</ul>
+
+
+<h3>Novembro</h3>
+
+<h5>Evento: <a href="http://www.phpconference.com.br/">PHP Conference Brasil 2013</a></h5>
+
+<ul>
+<li>Data do Evento: 28 de novembro até 01 de dezembro</li>
+<li>Tecnologia/Tema: PHP</li>
+<li>Estado de realização do Evento: São Paulo</li>
+<li>Valor Inscrição: não divulgado na página do evento até o dia em que o post foi escrito</li>
+<li>Período de Inscrição: <a href="http://www.phpconference.com.br/">não divulgado na página do evento até o dia em que o post foi escrito</a></li>
+</ul>
+
+
+<h5>Evento: <a href="http://www.thedevelopersconference.com.br/tdc/2013/index.html#recife">TDC Recife 2013</a></h5>
+
+<ul>
+<li>Data do Evento: 8 e 9 de novembro</li>
+<li>Tecnologia/Tema: Diversas</li>
+<li>Estado de realização do Evento: Pernambuco</li>
+<li>Valor Inscrição: R$ 70,00 a R$ 110,00</li>
+<li>Período de Inscrição: <a href="http://www.thedevelopersconference.com.br/">não divulgado na página do evento até o dia em que o post foi atualizado</a></li>
+</ul>
+
+
+<h5>Evento: <a href="http://rupy.com.br/">Rupy Brasil 2013</a></h5>
+
+<ul>
+<li>Data do Evento: 28 e 29 de novembro</li>
+<li>Tecnologia/Tema: Ruby e Python</li>
+<li>Estado de realização do Evento: São Paulo</li>
+<li>Valor Inscrição: não divulgado na página do evento até o dia em que o post foi atualizado</li>
+<li>Período de Inscrição: <a href="http://designa.us2.list-manage.com/subscribe?u=90c0f8998e92920b5635111bb&amp;id=9da17ec714">não divulgado na página do evento até o dia em que o post foi atualizado. Pré inscrições já disponíveis</a></li>
+</ul>
+
+
+<h3>Dezembro</h3>
+
+<h5>Evento: <a href="http://www.oracle.com/javaone/lad-pt/index.html">JavaOne América Latina 2013</a></h5>
+
+<ul>
+<li>Data do Evento: 10 de dezembro até 12 de dezembro</li>
+<li>Tecnologia/Tema: Java</li>
+<li>Estado de realização do Evento: Não divulgado na página do evento até o dia em que o post foi atualizado. Possibilidades de que seja em São Paulo.</li>
+<li>Valor Inscrição: não divulgado na página do evento até o dia em que o post foi escrito</li>
+<li>Período de Inscrição: <a href="http://www.oracle.com/javaone/lad-pt/index.html">não divulgado na página do evento até o dia em que o post foi escrito</a></li>
+</ul>
+
+
+<p>Favorite este post e não se esqueça de se inscrever e participar desses momentos importantes para o desenvolvimento de software do Brasil. Os eventos descritos que não possuem valor e período de inscrição serão atualizados assim que as informações forem divulgadas pelos organizadores dos eventos.</p>
+
+<p>Até a próxima o/.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Encontros de algumas comunidades do Rio de Janeiro]]></title>
+    <link href="http://toalhatech.com/blog/2013/05/30/encontros-mensais-bimestrais-de-algumas-comunidades-do-rio-de-janeiro/"/>
+    <updated>2013-05-30T10:40:00-03:00</updated>
+    <id>http://toalhatech.com/blog/2013/05/30/encontros-mensais-bimestrais-de-algumas-comunidades-do-rio-de-janeiro</id>
+    <content type="html"><![CDATA[<p>No Rio de Janeiro, algumas comunidades estão bastante organizadas e engajadas em manter a regularidade dos encontros de seus participantes. Nos encontros que podem ser para palestras, apresentação de cases, bate papo sobre a área ou um misto dos dois, ocorrem geralmente com uma certa agenda, descrita abaixo:</p>
+
+<!-- more -->
+
+
+<h4>Encontros Semanais:</h4>
+
+<ul>
+<li>Encontro da comunidade python &ndash; Almoço do <a href="https://twitter.com/pythonrio">PythOnRio</a> &ndash; no <a href="http://br.groups.yahoo.com/group/pythonrio/">Centro</a> e na <a href="http://toalhatech.com/blog/2013/05/27/almoco-pythonrio-barra-da-tijuca/">Barra da Tijuca</a></li>
+</ul>
+
+
+<h4>Encontros Mensais:</h4>
+
+<ul>
+<li>1º sábado &ndash; Encontro da comunidade .NET &ndash; <a href="https://twitter.com/dnario">DNA Rio</a></li>
+<li>2º quinta feira &ndash; Encontro da comunidade Perl &ndash; <a href="https://twitter.com/rio_pm">Rio PerlMonks</a> &ndash; <a href="http://mail.pm.org/mailman/listinfo/rio-pm">Rio-pm</a>. A comunidade também se reume para hackatons, que geralmente ocorrem no sábado depois do encontro mensal.</li>
+<li>3º sábado &ndash; Encontro da comunidade ruby &ndash; <a href="https://twitter.com/rubyonrio">RubyOnRio</a></li>
+</ul>
+
+
+<h4>Encontros Bimestrais:</h4>
+
+<ul>
+<li>Encontro da comunidade agile &ndash; <a href="http://rioagile.com.br/rio-agile-talks.html">Rio Agile Talks</a></li>
+<li>Encontro da comunidade javascript &ndash; <a href="https://www.facebook.com/groups/riojs">RioJS</a> &ndash; grupo do facebook</li>
+</ul>
+
+
+<p>Se você programa ou tem curiosidade sobre alguma dessas tecnologias, se programe e participe dos encontros. Certamente estar junto dessas pessoas é uma ótima oportunidade de aprender, ensinar e conhecer pessoas sensacionais.</p>
+
+<p>Agradeço muito à ajuda da <a href="https://twitter.com/valparajara">@valparajara</a> pelas informações da comunidade Ruby RJ, do <a href="https://twitter.com/leobetosouza">@leobetosouza</a> pelas informações da comunidade Riojs, da <a href="https://twitter.com/samantacicilia">@samantacicilia</a> pelas informações sobre a comunidade Agile RJ, do <a href="https://twitter.com/breno_ferreira">@breno_ferreira</a> pelas informações sobre a comunidade .Net-RJ, do <a href="https://twitter.com/israelst">@israelst</a> juntamente com a <a href="https://twitter.com/Renata_Carreira">@Renata_Carreira</a> sobre as informações da comunidade Python RJ e o <a href="https://twitter.com/leobetosouza">@leobetosouza</a> novamente contribuiu para com as informações da comunidade Perl para que o post fosse escrito :).</p>
+
+<p>Até a próxima o/.</p>
+]]></content>
+  </entry>
+  
+</feed>

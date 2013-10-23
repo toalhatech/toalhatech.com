@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Eventos, | ToalhaTech]]></title>
+  <link href="http://toalhatech.com/blog/categories/eventos/atom.xml" rel="self"/>
+  <link href="http://toalhatech.com/"/>
+  <updated>2013-10-23T21:18:39-02:00</updated>
+  <id>http://toalhatech.com/</id>
+  <author>
+    <name><![CDATA[Equipe ToalhaTech]]></name>
+    <email><![CDATA[contato@toalhatech.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Web Day 2013]]></title>
+    <link href="http://toalhatech.com/blog/2013/06/08/web-day-2013/"/>
+    <updated>2013-06-08T21:22:00-03:00</updated>
+    <id>http://toalhatech.com/blog/2013/06/08/web-day-2013</id>
+    <content type="html"><![CDATA[<p>O <a href="http://www.webday.com.br">Web Day</a> é um seminário para desenvolvedores web. Segundo o site do evento, <em>&ldquo;será um evento técnico, onde os conceitos atuais serão vistos mais a fundo. As palestras serão realizadas por profissionais que atuam no mercado&rdquo;</em>.</p>
+
+<p>Com esta premissa bem direta ao assunto :), <a href="http://www.webday.com.br/p/palestrantes_30.html">palestrantes conhecidos no mundo front-end, ruby on rails e outros</a>, o evento ocorrerá no dia 20 de julho de 2013.</p>
+
+<p>A grade do evento já foi divulgada <!-- more --><a href="http://www.webday.com.br/p/programacao.html">http://www.webday.com.br/p/programacao.html</a></p>
+
+<p>As inscrições custam R$ 40,00 <a href="https://www.ingresse.com.br/webday">https://www.ingresse.com.br/webday</a> e será na <a href="http://www.webday.com.br/p/data-local.html">PUC-SP</a>.</p>
+
+<p>Corra e se inscreva antes que as vagas acabem :).</p>
+
+<p>Até a próxima o/</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[BHack Conference 2013]]></title>
+    <link href="http://toalhatech.com/blog/2013/06/08/bhack-conference-2013/"/>
+    <updated>2013-06-08T19:52:00-03:00</updated>
+    <id>http://toalhatech.com/blog/2013/06/08/bhack-conference-2013</id>
+    <content type="html"><![CDATA[<p>A dica deste evento foi da <a href="https://twitter.com/vivocah">Vivi Sousa</a>. Ela mandou um email perguntando se o ToalhaTech só falaria sobre eventos no RJ. A resposta para esta pergunta é: Nós publicamos e queremos publicar eventos do Brasil inteiro :).</p>
+
+<p>Segundo a descrição encontrada no site, o BHack Conference 2013 é:</p>
+
+<p><em>&ldquo;Evento voltado à Segurança da Informação</em><!-- more --><em> (SI). Trazendo a cena mineira a possibilidade de espaço para disseminação de informação atualizada e de qualidade sobre temas essenciais, contando com um seleto grupo de palestrantes renomados e com profundo conhecimento em sua área de atuação. Além disso o evento será anfitrião do primeiro capítulo da Owasp Uai Day e da segunda edição do Slackware Show na capital mineira, evento este que ocorre nacionalmente desde 2005.
+BHack, como o nome já tenta mencionar, ACK é um sinal que um dispositivo de rede envia a outro para confirmar que recebeu corretamente a mensagem, o propósito do evento é transmitir informação de qualidade, gerar conhecimento e integrar dois públicos que, apesar de distintos, devem ser parceiros no dia a dia: técnicos e gestores de SI.
+No intuito de promover a referida integração, neste ano serão dois dias de evento, com palestras intercaladas entre gerenciais e técnicas na Track 1 e Track 2, além de atividades extras sendo realizadas durante todo o evento.&rdquo;</em></p>
+
+<p>Essas informações são vistas logo no início do site <a href="http://www.bhack.com.br/#SLACKSHOW">http://www.bhack.com.br/#SLACKSHOW</a>.</p>
+
+<p>Será um &ldquo;evento de 3 eventos&rdquo;, o BHack, o OWASP Uai Day e o SlackShow. O Uai Day voltado para segurança de aplicações e o SlackShow é o evento anual sobre o linux skackware.</p>
+
+<p>Para quem gostou, as inscrições ainda estão abertas. Existem 2 formas de se inscrever:  <br/>
+*   Master, que dá direito aos 3 eventos (BHack + Owasp UaiDay + SlackShow), por R$ 108,00<br/>
+*   Comum, que dá direito somente aos eventos (Owasp UaiDay + SlackShow), por R$ 64,80.</p>
+
+<p>O evento será nos dias 22 e 23 de junho de 2013, em Belo Horizonte/Minas Gerais, na FACULDADE FUMEC</p>
+
+<p>Com vários palestrantes e muito conteúdo, ainda dá tempo de se <a href="http://www.bhack.com.br/#works">inscrever e participar</a> :).</p>
+
+<p>Até a próxima o/</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[SQL Saturday RIO - 2a edicao]]></title>
+    <link href="http://toalhatech.com/blog/2013/06/08/sql-saturday-rio-2a-edicao/"/>
+    <updated>2013-06-08T19:12:00-03:00</updated>
+    <id>http://toalhatech.com/blog/2013/06/08/sql-saturday-rio-2a-edicao</id>
+    <content type="html"><![CDATA[<p>Recadinho da <a href="https://twitter.com/valparajara">Val Parajara</a>:</p>
+
+<p>A 2a edição do SQL Saturday RIO está se aproximando, será dia 31/08 e já temos 200 inscritos para o evento.</p>
+
+<p>Inscreva-se já e garanta a sua vaga na edição RIO do maior evento <strong>gratuito sobre SQL Server</strong>, garanta já sua vaga.</p>
+
+<p>Ainda estamos trabalhando na montagem <!-- more -->da agenda do evento, mas você já pode conferir as palestras que foram oferecidas para o evento em <a href="http://www.sqlsaturday.com/245/schedule.aspx">http://www.sqlsaturday.com/245/schedule.aspx</a>.</p>
+
+<p><a href="http://www.sqlsaturday.com/245/callforspeakers.aspx">O Call for Speakers estará aberto até o dia 18 de julho de 2013</a></p>
+
+<p>Inscreva-se em : <a href="http://www.sqlsaturday.com/245/register.aspx">http://www.sqlsaturday.com/245/register.aspx</a></p>
+
+<p><a href="https://maps.google.com.br/maps?q=Universidade+Veiga+de+Almeida+-+Rua+Ibituruna,+Rio+de+Janeiro&amp;aq=f&amp;um=1&amp;ie=UTF-8&amp;hl=pt-BR&amp;sa=N&amp;tab=wl&amp;authuser=0">O evento será na Universidade Veiga de Almeida (UVA)</a></p>
+
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com.br/maps?q=Universidade+Veiga+de+Almeida+-+Rua+Ibituruna,+Rio+de+Janeiro&amp;aq=f&amp;ie=UTF8&amp;hl=pt-BR&amp;hq=Universidade+Veiga+de+Almeida+-+Rua+Ibituruna,+Rio+de+Janeiro&amp;t=m&amp;z=15&amp;iwloc=A&amp;output=embed"></iframe>
+
+
+<br /><small><a href="https://maps.google.com.br/maps?q=Universidade+Veiga+de+Almeida+-+Rua+Ibituruna,+Rio+de+Janeiro&amp;aq=f&amp;ie=UTF8&amp;hl=pt-BR&amp;hq=Universidade+Veiga+de+Almeida+-+Rua+Ibituruna,+Rio+de+Janeiro&amp;t=m&amp;z=15&amp;iwloc=A&amp;source=embed" style="color:#0000FF;text-align:left">Exibir mapa ampliado</a></small>
+
+
+
+]]></content>
+  </entry>
+  
+</feed>

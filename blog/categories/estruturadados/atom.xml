@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: EstruturaDados, | ToalhaTech]]></title>
+  <link href="http://toalhatech.com/blog/categories/estruturadados/atom.xml" rel="self"/>
+  <link href="http://toalhatech.com/"/>
+  <updated>2013-10-23T21:18:39-02:00</updated>
+  <id>http://toalhatech.com/</id>
+  <author>
+    <name><![CDATA[Equipe ToalhaTech]]></name>
+    <email><![CDATA[contato@toalhatech.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Encontro do Grupo de Estrutura de Dados/RJ Agosto/2013]]></title>
+    <link href="http://toalhatech.com/blog/2013/08/04/encontro-do-grupo-de-estrutura-de-dados-slash-rj-agosto-slash-2013/"/>
+    <updated>2013-08-04T11:39:00-03:00</updated>
+    <id>http://toalhatech.com/blog/2013/08/04/encontro-do-grupo-de-estrutura-de-dados-slash-rj-agosto-slash-2013</id>
+    <content type="html"><![CDATA[<p>Olá, pessoal. Tudo bem com vocês?</p>
+
+<p>No dia 10 de agosto (de 2013), será realizado o 2º encontro do grupo de estrutura de dados e o local é na <a href="http://www.caelum.com.br/">Caelum/RJ</a>.<br/>
+Após muitas conversas este encontro e acredito fortemente que os outros também, tem por intuito reunir pessoas interessadas em algoritmos e estrutura de dados e<!-- more --> compartilhar o que estão fazendo,  o que estão pesquisando e afins, sem o formato palestra &ndash; palestrante fala e as pessoas ouvem. O objetivo é trocar, é falar sobre algo e as pessoas possam intervir, questionar, complementar o conteúdo no mesmo instante.</p>
+
+<p>As inscrições serão realizadas até o dia 7 de agosto, pelo link: <a href="http://t.co/ZMVGR9FeQc">http://t.co/ZMVGR9FeQc</a></p>
+
+<p>Como chegar na Caelum/RJ:</p>
+
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com.br/maps?f=q&amp;source=s_q&amp;hl=pt-BR&amp;geocode=&amp;q=R.+do+Ouvidor,+50,+Centro+Rio+De+Janeiro+20040-030&amp;aq=&amp;sll=-12.726084,-53.173828&amp;sspn=67.293442,135.263672&amp;ie=UTF8&amp;hq=&amp;hnear=R.+do+Ouvidor,+50+-+Centro,+Rio+de+Janeiro,+20040-030&amp;t=m&amp;z=14&amp;iwloc=A&amp;ll=-22.902524,-43.176075&amp;output=embed"></iframe>
+
+
+<br /><small><a href="https://maps.google.com.br/maps?f=q&amp;source=embed&amp;hl=pt-BR&amp;geocode=&amp;q=R.+do+Ouvidor,+50,+Centro+Rio+De+Janeiro+20040-030&amp;aq=&amp;sll=-12.726084,-53.173828&amp;sspn=67.293442,135.263672&amp;ie=UTF8&amp;hq=&amp;hnear=R.+do+Ouvidor,+50+-+Centro,+Rio+de+Janeiro,+20040-030&amp;t=m&amp;z=14&amp;iwloc=A&amp;ll=-22.902524,-43.176075" style="color:#0000FF;text-align:left">Exibir mapa ampliado</a></small>  
+
+
+<p>Até a próxima o/</p>
+]]></content>
+  </entry>
+  
+</feed>

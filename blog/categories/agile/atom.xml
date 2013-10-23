@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: agile, | ToalhaTech]]></title>
+  <link href="http://toalhatech.com/blog/categories/agile/atom.xml" rel="self"/>
+  <link href="http://toalhatech.com/"/>
+  <updated>2013-10-23T21:18:39-02:00</updated>
+  <id>http://toalhatech.com/</id>
+  <author>
+    <name><![CDATA[Equipe ToalhaTech]]></name>
+    <email><![CDATA[contato@toalhatech.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Agile in Rio 2013]]></title>
+    <link href="http://toalhatech.com/blog/2013/08/19/agile-in-rio-2013/"/>
+    <updated>2013-08-19T18:42:00-03:00</updated>
+    <id>http://toalhatech.com/blog/2013/08/19/agile-in-rio-2013</id>
+    <content type="html"><![CDATA[<p>Baseado no recado que a <a href="https://twitter.com/samantacicilia">@SamySouza</a> deixou no <a href="http://oglobo.globo.com/blogs/tecnologia/posts/2013/08/19/agile-in-rio-2013-507057.asp">O Globo</a>:</p>
+
+<div style="float: left"><img src="http://toalhatech.com/images/logoAgileInRio.png" /></div>
+
+
+<p>Durante os dias 26 e 27 de Outubro de 2013 ocorrerá o <a href="http://www.agileinrio.com.br/">Agile in Rio</a>: conferência realizada pela comunidade Agile do Rio de Janeiro para a comunidade<!-- more --> Agile do Brasil inteiro, com o objetivo de trazer para o mercado uma visão moderna sobre o desenvolvimento de software. Os principais pontos abordados, além de desenvolvimento de software são processos de gestão e ambiente de trabalho, que permitem o desenvolvimento sustentável de software e resultados finais de alta qualidade e aderência às necessidades mais atuais dos clientes</p>
+
+<p>O evento é focado no desenvolvimento de software sob os paradigmas Agile e Lean. Para concretizar o objetivo do Agile in Rio, várias pessoas com diversas experiências para compartilhar serão palestrantes: Alexandre Magno, Alisson Vale, Rodrigo de Toledo, Rafael Sabbagh,  Rodrigo Yoshima, Vinicius Teles e outros integrantes da comunidade ágil brasileira. Além desse super time, a presença internacional de Mary Poppendieck, que abrirá primeiro dia de atividades.</p>
+
+<p>Tendo como premissa o direcionamento para o mercado/industria de software, o evento é composto de 2 trilhas: gestão e desenvolvimento. Todos os profissionais de TI e interessados em desenvolvimento de software e agile constituem o público alvo do Agile in Rio.</p>
+
+<p>Informações sobre inscrições, grade de palestras e tudo mais  sobre o Agile in Rio, com realização na Universidade La Salle (Rua Gastão Gonçalves 79, Santa Rosa &ndash;  Niterói &ndash;  RJ), estão disponíveis no <a href="http://www.agileinrio.com.br/">www.agileinrio.com.br</a>.</p>
+
+<p>Outras informações podem ser obtidas através do e-mail de contato: <a href="&#109;&#97;&#x69;&#108;&#x74;&#x6f;&#58;&#x64;&#x75;&#x76;&#105;&#x64;&#x61;&#115;&#x40;&#x61;&#x67;&#x69;&#x6c;&#101;&#x69;&#x6e;&#x72;&#x69;&#x6f;&#x2e;&#99;&#111;&#109;&#x2e;&#x62;&#x72;">&#x64;&#117;&#x76;&#105;&#x64;&#x61;&#115;&#64;&#97;&#103;&#105;&#x6c;&#x65;&#x69;&#110;&#114;&#105;&#x6f;&#x2e;&#x63;&#x6f;&#109;&#x2e;&#98;&#x72;</a></p>
+
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com.br/maps?f=q&amp;source=embed&amp;hl=pt-BR&amp;geocode=&amp;q=+Universidade+La+Salle++Rua+Gast%C3%A3o+Gon%C3%A7alves+79,+Santa+Rosa+%E2%80%93+Niter%C3%B3i+%E2%80%93+RJ&amp;aq=&amp;sll=-22.896754,-43.106566&amp;sspn=0.015517,0.033023&amp;gl=br&amp;g=R.+Gast%C3%A3o+Gon%C3%A7alves,+79+-+P%C3%A9+Pequeno,+Niter%C3%B3i+-+Rio+de+Janeiro,+24240-030&amp;ie=UTF8&amp;hq=Universidade+La+Salle&amp;hnear=R.+Gast%C3%A3o+Gon%C3%A7alves,+79+-+P%C3%A9+Pequeno,+Niter%C3%B3i+-+Rio+de+Janeiro,+24240-030&amp;ll=-22.896942,-43.10655&amp;spn=0.006295,0.006295&amp;t=m&amp;layer=c&amp;cbll=-22.897117,-43.106429&amp;panoid=qBUdPBXkn4D35o_GX8S8gw&amp;cbp=12,261.72,,0,0&amp;output=svembed"></iframe>
+
+
+<br /><small><a href="https://maps.google.com.br/maps?f=q&amp;source=embed&amp;hl=pt-BR&amp;geocode=&amp;q=+Universidade+La+Salle++Rua+Gast%C3%A3o+Gon%C3%A7alves+79,+Santa+Rosa+%E2%80%93+Niter%C3%B3i+%E2%80%93+RJ&amp;aq=&amp;sll=-22.896754,-43.106566&amp;sspn=0.015517,0.033023&amp;gl=br&amp;g=R.+Gast%C3%A3o+Gon%C3%A7alves,+79+-+P%C3%A9+Pequeno,+Niter%C3%B3i+-+Rio+de+Janeiro,+24240-030&amp;ie=UTF8&amp;hq=Universidade+La+Salle&amp;hnear=R.+Gast%C3%A3o+Gon%C3%A7alves,+79+-+P%C3%A9+Pequeno,+Niter%C3%B3i+-+Rio+de+Janeiro,+24240-030&amp;ll=-22.896942,-43.10655&amp;spn=0.006295,0.006295&amp;t=m&amp;layer=c&amp;cbll=-22.897117,-43.106429&amp;panoid=qBUdPBXkn4D35o_GX8S8gw&amp;cbp=12,261.72,,0,0" style="color:#0000FF;text-align:left">Exibir mapa ampliado</a></small>
+
+
+
+]]></content>
+  </entry>
+  
+</feed>

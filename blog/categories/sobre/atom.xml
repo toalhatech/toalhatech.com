@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Sobre | ToalhaTech]]></title>
+  <link href="http://toalhatech.com/blog/categories/sobre/atom.xml" rel="self"/>
+  <link href="http://toalhatech.com/"/>
+  <updated>2013-10-23T21:18:39-02:00</updated>
+  <id>http://toalhatech.com/</id>
+  <author>
+    <name><![CDATA[Equipe ToalhaTech]]></name>
+    <email><![CDATA[contato@toalhatech.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Objetivo do ToalhaTech]]></title>
+    <link href="http://toalhatech.com/blog/2013/05/12/objetivo-do-toalhatech/"/>
+    <updated>2013-05-12T00:36:00-03:00</updated>
+    <id>http://toalhatech.com/blog/2013/05/12/objetivo-do-toalhatech</id>
+    <content type="html"><![CDATA[<p>Nós de TI frequentamos eventos, reuniões e afins para encontrar com outras pessoas do nosso meio e trocarmos informações, conhecemos outras pessoas que tem boas referências e assim construímos parte do que somos como profissionais. Muitas vezes, fazemos até amizades fortes vivenciando estes momentos.</p>
+
+<p>Sabendo do quanto é relevante e benéfico este tipo de convivência, nós tentamos fazer parte da comunidade e nos esforçamos para ir ao máximo possível de eventos.</p>
+
+<!-- more -->
+
+
+<p>
+Em conversas posteriores, a Anna Cruz incentivou que a Samanta Cicília e eu escrevessemos sobre o que vemos nos eventos que fomos, mas a própria Anna também vai a muitos eventos então concordamos que a Anna seria ótima para o grupo.</p>
+
+<p>Anna, Samanta e eu nos conhecemos por intermédio de um evento, o railsgirls_rj.</p>
+
+<p>Com isso, a <a href="https://twitter.com/yuizinha">Anna Cruz</a> , a <a href="https://twitter.com/samantacicilia">Samy Souza</a> e eu <a href="https://twitter.com/JacAbreu">(Jac Abreu Lopes)</a>, criamos o ToalhaTech &ndash; um blog para falarmos sobre o que vimos de interessante nos eventos, para anunciar eventos e para falar de outros temas que consideramos interessantes relacionados a tecnologia. Em agosto/2013, a <a href="https://twitter.com/rla4">Roberta Arcoverde</a> entrou no nosso time e tem feito um excelente trabalho.</p>
+
+<p>O nome “ToalhaTech” surgiu porque todas nós gostamos do Mochileiro das Galáxias e tão importante quanto sempre ter a sua toalha é ler o ToalhaTech :).</p>
+
+<p>Nós esperamos que nossos textos agregem um pouquinho mais às comunidades e que anime a mais pessoas a estarem conosco nos eventos, fortalecendo esta troca saudável que a nossa área proporciona.</p>
+
+<p>Como a <a href="https://twitter.com/yuizinha/status/324149434344677379">Anna disse</a>:</p>
+
+<p>“Comunidade &ndash; do latim &ldquo;Communitas&rdquo; &ndash; Comunidade, companherismo. Ou ainda do também latim &ldquo;Communis&rdquo; &ndash; Comum, Geral, Compartilhado por muitos”</p>
+
+<p>É a nossa inspiração :).</p>
+]]></content>
+  </entry>
+  
+</feed>

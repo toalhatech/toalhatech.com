@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: python, | ToalhaTech]]></title>
+  <link href="http://toalhatech.com/blog/categories/python/atom.xml" rel="self"/>
+  <link href="http://toalhatech.com/"/>
+  <updated>2013-10-23T21:18:39-02:00</updated>
+  <id>http://toalhatech.com/</id>
+  <author>
+    <name><![CDATA[Equipe ToalhaTech]]></name>
+    <email><![CDATA[contato@toalhatech.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Python Day Sergipe]]></title>
+    <link href="http://toalhatech.com/blog/2013/08/30/python-day-sergipe/"/>
+    <updated>2013-08-30T08:18:00-03:00</updated>
+    <id>http://toalhatech.com/blog/2013/08/30/python-day-sergipe</id>
+    <content type="html"><![CDATA[<p>Olá, pessoal. Bom dia :).</p>
+
+<p>Algo que realmente gosto de ver são encontros e eventos espalhados por todo o país. O fortalecimento de uma comunidade local é benéfico para todas as comunidades e deveriamos nos ajudar mais neste sentido. <br/>
+O <a href="http://pug-se.github.io/">Python User Group Sergipe</a> anunciou no <a href="https://groups.google.com/forum/#!forum/python-brasil">Python Brasil Google Groups</a> a primeira edição do
+<strong><a href="http://pug-se.github.io/pythonday/">Python Day Sergipe</a></strong>.<br/>
+O evento ocorrerá no dia 26 de outubro, com palestras pela manhã e minicursos a tarde sobre Python.<!-- more --></p>
+
+<p>O primeiro lote para inscrição vai até o dia 30/09 e custa R$ 40,00. Inscrições pelo link <a href="http://pug-se.github.io/pythonday/">http://pug-se.github.io/pythonday/</a></p>
+
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com.br/maps?f=q&amp;source=s_q&amp;hl=pt&amp;geocode=&amp;q=+Neoworking+Rua+Edson+Ribeiro,+552+-+Salgado+Filho,+Aracaju+-+SE&amp;aq=&amp;sll=-10.931616,-37.055351&amp;sspn=0.008764,0.016512&amp;gl=br&amp;g=R.+Edson+Ribeiro,+552+-+Salgado+Filho,+Aracaju+-+SE,+49020-370&amp;ie=UTF8&amp;hq=Neoworking&amp;hnear=R.+Edson+Ribeiro,+552+-+Salgado+Filho,+Aracaju+-+Sergipe,+49020-370&amp;ll=-10.932532,-37.055919&amp;spn=0.008764,0.016512&amp;t=m&amp;z=14&amp;iwloc=A&amp;cid=11060859093349500951&amp;output=embed"></iframe>
+
+
+<br /><small><a href="https://maps.google.com.br/maps?f=q&amp;source=embed&amp;hl=pt&amp;geocode=&amp;q=+Neoworking+Rua+Edson+Ribeiro,+552+-+Salgado+Filho,+Aracaju+-+SE&amp;aq=&amp;sll=-10.931616,-37.055351&amp;sspn=0.008764,0.016512&amp;gl=br&amp;g=R.+Edson+Ribeiro,+552+-+Salgado+Filho,+Aracaju+-+SE,+49020-370&amp;ie=UTF8&amp;hq=Neoworking&amp;hnear=R.+Edson+Ribeiro,+552+-+Salgado+Filho,+Aracaju+-+Sergipe,+49020-370&amp;ll=-10.932532,-37.055919&amp;spn=0.008764,0.016512&amp;t=m&amp;z=14&amp;iwloc=A&amp;cid=11060859093349500951" style="color:#0000FF;text-align:left">Ver mapa maior</a></small>  
+
+
+<p>Até a próxima o/</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Almoço pythonrio@Barra]]></title>
+    <link href="http://toalhatech.com/blog/2013/05/27/almoco-pythonrio-barra-da-tijuca/"/>
+    <updated>2013-05-27T21:10:00-03:00</updated>
+    <id>http://toalhatech.com/blog/2013/05/27/almoco-pythonrio-barra-da-tijuca</id>
+    <content type="html"><![CDATA[<p>O almoço do <a href="http://dev.renatacarreira.com/blog/2013/05/23/almoco-pythonrio-at-barra-da-tijuca/">pythonrio também está rolando na Barra</a>. A idéia é fazer um &ldquo;fork&rdquo; do evento que já ocorre no Centro, p/ o pessoal que trabalha/mora/estuda nessa região e não tem como se deslocar p/ lá.</p>
+
+<p>O encontro rola todas as quintas-feiras, no mesmo local, menos nesta última semana de maio/2013, que será no dia <strong>29/05/2013</strong>, por causa do feriado que ocorrerá na quinta, dia 30/05/2013 <!-- more -->(corpus christis).</p>
+
+<p>O lugar fica esse por enquanto, até vermos onde se concentra a maior parte das pessoas e fica mais interessante para todo mundo.</p>
+
+<p>Lembrando que não precisa ser ativo no grupo da comunidade, nem nada do tipo para aparecer, todos <strong>são muito bem-vindos</strong>. Principalmente os curiosos que querem conhecer sobre a linguagem, e &ndash; é claro &ndash; pessoas novas.</p>
+
+<h4>Quando?</h4>
+
+<p><strong>Todas as quintas-feiras, 12:30h.</strong></p>
+
+<h4>Onde?</h4>
+
+<p><a href="http://maps.google.com.br/maps?safe=off&amp;biw=1920&amp;bih=885&amp;bav=on.2,or.r_cp.r_qf.&amp;q=Av.+das+Americas,+1510+Lj+C+Barra+da+Tijuca&amp;um=1&amp;ie=UTF-8&amp;hq=&amp;hnear=0x9bd0a7042bcbaf:0x66ce9d54ff0da457,Av.+das+Am%C3%A9ricas,+1510+-+Barra+da+Tijuca,+Rio+de+Janeiro+-+RJ,+22640-100&amp;gl=br&amp;sa=X&amp;ei=PAikUd6xDY3K9gSHl4H4BA&amp;ved=0CCgQ8gEwAA"><strong>Restaurante Folleto</strong> &ndash; Extra &ndash; Avenida das Américas &ndash; Barra da Tijuca &ndash; Rio de Janeiro</a></p>
+
+<iframe width="400" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com.br/maps?ie=UTF8&amp;cid=10486755209797028685&amp;q=Extra&amp;gl=BR&amp;hl=pt-BR&amp;t=m&amp;ll=-23.001854,-43.327074&amp;spn=0.011851,0.021415&amp;z=15&amp;output=embed"></iframe>
+
+
+<br /><small><a href="https://maps.google.com.br/maps?ie=UTF8&amp;cid=10486755209797028685&amp;q=Extra&amp;gl=BR&amp;hl=pt-BR&amp;t=m&amp;ll=-23.001854,-43.327074&amp;spn=0.011851,0.021415&amp;z=15&amp;source=embed" style="color:#0000FF;text-align:left">Exibir mapa ampliado</a></small>
+
+
+
+]]></content>
+  </entry>
+  
+</feed>
