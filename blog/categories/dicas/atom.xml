@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: dicas, | ToalhaTech]]></title>
-  <link href="http://toalhatech.com/blog/categories/dicas/atom.xml" rel="self"/>
-  <link href="http://toalhatech.com/"/>
-  <updated>2013-10-23T21:18:39-02:00</updated>
-  <id>http://toalhatech.com/</id>
+  <link href="http://toalhatech.github.io/toalhatech/blog/categories/dicas/atom.xml" rel="self"/>
+  <link href="http://toalhatech.github.io/toalhatech/"/>
+  <updated>2013-10-23T22:25:52-02:00</updated>
+  <id>http://toalhatech.github.io/toalhatech/</id>
   <author>
     <name><![CDATA[Equipe ToalhaTech]]></name>
     <email><![CDATA[contato@toalhatech.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Passos básicos para realizar um evento]]></title>
-    <link href="http://toalhatech.com/blog/2013/08/11/passos-basicos-para-realizar-um-evento/"/>
+    <link href="http://toalhatech.github.io/toalhatech/blog/2013/08/11/passos-basicos-para-realizar-um-evento/"/>
     <updated>2013-08-11T17:18:00-03:00</updated>
-    <id>http://toalhatech.com/blog/2013/08/11/passos-basicos-para-realizar-um-evento</id>
+    <id>http://toalhatech.github.io/toalhatech/blog/2013/08/11/passos-basicos-para-realizar-um-evento</id>
     <content type="html"><![CDATA[<p>Olá, pessoal. Tudo bem?</p>
 
 <p>Este post não é muito o que costumo escrever, mas espero que possa ajudar pessoas a tirarem dúvidas e se animarem a promover o encontro/evento de suas comunidades locais (e se fizerem, avisem para nós. Teremos o maior prazer de anunciar ^_^). O texto é baseado numa conversa que tive com a Anna Cruz sobre os passos básicos que aprendemos ao<!-- more --> longo das experiências que tivemos para organizar e participar de eventos:</p>

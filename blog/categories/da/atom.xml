@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: da | ToalhaTech]]></title>
-  <link href="http://toalhatech.com/blog/categories/da/atom.xml" rel="self"/>
-  <link href="http://toalhatech.com/"/>
-  <updated>2013-10-23T21:18:39-02:00</updated>
-  <id>http://toalhatech.com/</id>
+  <link href="http://toalhatech.github.io/toalhatech/blog/categories/da/atom.xml" rel="self"/>
+  <link href="http://toalhatech.github.io/toalhatech/"/>
+  <updated>2013-10-23T22:25:52-02:00</updated>
+  <id>http://toalhatech.github.io/toalhatech/</id>
   <author>
     <name><![CDATA[Equipe ToalhaTech]]></name>
     <email><![CDATA[contato@toalhatech.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[BHack Conference 2013]]></title>
-    <link href="http://toalhatech.com/blog/2013/06/08/bhack-conference-2013/"/>
+    <link href="http://toalhatech.github.io/toalhatech/blog/2013/06/08/bhack-conference-2013/"/>
     <updated>2013-06-08T19:52:00-03:00</updated>
-    <id>http://toalhatech.com/blog/2013/06/08/bhack-conference-2013</id>
+    <id>http://toalhatech.github.io/toalhatech/blog/2013/06/08/bhack-conference-2013</id>
     <content type="html"><![CDATA[<p>A dica deste evento foi da <a href="https://twitter.com/vivocah">Vivi Sousa</a>. Ela mandou um email perguntando se o ToalhaTech só falaria sobre eventos no RJ. A resposta para esta pergunta é: Nós publicamos e queremos publicar eventos do Brasil inteiro :).</p>
 
 <p>Segundo a descrição encontrada no site, o BHack Conference 2013 é:</p>

@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: encontro, | ToalhaTech]]></title>
-  <link href="http://toalhatech.com/blog/categories/encontro/atom.xml" rel="self"/>
-  <link href="http://toalhatech.com/"/>
-  <updated>2013-10-23T21:18:39-02:00</updated>
-  <id>http://toalhatech.com/</id>
+  <link href="http://toalhatech.github.io/toalhatech/blog/categories/encontro/atom.xml" rel="self"/>
+  <link href="http://toalhatech.github.io/toalhatech/"/>
+  <updated>2013-10-23T22:25:52-02:00</updated>
+  <id>http://toalhatech.github.io/toalhatech/</id>
   <author>
     <name><![CDATA[Equipe ToalhaTech]]></name>
     <email><![CDATA[contato@toalhatech.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Como foi o Rio Agile Talks de Maio/2013]]></title>
-    <link href="http://toalhatech.com/blog/2013/06/02/como-foi-o-rio-agile-talks-maio-2013/"/>
+    <link href="http://toalhatech.github.io/toalhatech/blog/2013/06/02/como-foi-o-rio-agile-talks-maio-2013/"/>
     <updated>2013-06-02T13:06:00-03:00</updated>
-    <id>http://toalhatech.com/blog/2013/06/02/como-foi-o-rio-agile-talks-maio-2013</id>
+    <id>http://toalhatech.github.io/toalhatech/blog/2013/06/02/como-foi-o-rio-agile-talks-maio-2013</id>
     <content type="html"><![CDATA[<p>No dia 18 de maio aconteceu, na <a href="http://www.ideais.com.br/">Ideais Tecnologia</a>, o terceiro encontro de 2013 da comunidade ágil do Rio de Janeiro.</p>
 
 <p>O evento contou tanto com profissionais que trabalham com ágil quanto com aqueles que ainda não trabalham. Uma novidade foi a presença de vários profissionais da área de Testes o/.<!-- more --></p>
@@ -38,9 +38,9 @@
   
   <entry>
     <title type="html"><![CDATA[Almoço pythonrio@Barra]]></title>
-    <link href="http://toalhatech.com/blog/2013/05/27/almoco-pythonrio-barra-da-tijuca/"/>
+    <link href="http://toalhatech.github.io/toalhatech/blog/2013/05/27/almoco-pythonrio-barra-da-tijuca/"/>
     <updated>2013-05-27T21:10:00-03:00</updated>
-    <id>http://toalhatech.com/blog/2013/05/27/almoco-pythonrio-barra-da-tijuca</id>
+    <id>http://toalhatech.github.io/toalhatech/blog/2013/05/27/almoco-pythonrio-barra-da-tijuca</id>
     <content type="html"><![CDATA[<p>O almoço do <a href="http://dev.renatacarreira.com/blog/2013/05/23/almoco-pythonrio-at-barra-da-tijuca/">pythonrio também está rolando na Barra</a>. A idéia é fazer um &ldquo;fork&rdquo; do evento que já ocorre no Centro, p/ o pessoal que trabalha/mora/estuda nessa região e não tem como se deslocar p/ lá.</p>
 
 <p>O encontro rola todas as quintas-feiras, no mesmo local, menos nesta última semana de maio/2013, que será no dia <strong>29/05/2013</strong>, por causa do feriado que ocorrerá na quinta, dia 30/05/2013 <!-- more -->(corpus christis).</p>

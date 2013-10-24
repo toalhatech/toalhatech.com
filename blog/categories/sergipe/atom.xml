@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: sergipe, | ToalhaTech]]></title>
-  <link href="http://toalhatech.com/blog/categories/sergipe/atom.xml" rel="self"/>
-  <link href="http://toalhatech.com/"/>
-  <updated>2013-10-23T21:18:39-02:00</updated>
-  <id>http://toalhatech.com/</id>
+  <link href="http://toalhatech.github.io/toalhatech/blog/categories/sergipe/atom.xml" rel="self"/>
+  <link href="http://toalhatech.github.io/toalhatech/"/>
+  <updated>2013-10-23T22:25:52-02:00</updated>
+  <id>http://toalhatech.github.io/toalhatech/</id>
   <author>
     <name><![CDATA[Equipe ToalhaTech]]></name>
     <email><![CDATA[contato@toalhatech.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Python Day Sergipe]]></title>
-    <link href="http://toalhatech.com/blog/2013/08/30/python-day-sergipe/"/>
+    <link href="http://toalhatech.github.io/toalhatech/blog/2013/08/30/python-day-sergipe/"/>
     <updated>2013-08-30T08:18:00-03:00</updated>
-    <id>http://toalhatech.com/blog/2013/08/30/python-day-sergipe</id>
+    <id>http://toalhatech.github.io/toalhatech/blog/2013/08/30/python-day-sergipe</id>
     <content type="html"><![CDATA[<p>Olá, pessoal. Bom dia :).</p>
 
 <p>Algo que realmente gosto de ver são encontros e eventos espalhados por todo o país. O fortalecimento de uma comunidade local é benéfico para todas as comunidades e deveriamos nos ajudar mais neste sentido. <br/>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: rio | ToalhaTech]]></title>
-  <link href="http://toalhatech.com/blog/categories/rio/atom.xml" rel="self"/>
-  <link href="http://toalhatech.com/"/>
-  <updated>2013-10-23T21:18:39-02:00</updated>
-  <id>http://toalhatech.com/</id>
+  <title><![CDATA[Category: Rio | ToalhaTech]]></title>
+  <link href="http://toalhatech.github.io/toalhatech/blog/categories/rio/atom.xml" rel="self"/>
+  <link href="http://toalhatech.github.io/toalhatech/"/>
+  <updated>2013-10-23T22:25:52-02:00</updated>
+  <id>http://toalhatech.github.io/toalhatech/</id>
   <author>
     <name><![CDATA[Equipe ToalhaTech]]></name>
     <email><![CDATA[contato@toalhatech.com]]></email>
@@ -14,45 +14,48 @@
 
   
   <entry>
-    <title type="html"><![CDATA[RSOnRails 2013]]></title>
-    <link href="http://toalhatech.com/blog/2013/09/15/rsonrails-2013/"/>
-    <updated>2013-09-15T10:55:00-03:00</updated>
-    <id>http://toalhatech.com/blog/2013/09/15/rsonrails-2013</id>
-    <content type="html"><![CDATA[<p>O mês de outubro terá vários eventos legais. Um dos que vem somar para este mês é o <a href="http://rsonrails.com.br/">RSOnRails</a>, evento que ocorrerá dia 19 de outubro no Rio Grande do Sul.</p>
-
-<p>Neste momento, o evento está na fase de <a href="http://call4paperz.com/events/rs-on-rails-2013">call4papers</a>, e várias pessoas estão submetendo palestras e certamente a proposta de ser &ldquo;O maior evento de Ruby do Sul&rdquo; será alcançada. Aproveite para mandar a sua proposta ou votar :).</p>
-
-<p>As inscrições já estão abertas e podem ser feitas no próprio <a href="http://rsonrails.com.br/">site do evento</a>, custando <!-- more -->R$ 80,00 a inteira e R$ 60,00 para estudantes.</p>
-
-<p>Local do rsonrails: Rio Grande do Sul, Porto Alegre, PUCRS &ndash; Auditório do prédio 32</p>
-
-<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com.br/maps?ie=UTF8&amp;q=Pontif%C3%ADcia+Universidade+Cat%C3%B3lica+do+Rio+Grande+do+Sul&amp;fb=1&amp;gl=br&amp;hq=Pontif%C3%ADcia+Universidade+Cat%C3%B3lica+do+Rio+Grande+do+Sul&amp;hnear=Pontif%C3%ADcia+Universidade+Cat%C3%B3lica+do+Rio+Grande+do+Sul&amp;cid=0,0,13248223140037344003&amp;t=m&amp;ll=-30.060472,-51.175532&amp;spn=0.006295,0.006295&amp;output=embed"></iframe>
-
-
-<br /><small><a href="https://maps.google.com.br/maps?ie=UTF8&amp;q=Pontif%C3%ADcia+Universidade+Cat%C3%B3lica+do+Rio+Grande+do+Sul&amp;fb=1&amp;gl=br&amp;hq=Pontif%C3%ADcia+Universidade+Cat%C3%B3lica+do+Rio+Grande+do+Sul&amp;hnear=Pontif%C3%ADcia+Universidade+Cat%C3%B3lica+do+Rio+Grande+do+Sul&amp;cid=0,0,13248223140037344003&amp;t=m&amp;ll=-30.060472,-51.175532&amp;spn=0.006295,0.006295&amp;source=embed" style="color:#0000FF;text-align:left">Ver mapa maior</a></small>  
-
-
-<p>Até a próxima o/.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[RubyOnRio de Setembro/2013]]></title>
-    <link href="http://toalhatech.com/blog/2013/09/14/rubyonrio-de-setembro-2013/"/>
-    <updated>2013-09-14T18:17:00-03:00</updated>
-    <id>http://toalhatech.com/blog/2013/09/14/rubyonrio-de-setembro-2013</id>
+    <title type="html"><![CDATA[Encontro do Grupo de Estrutura de Dados/RJ Agosto/2013]]></title>
+    <link href="http://toalhatech.github.io/toalhatech/blog/2013/08/04/encontro-do-grupo-de-estrutura-de-dados-slash-rj-agosto-slash-2013/"/>
+    <updated>2013-08-04T11:39:00-03:00</updated>
+    <id>http://toalhatech.github.io/toalhatech/blog/2013/08/04/encontro-do-grupo-de-estrutura-de-dados-slash-rj-agosto-slash-2013</id>
     <content type="html"><![CDATA[<p>Olá, pessoal. Tudo bem com vocês?</p>
 
-<p>Como muitos sabem, nos dias 29 e 30 de agosto ocorreu a edição 2013 da RubyConfBr e a comunidade carioca de Ruby está ainda mais animada para se encontrar, falar sobre o evento e sobre a tecnologia. Desta vez, eles resolveram sair um pouco da tradicional formato sala-projetor para algo mais informal: um encontro na starbucks do Centro/RJ.</p>
+<p>No dia 10 de agosto (de 2013), será realizado o 2º encontro do grupo de estrutura de dados e o local é na <a href="http://www.caelum.com.br/">Caelum/RJ</a>.<br/>
+Após muitas conversas este encontro e acredito fortemente que os outros também, tem por intuito reunir pessoas interessadas em algoritmos e estrutura de dados e<!-- more --> compartilhar o que estão fazendo,  o que estão pesquisando e afins, sem o formato palestra &ndash; palestrante fala e as pessoas ouvem. O objetivo é trocar, é falar sobre algo e as pessoas possam intervir, questionar, complementar o conteúdo no mesmo instante.</p>
 
-<p>O encontro rolará dia 28/09 a partir das<!-- more --> 13:00 e é só pedir o seu café favorito, sem inscrições ou formalidades.</p>
+<p>As inscrições serão realizadas até o dia 7 de agosto, pelo link: <a href="http://t.co/ZMVGR9FeQc">http://t.co/ZMVGR9FeQc</a></p>
 
-<p>Para saber mais sobre o <a href="https://groups.google.com/forum/#!topic/rubyonrio/aMpriXK3kA4">encontro</a> e sobre outros tópicos maneiros sobre ruby que rolam, é só acompanhar a <a href="https://groups.google.com/forum/#!forum/rubyonrio">lista do rubyonrio no google groups</a>, além do twitter o <a href="https://twitter.com/rubyonrio">@rubyonrio</a></p>
+<p>Como chegar na Caelum/RJ:</p>
 
-<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com.br/maps?ie=UTF8&amp;q=Starbucks&amp;fb=1&amp;gl=br&amp;hq=starbucks&amp;hnear=0x997f5e0ce71753:0xd182cac657b04b4a,R.+Gon%C3%A7alves+Dias,+Rio+de+Janeiro&amp;cid=0,0,16913246456884119362&amp;t=m&amp;iwloc=A&amp;ll=-22.904907,-43.179008&amp;spn=0.006295,0.006295&amp;output=embed"></iframe>
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com.br/maps?f=q&amp;source=s_q&amp;hl=pt-BR&amp;geocode=&amp;q=R.+do+Ouvidor,+50,+Centro+Rio+De+Janeiro+20040-030&amp;aq=&amp;sll=-12.726084,-53.173828&amp;sspn=67.293442,135.263672&amp;ie=UTF8&amp;hq=&amp;hnear=R.+do+Ouvidor,+50+-+Centro,+Rio+de+Janeiro,+20040-030&amp;t=m&amp;z=14&amp;iwloc=A&amp;ll=-22.902524,-43.176075&amp;output=embed"></iframe>
 
 
-<br /><small><a href="https://maps.google.com.br/maps?ie=UTF8&amp;q=Starbucks&amp;fb=1&amp;gl=br&amp;hq=starbucks&amp;hnear=0x997f5e0ce71753:0xd182cac657b04b4a,R.+Gon%C3%A7alves+Dias,+Rio+de+Janeiro&amp;cid=0,0,16913246456884119362&amp;t=m&amp;iwloc=A&amp;ll=-22.904907,-43.179008&amp;spn=0.006295,0.006295&amp;source=embed" style="color:#0000FF;text-align:left">Ver mapa maior</a></small>
+<br /><small><a href="https://maps.google.com.br/maps?f=q&amp;source=embed&amp;hl=pt-BR&amp;geocode=&amp;q=R.+do+Ouvidor,+50,+Centro+Rio+De+Janeiro+20040-030&amp;aq=&amp;sll=-12.726084,-53.173828&amp;sspn=67.293442,135.263672&amp;ie=UTF8&amp;hq=&amp;hnear=R.+do+Ouvidor,+50+-+Centro,+Rio+de+Janeiro,+20040-030&amp;t=m&amp;z=14&amp;iwloc=A&amp;ll=-22.902524,-43.176075" style="color:#0000FF;text-align:left">Exibir mapa ampliado</a></small>  
+
+
+<p>Até a próxima o/</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Encontro sobre Estrutura de Dados]]></title>
+    <link href="http://toalhatech.github.io/toalhatech/blog/2013/06/28/encontro-sobre-estrutura-de-dados/"/>
+    <updated>2013-06-28T01:08:00-03:00</updated>
+    <id>http://toalhatech.github.io/toalhatech/blog/2013/06/28/encontro-sobre-estrutura-de-dados</id>
+    <content type="html"><![CDATA[<p>Olá, pessoal. Tudo bem com vocês?</p>
+
+<p>Neste sábado, dia 29 de junho (de 2013) de 10 horas até as 14 horas, será realizado no #CurtoCircuitoHS o Encontro sobre Estrutura de Dados.</p>
+
+<p>Idealizado pelo <a href="https://twitter.com/israelst">@israelst</a>, tem por objetivo reunir pessoas que pesquisam, utilizam no dia a dia ou simplesmente goste de implementar e saber sobre estrutura de dados, algoritmos relacionados a elas e afins. Até agora, 3 apresentações foram<!-- more --> confirmadas, porém qualquer presente pode apresentar conteúdo, é só se sentir a vontade para tal.</p>
+
+<p>Este encontro reune comunidades, linguagens e tecnologias para pontos em comum. Vale a pena partipar. Mais informações podem ser obtidas neste <a href="https://groups.google.com/forum/#!msg/dojo-rio/ni7BAzZ4gyI/ifLstfTQsXIJ">link</a>.</p>
+
+<p>O #CurtoCircuitoHS fica na Av 13 de Maio, 13 &ndash; 6º andar &ndash; sala 616.</p>
+
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com.br/maps?q=Av.+Treze+de+Maio,+13+-+Centro,+Rio+de+Janeiro,+20031-007+%E2%80%8E&amp;ie=UTF8&amp;hq=&amp;hnear=Av.+Treze+de+Maio,+13+-+Centro,+Rio+de+Janeiro,+20031-007&amp;gl=br&amp;ll=-22.909539,-43.176613&amp;spn=0.015516,0.033023&amp;t=m&amp;z=14&amp;iwloc=A&amp;output=embed"></iframe>
+
+
+<br /><small><a href="https://maps.google.com.br/maps?q=Av.+Treze+de+Maio,+13+-+Centro,+Rio+de+Janeiro,+20031-007+%E2%80%8E&amp;ie=UTF8&amp;hq=&amp;hnear=Av.+Treze+de+Maio,+13+-+Centro,+Rio+de+Janeiro,+20031-007&amp;gl=br&amp;ll=-22.909539,-43.176613&amp;spn=0.015516,0.033023&amp;t=m&amp;z=14&amp;iwloc=A&amp;source=embed" style="color:#0000FF;text-align:left">Exibir mapa ampliado</a></small>  
 
 
 <p>Até a próxima o/.</p>
@@ -60,74 +63,79 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Agile in Rio 2013]]></title>
-    <link href="http://toalhatech.com/blog/2013/08/19/agile-in-rio-2013/"/>
-    <updated>2013-08-19T18:42:00-03:00</updated>
-    <id>http://toalhatech.com/blog/2013/08/19/agile-in-rio-2013</id>
-    <content type="html"><![CDATA[<p>Baseado no recado que a <a href="https://twitter.com/samantacicilia">@SamySouza</a> deixou no <a href="http://oglobo.globo.com/blogs/tecnologia/posts/2013/08/19/agile-in-rio-2013-507057.asp">O Globo</a>:</p>
+    <title type="html"><![CDATA[Encontro dna Rio de maio e junho de 2013]]></title>
+    <link href="http://toalhatech.github.io/toalhatech/blog/2013/06/16/encontro-dnario-de-maio-e-junho-de-2013/"/>
+    <updated>2013-06-16T20:39:00-03:00</updated>
+    <id>http://toalhatech.github.io/toalhatech/blog/2013/06/16/encontro-dnario-de-maio-e-junho-de-2013</id>
+    <content type="html"><![CDATA[<p>Como sempre, no <a href="http://toalhatech.com/blog/2013/05/30/encontros-mensais-bimestrais-de-algumas-comunidades-do-rio-de-janeiro/">1º sábado (sem ser de feriadão prolongado) do mês</a>, ocorreu o encontro da comunidade de <a href="http://toalhatech.com/blog/2013/05/12/encontro-dna-rio-abril-2013/">.NET do Rio de Janeiro</a> &ndash; o <a href="https://twitter.com/dnario">dna Rio</a>. Os encontros de maio e junho foram muito relacionados, por isso resolvi unir os 2 num único post, para facilitar o entendimento.</p>
 
-<div style="float: left"><img src="http://toalhatech.com/images/logoAgileInRio.png" /></div>
+<p>No encontro de maio, ocorrido no dia 4, foi anunciado oficialmente o evento <a href="dnad.azurewebsites.net">DNAD 2013</a>. Durante o encontro, os participantes<!-- more --> puderam dar algumas sugestões para  o evento, além da  apresentação do <a href="https://twitter.com/juanplopes">@juanlopes</a> sobre Expressões Regulares.</p>
 
+<p>Juan expôs que expressões regulares podem ser implementadas de forma menos custosa do que a implementação atual de várias linguagens, comparando tempo de execução da forma indicada no paper que serviu de base para a apresentação com a forma atual. Ele também demostrou detalhes de complexidade dos algoritmos e os casos em que seria vantajoso utilizar o proposto ou já implementado. Também foi exibida uma implementação baseada no modelo demostrado como de menor complexidade.</p>
 
-<p>Durante os dias 26 e 27 de Outubro de 2013 ocorrerá o <a href="http://www.agileinrio.com.br/">Agile in Rio</a>: conferência realizada pela comunidade Agile do Rio de Janeiro para a comunidade<!-- more --> Agile do Brasil inteiro, com o objetivo de trazer para o mercado uma visão moderna sobre o desenvolvimento de software. Os principais pontos abordados, além de desenvolvimento de software são processos de gestão e ambiente de trabalho, que permitem o desenvolvimento sustentável de software e resultados finais de alta qualidade e aderência às necessidades mais atuais dos clientes</p>
+<p>O <a href="http://www.slideshare.net/juanplopes/dnarj20130504">link para os slides</a>. Recomendo muito está apresentação.</p>
 
-<p>O evento é focado no desenvolvimento de software sob os paradigmas Agile e Lean. Para concretizar o objetivo do Agile in Rio, várias pessoas com diversas experiências para compartilhar serão palestrantes: Alexandre Magno, Alisson Vale, Rodrigo de Toledo, Rafael Sabbagh,  Rodrigo Yoshima, Vinicius Teles e outros integrantes da comunidade ágil brasileira. Além desse super time, a presença internacional de Mary Poppendieck, que abrirá primeiro dia de atividades.</p>
+<p>No mês de junho, o encontro foi no dia 8. Os preparativos do evento foram comentados. Este encontro foi bastante informal, em que os presentes discutiram diversos pontos sobre programação, como melhorar testes, a necessidade de testes de aceitação, pontos fortes e fracos da tecnologia .NET.</p>
 
-<p>Tendo como premissa o direcionamento para o mercado/industria de software, o evento é composto de 2 trilhas: gestão e desenvolvimento. Todos os profissionais de TI e interessados em desenvolvimento de software e agile constituem o público alvo do Agile in Rio.</p>
+<p>A discussão foi bastante proveitosa e enriquecedora. Houve inclusive sugestão para que no próximo encontro tivesse um momento para programação. Seria muito bom se o evento consiga abordar mais este ponto no próximo mês.</p>
 
-<p>Informações sobre inscrições, grade de palestras e tudo mais  sobre o Agile in Rio, com realização na Universidade La Salle (Rua Gastão Gonçalves 79, Santa Rosa &ndash;  Niterói &ndash;  RJ), estão disponíveis no <a href="http://www.agileinrio.com.br/">www.agileinrio.com.br</a>.</p>
+<p>Como sempre, o encontro do dna RJ não se limita a tecnologia, abordando vários paradigmas e sendo um encontro de alto nível para profissionais que utilizam .NET ou não. Vale a pena participar de um dos encontros.</p>
 
-<p>Outras informações podem ser obtidas através do e-mail de contato: <a href="&#x6d;&#97;&#105;&#108;&#x74;&#x6f;&#x3a;&#x64;&#117;&#118;&#105;&#x64;&#97;&#115;&#x40;&#97;&#103;&#x69;&#x6c;&#x65;&#x69;&#110;&#114;&#x69;&#x6f;&#x2e;&#99;&#x6f;&#109;&#46;&#98;&#114;">&#100;&#117;&#118;&#x69;&#x64;&#97;&#115;&#x40;&#97;&#103;&#105;&#108;&#101;&#105;&#110;&#x72;&#x69;&#111;&#46;&#99;&#111;&#109;&#x2e;&#x62;&#114;</a></p>
-
-<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com.br/maps?f=q&amp;source=embed&amp;hl=pt-BR&amp;geocode=&amp;q=+Universidade+La+Salle++Rua+Gast%C3%A3o+Gon%C3%A7alves+79,+Santa+Rosa+%E2%80%93+Niter%C3%B3i+%E2%80%93+RJ&amp;aq=&amp;sll=-22.896754,-43.106566&amp;sspn=0.015517,0.033023&amp;gl=br&amp;g=R.+Gast%C3%A3o+Gon%C3%A7alves,+79+-+P%C3%A9+Pequeno,+Niter%C3%B3i+-+Rio+de+Janeiro,+24240-030&amp;ie=UTF8&amp;hq=Universidade+La+Salle&amp;hnear=R.+Gast%C3%A3o+Gon%C3%A7alves,+79+-+P%C3%A9+Pequeno,+Niter%C3%B3i+-+Rio+de+Janeiro,+24240-030&amp;ll=-22.896942,-43.10655&amp;spn=0.006295,0.006295&amp;t=m&amp;layer=c&amp;cbll=-22.897117,-43.106429&amp;panoid=qBUdPBXkn4D35o_GX8S8gw&amp;cbp=12,261.72,,0,0&amp;output=svembed"></iframe>
-
-
-<br /><small><a href="https://maps.google.com.br/maps?f=q&amp;source=embed&amp;hl=pt-BR&amp;geocode=&amp;q=+Universidade+La+Salle++Rua+Gast%C3%A3o+Gon%C3%A7alves+79,+Santa+Rosa+%E2%80%93+Niter%C3%B3i+%E2%80%93+RJ&amp;aq=&amp;sll=-22.896754,-43.106566&amp;sspn=0.015517,0.033023&amp;gl=br&amp;g=R.+Gast%C3%A3o+Gon%C3%A7alves,+79+-+P%C3%A9+Pequeno,+Niter%C3%B3i+-+Rio+de+Janeiro,+24240-030&amp;ie=UTF8&amp;hq=Universidade+La+Salle&amp;hnear=R.+Gast%C3%A3o+Gon%C3%A7alves,+79+-+P%C3%A9+Pequeno,+Niter%C3%B3i+-+Rio+de+Janeiro,+24240-030&amp;ll=-22.896942,-43.10655&amp;spn=0.006295,0.006295&amp;t=m&amp;layer=c&amp;cbll=-22.897117,-43.106429&amp;panoid=qBUdPBXkn4D35o_GX8S8gw&amp;cbp=12,261.72,,0,0" style="color:#0000FF;text-align:left">Exibir mapa ampliado</a></small>
-
-
-
+<p>Aguardando as surpresas do próximo mês. Até a próxima o/.</p>
 ]]></content>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Encontros de algumas comunidades do Rio de Janeiro]]></title>
-    <link href="http://toalhatech.com/blog/2013/05/30/encontros-mensais-bimestrais-de-algumas-comunidades-do-rio-de-janeiro/"/>
-    <updated>2013-05-30T10:40:00-03:00</updated>
-    <id>http://toalhatech.com/blog/2013/05/30/encontros-mensais-bimestrais-de-algumas-comunidades-do-rio-de-janeiro</id>
-    <content type="html"><![CDATA[<p>No Rio de Janeiro, algumas comunidades estão bastante organizadas e engajadas em manter a regularidade dos encontros de seus participantes. Nos encontros que podem ser para palestras, apresentação de cases, bate papo sobre a área ou um misto dos dois, ocorrem geralmente com uma certa agenda, descrita abaixo:</p>
+    <title type="html"><![CDATA[Como foi o Rio Agile Talks de Maio/2013]]></title>
+    <link href="http://toalhatech.github.io/toalhatech/blog/2013/06/02/como-foi-o-rio-agile-talks-maio-2013/"/>
+    <updated>2013-06-02T13:06:00-03:00</updated>
+    <id>http://toalhatech.github.io/toalhatech/blog/2013/06/02/como-foi-o-rio-agile-talks-maio-2013</id>
+    <content type="html"><![CDATA[<p>No dia 18 de maio aconteceu, na <a href="http://www.ideais.com.br/">Ideais Tecnologia</a>, o terceiro encontro de 2013 da comunidade ágil do Rio de Janeiro.</p>
 
-<!-- more -->
+<p>O evento contou tanto com profissionais que trabalham com ágil quanto com aqueles que ainda não trabalham. Uma novidade foi a presença de vários profissionais da área de Testes o/.<!-- more --></p>
+
+<p>A primeira palestra foi do <a href="https://twitter.com/RafaelCGuerra">Rafael Guerra</a> &ndash; &ldquo;Kanban além de Software&rdquo;. Nada de slides mas sim um quadro de Kanban para apresentar o conteúdo, mesclando teoria com prática e abordando conceitos como Kaizen e mostrando que o &ldquo;pensamento japonês&rdquo; pode ser aplicado em áreas de negócio.</p>
+
+<p>Na parte de testes teve a minha palestra (primeira palestra oficial da <a href="https://twitter.com/samantacicilia">Samy</a>) &ndash; &ldquo;O que faz (ou não) um tester no mundo ágil&rdquo;, contando um pouquinho das minhas experiências como Analista de Testes em projetos que utilizam metodologias ágeis e mostrando que o tester faz muito mais do que simplesmente testar funcionalidades. Os slides estão disponíveis no meu <a href="http://www.slideshare.net/samantacicilia/o-que-faz-ou-no-um-tester-no-mundo-gil-21125190">slideshare</a>.</p>
+
+<p>Depois do almoço aconteceram duas dinâmicas muito legais.</p>
+
+<p>Um Workshop de Constelações Organizacionais com o <a href="https://twitter.com/danielhst">Daniel Teixeira</a>, onde foi aplicada uma prática que é utilizada na psicoterapia familiar (constelações) para ajudar a encontrar uma solução para determinado problema. No exercício, o problema escolhido foi uma empresa que tinha dificuldades para implantar metodologias ágeis e foram escolhidas pessoas para representar os envolvidos na situação (diretor, coordenador, líder técnico, time, metodologia ágil e etc). Através das disposições das pessoas no ambiente, todos puderam contribuir para que fosse encontrada uma forma de resolver esse problema e aproximar as metodologias ágeis da vida da empresa.</p>
+
+<p>Por último tivemos um Open Space com o <a href="https://twitter.com/marcosgarrido">Marcos Garrido</a> sobre o <a href="https://knowledge21.com.br">Knowledge21</a>.</p>
+
+<p>O próximo Talks acontece em Julho, e em outubro acontecerá o Agile in Rio. Acompanhe o site da comunidade e fique por dentro das novidades: <a href="http://rioagile.com.br">Rio Agile</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Almoço pythonrio@Barra]]></title>
+    <link href="http://toalhatech.github.io/toalhatech/blog/2013/05/27/almoco-pythonrio-barra-da-tijuca/"/>
+    <updated>2013-05-27T21:10:00-03:00</updated>
+    <id>http://toalhatech.github.io/toalhatech/blog/2013/05/27/almoco-pythonrio-barra-da-tijuca</id>
+    <content type="html"><![CDATA[<p>O almoço do <a href="http://dev.renatacarreira.com/blog/2013/05/23/almoco-pythonrio-at-barra-da-tijuca/">pythonrio também está rolando na Barra</a>. A idéia é fazer um &ldquo;fork&rdquo; do evento que já ocorre no Centro, p/ o pessoal que trabalha/mora/estuda nessa região e não tem como se deslocar p/ lá.</p>
+
+<p>O encontro rola todas as quintas-feiras, no mesmo local, menos nesta última semana de maio/2013, que será no dia <strong>29/05/2013</strong>, por causa do feriado que ocorrerá na quinta, dia 30/05/2013 <!-- more -->(corpus christis).</p>
+
+<p>O lugar fica esse por enquanto, até vermos onde se concentra a maior parte das pessoas e fica mais interessante para todo mundo.</p>
+
+<p>Lembrando que não precisa ser ativo no grupo da comunidade, nem nada do tipo para aparecer, todos <strong>são muito bem-vindos</strong>. Principalmente os curiosos que querem conhecer sobre a linguagem, e &ndash; é claro &ndash; pessoas novas.</p>
+
+<h4>Quando?</h4>
+
+<p><strong>Todas as quintas-feiras, 12:30h.</strong></p>
+
+<h4>Onde?</h4>
+
+<p><a href="http://maps.google.com.br/maps?safe=off&amp;biw=1920&amp;bih=885&amp;bav=on.2,or.r_cp.r_qf.&amp;q=Av.+das+Americas,+1510+Lj+C+Barra+da+Tijuca&amp;um=1&amp;ie=UTF-8&amp;hq=&amp;hnear=0x9bd0a7042bcbaf:0x66ce9d54ff0da457,Av.+das+Am%C3%A9ricas,+1510+-+Barra+da+Tijuca,+Rio+de+Janeiro+-+RJ,+22640-100&amp;gl=br&amp;sa=X&amp;ei=PAikUd6xDY3K9gSHl4H4BA&amp;ved=0CCgQ8gEwAA"><strong>Restaurante Folleto</strong> &ndash; Extra &ndash; Avenida das Américas &ndash; Barra da Tijuca &ndash; Rio de Janeiro</a></p>
+
+<iframe width="400" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com.br/maps?ie=UTF8&amp;cid=10486755209797028685&amp;q=Extra&amp;gl=BR&amp;hl=pt-BR&amp;t=m&amp;ll=-23.001854,-43.327074&amp;spn=0.011851,0.021415&amp;z=15&amp;output=embed"></iframe>
 
 
-<h4>Encontros Semanais:</h4>
-
-<ul>
-<li>Encontro da comunidade python &ndash; Almoço do <a href="https://twitter.com/pythonrio">PythOnRio</a> &ndash; no <a href="http://br.groups.yahoo.com/group/pythonrio/">Centro</a> e na <a href="http://toalhatech.com/blog/2013/05/27/almoco-pythonrio-barra-da-tijuca/">Barra da Tijuca</a></li>
-</ul>
+<br /><small><a href="https://maps.google.com.br/maps?ie=UTF8&amp;cid=10486755209797028685&amp;q=Extra&amp;gl=BR&amp;hl=pt-BR&amp;t=m&amp;ll=-23.001854,-43.327074&amp;spn=0.011851,0.021415&amp;z=15&amp;source=embed" style="color:#0000FF;text-align:left">Exibir mapa ampliado</a></small>
 
 
-<h4>Encontros Mensais:</h4>
 
-<ul>
-<li>1º sábado &ndash; Encontro da comunidade .NET &ndash; <a href="https://twitter.com/dnario">DNA Rio</a></li>
-<li>2º quinta feira &ndash; Encontro da comunidade Perl &ndash; <a href="https://twitter.com/rio_pm">Rio PerlMonks</a> &ndash; <a href="http://mail.pm.org/mailman/listinfo/rio-pm">Rio-pm</a>. A comunidade também se reume para hackatons, que geralmente ocorrem no sábado depois do encontro mensal.</li>
-<li>3º sábado &ndash; Encontro da comunidade ruby &ndash; <a href="https://twitter.com/rubyonrio">RubyOnRio</a></li>
-</ul>
-
-
-<h4>Encontros Bimestrais:</h4>
-
-<ul>
-<li>Encontro da comunidade agile &ndash; <a href="http://rioagile.com.br/rio-agile-talks.html">Rio Agile Talks</a></li>
-<li>Encontro da comunidade javascript &ndash; <a href="https://www.facebook.com/groups/riojs">RioJS</a> &ndash; grupo do facebook</li>
-</ul>
-
-
-<p>Se você programa ou tem curiosidade sobre alguma dessas tecnologias, se programe e participe dos encontros. Certamente estar junto dessas pessoas é uma ótima oportunidade de aprender, ensinar e conhecer pessoas sensacionais.</p>
-
-<p>Agradeço muito à ajuda da <a href="https://twitter.com/valparajara">@valparajara</a> pelas informações da comunidade Ruby RJ, do <a href="https://twitter.com/leobetosouza">@leobetosouza</a> pelas informações da comunidade Riojs, da <a href="https://twitter.com/samantacicilia">@samantacicilia</a> pelas informações sobre a comunidade Agile RJ, do <a href="https://twitter.com/breno_ferreira">@breno_ferreira</a> pelas informações sobre a comunidade .Net-RJ, do <a href="https://twitter.com/israelst">@israelst</a> juntamente com a <a href="https://twitter.com/Renata_Carreira">@Renata_Carreira</a> sobre as informações da comunidade Python RJ e o <a href="https://twitter.com/leobetosouza">@leobetosouza</a> novamente contribuiu para com as informações da comunidade Perl para que o post fosse escrito :).</p>
-
-<p>Até a próxima o/.</p>
 ]]></content>
   </entry>
   

@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: off-topic | ToalhaTech]]></title>
-  <link href="http://toalhatech.com/blog/categories/off-topic/atom.xml" rel="self"/>
-  <link href="http://toalhatech.com/"/>
-  <updated>2013-10-23T21:18:39-02:00</updated>
-  <id>http://toalhatech.com/</id>
+  <link href="http://toalhatech.github.io/toalhatech/blog/categories/off-topic/atom.xml" rel="self"/>
+  <link href="http://toalhatech.github.io/toalhatech/"/>
+  <updated>2013-10-23T22:25:52-02:00</updated>
+  <id>http://toalhatech.github.io/toalhatech/</id>
   <author>
     <name><![CDATA[Equipe ToalhaTech]]></name>
     <email><![CDATA[contato@toalhatech.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Hackathon para ajudar os protestos Br]]></title>
-    <link href="http://toalhatech.com/blog/2013/06/17/hackaton-para-ajudar-os-protestos-br/"/>
+    <link href="http://toalhatech.github.io/toalhatech/blog/2013/06/17/hackaton-para-ajudar-os-protestos-br/"/>
     <updated>2013-06-17T08:30:00-03:00</updated>
-    <id>http://toalhatech.com/blog/2013/06/17/hackaton-para-ajudar-os-protestos-br</id>
+    <id>http://toalhatech.github.io/toalhatech/blog/2013/06/17/hackaton-para-ajudar-os-protestos-br</id>
     <content type="html"><![CDATA[<p>Pessoal, este blog não é politico e nem nada, porém não podemos deixar de fazer a nossa parte para ajudar as pessoas a sairem sãs e salvas destes protestos, que estão sendo respondidos com muita violência por parte do governo. Parte do governo pois a polícia só obedece ordens.</p>
 
 <p>Indo ao que interessa, o Felipe Oliveira está organizando um hackathon para ajudar nas manifestações. O objetivo deste post é<!-- more --> anunciar este hackathon e incentivar a todos que participem dele: <a href="http://hackathonbr.tumblr.com/post/53159289495/caros-amigos-hackers-que-queiram-fazer-a">http://hackathonbr.tumblr.com/post/53159289495/caros-amigos-hackers-que-queiram-fazer-a</a></p>

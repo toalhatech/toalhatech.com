@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: sul, | ToalhaTech]]></title>
-  <link href="http://toalhatech.com/blog/categories/sul/atom.xml" rel="self"/>
-  <link href="http://toalhatech.com/"/>
-  <updated>2013-10-23T21:18:39-02:00</updated>
-  <id>http://toalhatech.com/</id>
+  <link href="http://toalhatech.github.io/toalhatech/blog/categories/sul/atom.xml" rel="self"/>
+  <link href="http://toalhatech.github.io/toalhatech/"/>
+  <updated>2013-10-23T22:25:52-02:00</updated>
+  <id>http://toalhatech.github.io/toalhatech/</id>
   <author>
     <name><![CDATA[Equipe ToalhaTech]]></name>
     <email><![CDATA[contato@toalhatech.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[RSOnRails 2013]]></title>
-    <link href="http://toalhatech.com/blog/2013/09/15/rsonrails-2013/"/>
+    <link href="http://toalhatech.github.io/toalhatech/blog/2013/09/15/rsonrails-2013/"/>
     <updated>2013-09-15T10:55:00-03:00</updated>
-    <id>http://toalhatech.com/blog/2013/09/15/rsonrails-2013</id>
+    <id>http://toalhatech.github.io/toalhatech/blog/2013/09/15/rsonrails-2013</id>
     <content type="html"><![CDATA[<p>O mês de outubro terá vários eventos legais. Um dos que vem somar para este mês é o <a href="http://rsonrails.com.br/">RSOnRails</a>, evento que ocorrerá dia 19 de outubro no Rio Grande do Sul.</p>
 
 <p>Neste momento, o evento está na fase de <a href="http://call4paperz.com/events/rs-on-rails-2013">call4papers</a>, e várias pessoas estão submetendo palestras e certamente a proposta de ser &ldquo;O maior evento de Ruby do Sul&rdquo; será alcançada. Aproveite para mandar a sua proposta ou votar :).</p>

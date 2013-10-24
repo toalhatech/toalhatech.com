@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Estrutura | ToalhaTech]]></title>
-  <link href="http://toalhatech.com/blog/categories/estrutura/atom.xml" rel="self"/>
-  <link href="http://toalhatech.com/"/>
-  <updated>2013-10-23T21:18:39-02:00</updated>
-  <id>http://toalhatech.com/</id>
+  <link href="http://toalhatech.github.io/toalhatech/blog/categories/estrutura/atom.xml" rel="self"/>
+  <link href="http://toalhatech.github.io/toalhatech/"/>
+  <updated>2013-10-23T22:25:52-02:00</updated>
+  <id>http://toalhatech.github.io/toalhatech/</id>
   <author>
     <name><![CDATA[Equipe ToalhaTech]]></name>
     <email><![CDATA[contato@toalhatech.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Encontro sobre Estrutura de Dados]]></title>
-    <link href="http://toalhatech.com/blog/2013/06/28/encontro-sobre-estrutura-de-dados/"/>
+    <link href="http://toalhatech.github.io/toalhatech/blog/2013/06/28/encontro-sobre-estrutura-de-dados/"/>
     <updated>2013-06-28T01:08:00-03:00</updated>
-    <id>http://toalhatech.com/blog/2013/06/28/encontro-sobre-estrutura-de-dados</id>
+    <id>http://toalhatech.github.io/toalhatech/blog/2013/06/28/encontro-sobre-estrutura-de-dados</id>
     <content type="html"><![CDATA[<p>Olá, pessoal. Tudo bem com vocês?</p>
 
 <p>Neste sábado, dia 29 de junho (de 2013) de 10 horas até as 14 horas, será realizado no #CurtoCircuitoHS o Encontro sobre Estrutura de Dados.</p>

@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: 2013 | ToalhaTech]]></title>
-  <link href="http://toalhatech.com/blog/categories/2013/atom.xml" rel="self"/>
-  <link href="http://toalhatech.com/"/>
-  <updated>2013-10-23T21:18:39-02:00</updated>
-  <id>http://toalhatech.com/</id>
+  <link href="http://toalhatech.github.io/toalhatech/blog/categories/2013/atom.xml" rel="self"/>
+  <link href="http://toalhatech.github.io/toalhatech/"/>
+  <updated>2013-10-23T22:25:52-02:00</updated>
+  <id>http://toalhatech.github.io/toalhatech/</id>
   <author>
     <name><![CDATA[Equipe ToalhaTech]]></name>
     <email><![CDATA[contato@toalhatech.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[DNAD 2013 - 2o Dia]]></title>
-    <link href="http://toalhatech.com/blog/2013/09/11/dnad-2013-2o-dia/"/>
+    <link href="http://toalhatech.github.io/toalhatech/blog/2013/09/11/dnad-2013-2o-dia/"/>
     <updated>2013-09-11T23:14:00-03:00</updated>
-    <id>http://toalhatech.com/blog/2013/09/11/dnad-2013-2o-dia</id>
+    <id>http://toalhatech.github.io/toalhatech/blog/2013/09/11/dnad-2013-2o-dia</id>
     <content type="html"><![CDATA[<p>Depois de um <a href="http://toalhatech.com/blog/2013/08/21/dnad-2013-1o-dia/">1o dia inspirador</a>, o 2o dia do DNAD também estava bem promissor. Infelizmente, entretanto, duas das palestras que eu mais gostaria de ver (sobre Tsuru, da Flavia Missi e Quando Parei de Usar Padrões, do Vinicius Quaiato) foram canceladas por motivos de força maior. Uma pena, tanto pra audiência quanto pros palestrantes. Por causa destes contratempos, a ordem das palestras não seguiu exatamente a programação, e o <a href="http://elemarjr.net/">Elemar Jr</a> abriu a sequência &ndash; mais uma<!-- more --> vez, de forma irrepreensível.</p>
 
 <h4>CQRS aplicado para construção de aplicações de alto desempenho usando Windows Azure</h4>
@@ -63,9 +63,9 @@
   
   <entry>
     <title type="html"><![CDATA[Eventos de TI em 2013 - Listagem de vários eventos importantes]]></title>
-    <link href="http://toalhatech.com/blog/2013/06/01/alguns-eventos-importantes-de-2013/"/>
+    <link href="http://toalhatech.github.io/toalhatech/blog/2013/06/01/alguns-eventos-importantes-de-2013/"/>
     <updated>2013-06-01T11:48:00-03:00</updated>
-    <id>http://toalhatech.com/blog/2013/06/01/alguns-eventos-importantes-de-2013</id>
+    <id>http://toalhatech.github.io/toalhatech/blog/2013/06/01/alguns-eventos-importantes-de-2013</id>
     <content type="html"><![CDATA[<p>Eventos são momentos importantes de várias comunidades para reunir seus membros e trocar experiências. Um evento é maior que um encontro, seja pela infraestrutura do local, seja pela organização, conteúdo e expectativa dos participantes. Neste ano de 2013, já ocorreram alguns eventos de grande expressão, como o TDC Floripa, Python <!-- more -->Nordeste e o DevinSampa por exemplo,  mas vários outros ainda acontecerão e com inscrições abertas ou para abrir.<br/>
 Pensando nisso, fizemos uma lista de alguns eventos que são do nosso conhecimento. Infelizmente, nem todos os eventos foram listados, mas se você sabe de algum que não está citado abaixo, por favor, nos avise para que atualizarmos o post e divulgar o máximo possível as comunidades/eventos :).</p>
 

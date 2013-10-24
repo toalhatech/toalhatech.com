@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Sobre | ToalhaTech]]></title>
-  <link href="http://toalhatech.com/blog/categories/sobre/atom.xml" rel="self"/>
-  <link href="http://toalhatech.com/"/>
-  <updated>2013-10-23T21:18:39-02:00</updated>
-  <id>http://toalhatech.com/</id>
+  <link href="http://toalhatech.github.io/toalhatech/blog/categories/sobre/atom.xml" rel="self"/>
+  <link href="http://toalhatech.github.io/toalhatech/"/>
+  <updated>2013-10-23T22:25:52-02:00</updated>
+  <id>http://toalhatech.github.io/toalhatech/</id>
   <author>
     <name><![CDATA[Equipe ToalhaTech]]></name>
     <email><![CDATA[contato@toalhatech.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Objetivo do ToalhaTech]]></title>
-    <link href="http://toalhatech.com/blog/2013/05/12/objetivo-do-toalhatech/"/>
+    <link href="http://toalhatech.github.io/toalhatech/blog/2013/05/12/objetivo-do-toalhatech/"/>
     <updated>2013-05-12T00:36:00-03:00</updated>
-    <id>http://toalhatech.com/blog/2013/05/12/objetivo-do-toalhatech</id>
+    <id>http://toalhatech.github.io/toalhatech/blog/2013/05/12/objetivo-do-toalhatech</id>
     <content type="html"><![CDATA[<p>Nós de TI frequentamos eventos, reuniões e afins para encontrar com outras pessoas do nosso meio e trocarmos informações, conhecemos outras pessoas que tem boas referências e assim construímos parte do que somos como profissionais. Muitas vezes, fazemos até amizades fortes vivenciando estes momentos.</p>
 
 <p>Sabendo do quanto é relevante e benéfico este tipo de convivência, nós tentamos fazer parte da comunidade e nos esforçamos para ir ao máximo possível de eventos.</p>

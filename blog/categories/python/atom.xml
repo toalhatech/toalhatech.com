@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: python, | ToalhaTech]]></title>
-  <link href="http://toalhatech.com/blog/categories/python/atom.xml" rel="self"/>
-  <link href="http://toalhatech.com/"/>
-  <updated>2013-10-23T21:18:39-02:00</updated>
-  <id>http://toalhatech.com/</id>
+  <link href="http://toalhatech.github.io/toalhatech/blog/categories/python/atom.xml" rel="self"/>
+  <link href="http://toalhatech.github.io/toalhatech/"/>
+  <updated>2013-10-23T22:25:52-02:00</updated>
+  <id>http://toalhatech.github.io/toalhatech/</id>
   <author>
     <name><![CDATA[Equipe ToalhaTech]]></name>
     <email><![CDATA[contato@toalhatech.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Python Day Sergipe]]></title>
-    <link href="http://toalhatech.com/blog/2013/08/30/python-day-sergipe/"/>
+    <link href="http://toalhatech.github.io/toalhatech/blog/2013/08/30/python-day-sergipe/"/>
     <updated>2013-08-30T08:18:00-03:00</updated>
-    <id>http://toalhatech.com/blog/2013/08/30/python-day-sergipe</id>
+    <id>http://toalhatech.github.io/toalhatech/blog/2013/08/30/python-day-sergipe</id>
     <content type="html"><![CDATA[<p>Olá, pessoal. Bom dia :).</p>
 
 <p>Algo que realmente gosto de ver são encontros e eventos espalhados por todo o país. O fortalecimento de uma comunidade local é benéfico para todas as comunidades e deveriamos nos ajudar mais neste sentido. <br/>
@@ -39,9 +39,9 @@ O evento ocorrerá no dia 26 de outubro, com palestras pela manhã e minicursos 
   
   <entry>
     <title type="html"><![CDATA[Almoço pythonrio@Barra]]></title>
-    <link href="http://toalhatech.com/blog/2013/05/27/almoco-pythonrio-barra-da-tijuca/"/>
+    <link href="http://toalhatech.github.io/toalhatech/blog/2013/05/27/almoco-pythonrio-barra-da-tijuca/"/>
     <updated>2013-05-27T21:10:00-03:00</updated>
-    <id>http://toalhatech.com/blog/2013/05/27/almoco-pythonrio-barra-da-tijuca</id>
+    <id>http://toalhatech.github.io/toalhatech/blog/2013/05/27/almoco-pythonrio-barra-da-tijuca</id>
     <content type="html"><![CDATA[<p>O almoço do <a href="http://dev.renatacarreira.com/blog/2013/05/23/almoco-pythonrio-at-barra-da-tijuca/">pythonrio também está rolando na Barra</a>. A idéia é fazer um &ldquo;fork&rdquo; do evento que já ocorre no Centro, p/ o pessoal que trabalha/mora/estuda nessa região e não tem como se deslocar p/ lá.</p>
 
 <p>O encontro rola todas as quintas-feiras, no mesmo local, menos nesta última semana de maio/2013, que será no dia <strong>29/05/2013</strong>, por causa do feriado que ocorrerá na quinta, dia 30/05/2013 <!-- more -->(corpus christis).</p>

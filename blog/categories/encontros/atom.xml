@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: encontros, | ToalhaTech]]></title>
-  <link href="http://toalhatech.com/blog/categories/encontros/atom.xml" rel="self"/>
-  <link href="http://toalhatech.com/"/>
-  <updated>2013-10-23T21:18:39-02:00</updated>
-  <id>http://toalhatech.com/</id>
+  <link href="http://toalhatech.github.io/toalhatech/blog/categories/encontros/atom.xml" rel="self"/>
+  <link href="http://toalhatech.github.io/toalhatech/"/>
+  <updated>2013-10-23T22:25:52-02:00</updated>
+  <id>http://toalhatech.github.io/toalhatech/</id>
   <author>
     <name><![CDATA[Equipe ToalhaTech]]></name>
     <email><![CDATA[contato@toalhatech.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[RubyOnRio de Setembro/2013]]></title>
-    <link href="http://toalhatech.com/blog/2013/09/14/rubyonrio-de-setembro-2013/"/>
+    <link href="http://toalhatech.github.io/toalhatech/blog/2013/09/14/rubyonrio-de-setembro-2013/"/>
     <updated>2013-09-14T18:17:00-03:00</updated>
-    <id>http://toalhatech.com/blog/2013/09/14/rubyonrio-de-setembro-2013</id>
+    <id>http://toalhatech.github.io/toalhatech/blog/2013/09/14/rubyonrio-de-setembro-2013</id>
     <content type="html"><![CDATA[<p>Olá, pessoal. Tudo bem com vocês?</p>
 
 <p>Como muitos sabem, nos dias 29 e 30 de agosto ocorreu a edição 2013 da RubyConfBr e a comunidade carioca de Ruby está ainda mais animada para se encontrar, falar sobre o evento e sobre a tecnologia. Desta vez, eles resolveram sair um pouco da tradicional formato sala-projetor para algo mais informal: um encontro na starbucks do Centro/RJ.</p>

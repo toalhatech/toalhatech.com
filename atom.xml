@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[ToalhaTech]]></title>
-  <link href="http://toalhatech.com/atom.xml" rel="self"/>
-  <link href="http://toalhatech.com/"/>
-  <updated>2013-10-23T21:18:39-02:00</updated>
-  <id>http://toalhatech.com/</id>
+  <link href="http://toalhatech.github.io/toalhatech/atom.xml" rel="self"/>
+  <link href="http://toalhatech.github.io/toalhatech/"/>
+  <updated>2013-10-23T22:25:52-02:00</updated>
+  <id>http://toalhatech.github.io/toalhatech/</id>
   <author>
     <name><![CDATA[Equipe ToalhaTech]]></name>
     <email><![CDATA[contato@toalhatech.com]]></email>
@@ -14,10 +14,141 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Agile In Rio 2013 - Última chamada]]></title>
+    <link href="http://toalhatech.github.io/toalhatech/blog/2013/10/23/agile-in-rio-2013-ultima-chamada/"/>
+    <updated>2013-10-23T21:32:00-02:00</updated>
+    <id>http://toalhatech.github.io/toalhatech/blog/2013/10/23/agile-in-rio-2013-ultima-chamada</id>
+    <content type="html"><![CDATA[<p>O <a href="http://www.agileinrio.com.br/">Agile in Rio 2013</a> está chegando! Será realizado nos dias 26 e 27 de outubro, em Niterói, se você ainda não se inscreveu corre no site oficial que ainda dá tempo!</p>
+
+<p>Vários palestrantes que representam a agilidade em pessoa estarão presentes transmitindo conhecimento e trocando experiências. Você terá a oportunidade de aprender mais sobre ágil com Alexandre Magno, Alisson Vale, Rafael Sabbagh, Rodrigo de Toledo, Rodrigo Yoshima,<!-- more --> Vinicius Teles e mais uma série de grandes nomes da comunidade ágil brasileira. Além de assistir um keynote com a  Mary Poppendieck, palestrante popular e autora de vários livros, dentre eles o &ldquo;Lean Software Development&rdquo;.</p>
+
+<p>Lembrando que ainda dá para se <a href="http://agileinrio.eventbrite.com/">inscrever</a>, então aproveita o post para ver mais informações sobre o Agile in Rio 2013 e não ficar de fora deste super encontro de agilidade.</p>
+
+<h3>O evento é onde mesmo?</h3>
+
+<p>O evento será realizado na Universidade Unilasalle, Rua Gastão Gonçalves, 79 Santa Rosa, Niterói – RJ</p>
+
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com.br/maps?f=q&amp;source=embed&amp;hl=pt-BR&amp;geocode=&amp;q=+Universidade+La+Salle++Rua+Gast%C3%A3o+Gon%C3%A7alves+79,+Santa+Rosa+%E2%80%93+Niter%C3%B3i+%E2%80%93+RJ&amp;aq=&amp;sll=-22.896754,-43.106566&amp;sspn=0.015517,0.033023&amp;gl=br&amp;g=R.+Gast%C3%A3o+Gon%C3%A7alves,+79+-+P%C3%A9+Pequeno,+Niter%C3%B3i+-+Rio+de+Janeiro,+24240-030&amp;ie=UTF8&amp;hq=Universidade+La+Salle&amp;hnear=R.+Gast%C3%A3o+Gon%C3%A7alves,+79+-+P%C3%A9+Pequeno,+Niter%C3%B3i+-+Rio+de+Janeiro,+24240-030&amp;ll=-22.896942,-43.10655&amp;spn=0.006295,0.006295&amp;t=m&amp;layer=c&amp;cbll=-22.897117,-43.106429&amp;panoid=qBUdPBXkn4D35o_GX8S8gw&amp;cbp=12,261.72,,0,0&amp;output=svembed"></iframe>
+
+
+<br /><small><a href="https://maps.google.com.br/maps?f=q&amp;source=embed&amp;hl=pt-BR&amp;geocode=&amp;q=+Universidade+La+Salle++Rua+Gast%C3%A3o+Gon%C3%A7alves+79,+Santa+Rosa+%E2%80%93+Niter%C3%B3i+%E2%80%93+RJ&amp;aq=&amp;sll=-22.896754,-43.106566&amp;sspn=0.015517,0.033023&amp;gl=br&amp;g=R.+Gast%C3%A3o+Gon%C3%A7alves,+79+-+P%C3%A9+Pequeno,+Niter%C3%B3i+-+Rio+de+Janeiro,+24240-030&amp;ie=UTF8&amp;hq=Universidade+La+Salle&amp;hnear=R.+Gast%C3%A3o+Gon%C3%A7alves,+79+-+P%C3%A9+Pequeno,+Niter%C3%B3i+-+Rio+de+Janeiro,+24240-030&amp;ll=-22.896942,-43.10655&amp;spn=0.006295,0.006295&amp;t=m&amp;layer=c&amp;cbll=-22.897117,-43.106429&amp;panoid=qBUdPBXkn4D35o_GX8S8gw&amp;cbp=12,261.72,,0,0" style="color:#0000FF;text-align:left">Exibir mapa ampliado</a></small>
+
+
+<h3>E como chegar lá?</h3>
+
+<p>Há várias formas de se chegar ao local do evento Agile in Rio. Transporte não é desculpa para ficar de fora : )</p>
+
+<h4>Carro</h4>
+
+<p>Há estacionamento na própria universidade por um preço acessível.</p>
+
+<h4>Barca + Ônibus</h4>
+
+<p>O itinerário a ser pego é Praça XV – Praça Araribóia + ônibus 45.
+A barca sai da praça XV e os horários podem ser consultados no site das Barcas SA.
+Chegando a praça Araribóia pegar o ônibus 45 (Cubango X Centro).
+Ponto de embarque: Rua da Conceição (rua em frente a Praça Araribóia)
+Ponto de desembarque: Rua Presidente Backer (ponto próximo a rua João Pessoa. Pegar a Rua João Pessoa a esquerda e depois a Paulo Cesar a esquerda e a direita na Gastão Gonçaves (local do evento). Serão uns 5 minutos de caminhada.<br/>
+<strong>DETALHES:</strong>
+O tempo de viagem das barcas é de 20 minutos.
+A tarifa das barcas é de R$ 4,50 ou R$ 3,10 para bilhete único.
+Nos finais de semana o intervalo de saída das embarcações é de 30 minutos.
+A tarifa do ônibus é de R$ 2,50
+Tempo estimado de percurso do ônibus é de 15 minutos
+Para estar no evento por volta das 8h40min sugerimos fortemente pegar a barca das 8h.
+ATENÇÃO: As barcas para Charitas não funcionam no fim de semana.</p>
+
+<h4>Somente Ônibus</h4>
+
+<h5>730D (Castelo X Charitas)</h5>
+
+<p>O itinerário do 730 está disponível na web, com informações dos pontos onde é possível pegá-lo.
+Ponto de desembarque: Rua Geraldo Martins (informar que irá para a Universidade LaSalle e solicitar que deixe-o no início da Geraldo Martins, caso contrário é descer no ponto mesmo e voltar um pouco andando).
+É uma caminhada de no máximo 10 minutos.</p>
+
+<h5>998 (Galeão x Charitas)</h5>
+
+<p>Ver itinerário disponível no site da 1001.
+Ponto de desembarque: Praia de Icaraí – próximo a Rua Pereira da Silva.
+Caminhar pela Rua Pereira da Silva até chegar na Rua Paulo Cesar. Continuar caminhando pela Rua Paulo César e entrar a esquerda na Rua Gastão Gonçalves (local do evento).</p>
+
+<h5>996 (Gávea x Charitas)</h5>
+
+<p>Ver itinerário disponível no site da 1001.
+Ponto de desembarque: Praia de Icaraí – próximo a Rua Pereira da Silva.
+Caminhar pela Rua Pereira da Silva até chegar na Rua Paulo Cesar. Continuar caminhando pela Rua Paulo César e entrar a esquerda na Rua Gastão Gonçalves (local do evento).</p>
+
+<h5>1001 (Castelo x Itaipu)</h5>
+
+<p>Atenção:
+Quem estiver pensando em pegar a linha da 1001 (Castelo x Itaipu), informamos que essa linha não funciona nos finais de semana, confome disposto no site da 1001.</p>
+
+<h3>Venho de longe, onde posso ficar?</h3>
+
+<p>Ficar hospedado em <strong>Niterói</strong> é a melhor opção para quem vem para o Agile in Rio. Fica próximo ao evento, o que facilita a locomoção e tem várias opções bacanas de passeios (turismo), comércio e bares/restaurantes.</p>
+
+<h4>Hotel Village Icaraí</h4>
+
+<p>Uma quadra da praia e em frente a uma sorveteria italiana (Crema e Cioccolato) com sorvetes maravilhosos! :)</p>
+
+<h4>Icaraí Praia Hotel</h4>
+
+<p>Esse está do lado da praia. No site do hotel há dicas bacanas do que fazer em Niterói. E tanto quanto o primeiro hotel listado, fica no coração do comércio de Niterói (Rua Moreira Cesar).</p>
+
+<h4>Tower Icaraí Hotel</h4>
+
+<p>Outra boa opção, com vista para a praia de Icaraí</p>
+
+<h4>Mércure Niterói Orizzonte Hotel</h4>
+
+<p>Esse é um hotel bacana. Renovado recentemente, e próximo as barcas, porém um pouco distante da vida noturna e do evento. Mas de táxia chega-se a qualquer lugar, certo?!</p>
+
+<h4>Hotel Solar do Amanhecer</h4>
+
+<p>Bom hotel, de frente para a praia, porém fica situado em Charitas. Fácil acesso a São Francisco, bairro</p>
+
+<p>Ficar na cidade do <strong>Rio de Janeiro</strong> também é uma ótima opção. Afinal de contas é a Cidade Maravilhosa :).<br/>
+Listamos abaixo alguns hotéis que ficam no Centro do Rio, devido a proximidade a Praça XV, onde partem as barcas para Niterói:</p>
+
+<h4>Novo Hotel Rio de Janeiro – Santos Dumont</h4>
+
+<p>Pertinho da saída do aeroporto, uma otima opção para quem vem de longe.</p>
+
+<h4>Hotel Aeroporto Othon Travel</h4>
+
+<p>Outro pertinho do aeroporto Santos Dumont</p>
+
+<h4>Ibis Centro</h4>
+
+<p>Opção bastante confiável para quem quer acomodações seguras e padronizadas.</p>
+
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps/ms?msa=0&amp;msid=215685608116179392552.0004e827699e632908bbf&amp;ie=UTF8&amp;t=m&amp;source=embed&amp;ll=-22.914068,-43.139456&amp;spn=0.033876,0.084624&amp;output=embed"></iframe>
+
+
+<br /><small>Ver <a href="https://maps.google.com/maps/ms?msa=0&amp;msid=215685608116179392552.0004e827699e632908bbf&amp;ie=UTF8&amp;t=m&amp;source=embed&amp;ll=-22.914068,-43.139456&amp;spn=0.033876,0.084624" style="color:#0000FF;text-align:left">Hoteis Agile in Rio</a> num mapa maior</small>
+
+
+<h3>Onde comer?</h3>
+
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps/ms?msid=215685608116179392552.0004e845234560d7cc0b9&amp;msa=0&amp;ie=UTF8&amp;t=m&amp;ll=-22.89628,-43.106167&amp;spn=0.012256,0.01929&amp;output=embed"></iframe>
+
+
+<br /><small>Ver <a href="https://maps.google.com/maps/ms?msid=215685608116179392552.0004e845234560d7cc0b9&amp;msa=0&amp;ie=UTF8&amp;t=m&amp;ll=-22.89628,-43.106167&amp;spn=0.012256,0.01929&amp;source=embed" style="color:#0000FF;text-align:left">Restaurantes Agile in Rio</a> num mapa maior</small>  
+
+
+<h3>Dá pra me divertir depois do evento?</h3>
+
+<p>Claro! Vai rolar um Happy Hour que está sendo agitado pelo pessoal da organização. Em breve estará disponível no site oficial do evento.</p>
+
+<p>É isso! Falta apenas 1 dia para o Rio ser mais ágil!</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Hack &amp; Design Conference, aka HDC'13]]></title>
-    <link href="http://toalhatech.com/blog/2013/10/12/hack-and-design-conference-aka-hdc-13/"/>
+    <link href="http://toalhatech.github.io/toalhatech/blog/2013/10/12/hack-and-design-conference-aka-hdc-13/"/>
     <updated>2013-10-12T17:38:00-03:00</updated>
-    <id>http://toalhatech.com/blog/2013/10/12/hack-and-design-conference-aka-hdc-13</id>
+    <id>http://toalhatech.github.io/toalhatech/blog/2013/10/12/hack-and-design-conference-aka-hdc-13</id>
     <content type="html"><![CDATA[<p>No dia 05 de outubro rolou o <a href="http://hackdesignconf.com.br/">HDC’13</a>, um evento que reuniu a comunidade de hacking e codificação com a de design. O resultado? Deu muito certo! Uma grande variedade de palestras e temas sobre essas duas áreas que se complementam. Foi um dia inteiro de aprendizado e descobertas.</p>
 
 <p>Infelizmente perdi as duas primeiras palestras. A primeira foi do Sylvestre Mergulhão e Rafael Lima dando dicas de<!-- more --> como crescer e ganhar mais trabalhando com o que gosta. A segunda foi do Victor Montalvão convidando os designers e desenvolvedores a refletir se o que eles tem feito está realmente baseado nas vontades do usuário, afinal de contas, é ele quem manda. =)</p>
@@ -38,9 +169,9 @@
   
   <entry>
     <title type="html"><![CDATA[CBSoft 2013 - Congresso Brasileiro de Software]]></title>
-    <link href="http://toalhatech.com/blog/2013/10/09/cbsoft-2013-congresso-brasileiro-de-software/"/>
+    <link href="http://toalhatech.github.io/toalhatech/blog/2013/10/09/cbsoft-2013-congresso-brasileiro-de-software/"/>
     <updated>2013-10-09T21:04:00-03:00</updated>
-    <id>http://toalhatech.com/blog/2013/10/09/cbsoft-2013-congresso-brasileiro-de-software</id>
+    <id>http://toalhatech.github.io/toalhatech/blog/2013/10/09/cbsoft-2013-congresso-brasileiro-de-software</id>
     <content type="html"><![CDATA[<p>Esse ano tive o prazer de participar novamente do <a href="http://cbsoft2013.unb.br/">CBSoft &ndash; Congresso Brasileiro de Software</a>. A edição 2013 foi realizada em Brasília, por coincidência no mesmo centro de convenções onde também estava rolando o Python Brasil.</p>
 
 <p>A <a href="http://cbsoft2013.unb.br/">CBSoft</a> surgiu em 2010, a partir da união de quatro tradicionais eventos promovidos pela Sociedade Brasileira de Computação:<!-- more --></p>
@@ -61,9 +192,9 @@
   
   <entry>
     <title type="html"><![CDATA[RSOnRails 2013]]></title>
-    <link href="http://toalhatech.com/blog/2013/09/15/rsonrails-2013/"/>
+    <link href="http://toalhatech.github.io/toalhatech/blog/2013/09/15/rsonrails-2013/"/>
     <updated>2013-09-15T10:55:00-03:00</updated>
-    <id>http://toalhatech.com/blog/2013/09/15/rsonrails-2013</id>
+    <id>http://toalhatech.github.io/toalhatech/blog/2013/09/15/rsonrails-2013</id>
     <content type="html"><![CDATA[<p>O mês de outubro terá vários eventos legais. Um dos que vem somar para este mês é o <a href="http://rsonrails.com.br/">RSOnRails</a>, evento que ocorrerá dia 19 de outubro no Rio Grande do Sul.</p>
 
 <p>Neste momento, o evento está na fase de <a href="http://call4paperz.com/events/rs-on-rails-2013">call4papers</a>, e várias pessoas estão submetendo palestras e certamente a proposta de ser &ldquo;O maior evento de Ruby do Sul&rdquo; será alcançada. Aproveite para mandar a sua proposta ou votar :).</p>
@@ -84,9 +215,9 @@
   
   <entry>
     <title type="html"><![CDATA[RubyOnRio de Setembro/2013]]></title>
-    <link href="http://toalhatech.com/blog/2013/09/14/rubyonrio-de-setembro-2013/"/>
+    <link href="http://toalhatech.github.io/toalhatech/blog/2013/09/14/rubyonrio-de-setembro-2013/"/>
     <updated>2013-09-14T18:17:00-03:00</updated>
-    <id>http://toalhatech.com/blog/2013/09/14/rubyonrio-de-setembro-2013</id>
+    <id>http://toalhatech.github.io/toalhatech/blog/2013/09/14/rubyonrio-de-setembro-2013</id>
     <content type="html"><![CDATA[<p>Olá, pessoal. Tudo bem com vocês?</p>
 
 <p>Como muitos sabem, nos dias 29 e 30 de agosto ocorreu a edição 2013 da RubyConfBr e a comunidade carioca de Ruby está ainda mais animada para se encontrar, falar sobre o evento e sobre a tecnologia. Desta vez, eles resolveram sair um pouco da tradicional formato sala-projetor para algo mais informal: um encontro na starbucks do Centro/RJ.</p>
@@ -107,9 +238,9 @@
   
   <entry>
     <title type="html"><![CDATA[DNAD 2013 - 2o Dia]]></title>
-    <link href="http://toalhatech.com/blog/2013/09/11/dnad-2013-2o-dia/"/>
+    <link href="http://toalhatech.github.io/toalhatech/blog/2013/09/11/dnad-2013-2o-dia/"/>
     <updated>2013-09-11T23:14:00-03:00</updated>
-    <id>http://toalhatech.com/blog/2013/09/11/dnad-2013-2o-dia</id>
+    <id>http://toalhatech.github.io/toalhatech/blog/2013/09/11/dnad-2013-2o-dia</id>
     <content type="html"><![CDATA[<p>Depois de um <a href="http://toalhatech.com/blog/2013/08/21/dnad-2013-1o-dia/">1o dia inspirador</a>, o 2o dia do DNAD também estava bem promissor. Infelizmente, entretanto, duas das palestras que eu mais gostaria de ver (sobre Tsuru, da Flavia Missi e Quando Parei de Usar Padrões, do Vinicius Quaiato) foram canceladas por motivos de força maior. Uma pena, tanto pra audiência quanto pros palestrantes. Por causa destes contratempos, a ordem das palestras não seguiu exatamente a programação, e o <a href="http://elemarjr.net/">Elemar Jr</a> abriu a sequência &ndash; mais uma<!-- more --> vez, de forma irrepreensível.</p>
 
 <h4>CQRS aplicado para construção de aplicações de alto desempenho usando Windows Azure</h4>
@@ -155,9 +286,9 @@
   
   <entry>
     <title type="html"><![CDATA[Algumas atribuições de componentes de um evento]]></title>
-    <link href="http://toalhatech.com/blog/2013/09/10/algumas-atribuicoes-de-componentes-de-um-evento/"/>
+    <link href="http://toalhatech.github.io/toalhatech/blog/2013/09/10/algumas-atribuicoes-de-componentes-de-um-evento/"/>
     <updated>2013-09-10T19:33:00-03:00</updated>
-    <id>http://toalhatech.com/blog/2013/09/10/algumas-atribuicoes-de-componentes-de-um-evento</id>
+    <id>http://toalhatech.github.io/toalhatech/blog/2013/09/10/algumas-atribuicoes-de-componentes-de-um-evento</id>
     <content type="html"><![CDATA[<p>Há um tempo, foi publicado aqui no Toalhatech um texto sobre <a href="http://toalhatech.com/blog/2013/08/11/passos-basicos-para-realizar-um-evento/">dicas básicas para organizar um evento</a> e este post é indiretamente um complemento do mesmo. Nós gostariamos de falar o que acreditamos ser limites entre evento/organização/palestrantes/patrocinadores.</p>
 
 <p>Em um grande evento no final de agosto/2013, infelizmente ocorreu uma pesada troca de farpas entre palestrantes e representantes de patrocinadores, que teve<!-- more -->  como estopim uma palestra afirmando que algumas tecnologias não funcionavam tão bem quanto as empresas que constroem esses softwares dizem. O que deveria ser somente um slide polêmico causou uma confusão muito triste e com acusações de que ano que vem algumas empresas não patrocinariam o evento, pois gostaria que o evento tivesse mais critério na hora de escolher quem palestrará ou não.</p>
@@ -182,9 +313,9 @@
   
   <entry>
     <title type="html"><![CDATA[Python Day Sergipe]]></title>
-    <link href="http://toalhatech.com/blog/2013/08/30/python-day-sergipe/"/>
+    <link href="http://toalhatech.github.io/toalhatech/blog/2013/08/30/python-day-sergipe/"/>
     <updated>2013-08-30T08:18:00-03:00</updated>
-    <id>http://toalhatech.com/blog/2013/08/30/python-day-sergipe</id>
+    <id>http://toalhatech.github.io/toalhatech/blog/2013/08/30/python-day-sergipe</id>
     <content type="html"><![CDATA[<p>Olá, pessoal. Bom dia :).</p>
 
 <p>Algo que realmente gosto de ver são encontros e eventos espalhados por todo o país. O fortalecimento de uma comunidade local é benéfico para todas as comunidades e deveriamos nos ajudar mais neste sentido. <br/>
@@ -206,9 +337,9 @@ O evento ocorrerá no dia 26 de outubro, com palestras pela manhã e minicursos 
   
   <entry>
     <title type="html"><![CDATA[DNAD 2013 - 1o Dia]]></title>
-    <link href="http://toalhatech.com/blog/2013/08/21/dnad-2013-1o-dia/"/>
+    <link href="http://toalhatech.github.io/toalhatech/blog/2013/08/21/dnad-2013-1o-dia/"/>
     <updated>2013-08-21T00:47:00-03:00</updated>
-    <id>http://toalhatech.com/blog/2013/08/21/dnad-2013-1o-dia</id>
+    <id>http://toalhatech.github.io/toalhatech/blog/2013/08/21/dnad-2013-1o-dia</id>
     <content type="html"><![CDATA[<p>Nos dias 2 e 3 de agosto aconteceu o DNAD 2013 &ndash; evento de arquitetura tradicionalmente organizado em Sampa, deslocado pro Rio de Janeiro pela 1a vez. Essa foi minha terceira participação no DNAD e foi, sem dúvidas, a minha favorita. Num evento cujo suposto foco em .net está presente desde sua primeira edição (no nome, inclusive), foi surpreendente a pluralidade de tecnologias (ou &ldquo;ecossistemas&rdquo; &ndash; um termo que eu detesto) abordadas. <!-- more -->Ainda mais surpreendente foi a qualidade das discussões &ndash; paralelas ou não. Os mais atentos certamente &ldquo;pescaram&rdquo; nos corredores gente discutindo interpretadores, concorrência, paralelismo, e paradigmas de linguagens; um prato cheio pra quem gosta de Ciência da Computação.</p>
 
 <h4>Paralelismo &ndash; padrões e algoritmos (exemplos com C++ AMP)</h4>
@@ -276,12 +407,12 @@ Algumas das mensagens que me marcaram mais:</p>
   
   <entry>
     <title type="html"><![CDATA[Agile in Rio 2013]]></title>
-    <link href="http://toalhatech.com/blog/2013/08/19/agile-in-rio-2013/"/>
+    <link href="http://toalhatech.github.io/toalhatech/blog/2013/08/19/agile-in-rio-2013/"/>
     <updated>2013-08-19T18:42:00-03:00</updated>
-    <id>http://toalhatech.com/blog/2013/08/19/agile-in-rio-2013</id>
+    <id>http://toalhatech.github.io/toalhatech/blog/2013/08/19/agile-in-rio-2013</id>
     <content type="html"><![CDATA[<p>Baseado no recado que a <a href="https://twitter.com/samantacicilia">@SamySouza</a> deixou no <a href="http://oglobo.globo.com/blogs/tecnologia/posts/2013/08/19/agile-in-rio-2013-507057.asp">O Globo</a>:</p>
 
-<div style="float: left"><img src="http://toalhatech.com/images/logoAgileInRio.png" /></div>
+<div style="float: left"><img src="http://toalhatech.github.io/toalhatech/images/logoAgileInRio.png" /></div>
 
 
 <p>Durante os dias 26 e 27 de Outubro de 2013 ocorrerá o <a href="http://www.agileinrio.com.br/">Agile in Rio</a>: conferência realizada pela comunidade Agile do Rio de Janeiro para a comunidade<!-- more --> Agile do Brasil inteiro, com o objetivo de trazer para o mercado uma visão moderna sobre o desenvolvimento de software. Os principais pontos abordados, além de desenvolvimento de software são processos de gestão e ambiente de trabalho, que permitem o desenvolvimento sustentável de software e resultados finais de alta qualidade e aderência às necessidades mais atuais dos clientes</p>
@@ -292,7 +423,7 @@ Algumas das mensagens que me marcaram mais:</p>
 
 <p>Informações sobre inscrições, grade de palestras e tudo mais  sobre o Agile in Rio, com realização na Universidade La Salle (Rua Gastão Gonçalves 79, Santa Rosa &ndash;  Niterói &ndash;  RJ), estão disponíveis no <a href="http://www.agileinrio.com.br/">www.agileinrio.com.br</a>.</p>
 
-<p>Outras informações podem ser obtidas através do e-mail de contato: <a href="&#109;&#x61;&#105;&#x6c;&#x74;&#x6f;&#58;&#x64;&#117;&#118;&#x69;&#100;&#x61;&#x73;&#64;&#97;&#x67;&#x69;&#108;&#101;&#x69;&#110;&#114;&#x69;&#x6f;&#x2e;&#x63;&#111;&#x6d;&#x2e;&#x62;&#114;">&#100;&#x75;&#x76;&#x69;&#100;&#97;&#115;&#64;&#97;&#103;&#105;&#x6c;&#x65;&#x69;&#x6e;&#x72;&#105;&#111;&#x2e;&#99;&#111;&#x6d;&#x2e;&#x62;&#114;</a></p>
+<p>Outras informações podem ser obtidas através do e-mail de contato: <a href="&#x6d;&#x61;&#x69;&#108;&#x74;&#111;&#x3a;&#x64;&#117;&#x76;&#x69;&#100;&#x61;&#x73;&#x40;&#97;&#x67;&#x69;&#108;&#101;&#105;&#110;&#114;&#x69;&#x6f;&#x2e;&#x63;&#x6f;&#109;&#46;&#x62;&#x72;">&#100;&#117;&#x76;&#x69;&#100;&#97;&#115;&#x40;&#x61;&#103;&#x69;&#108;&#x65;&#105;&#x6e;&#x72;&#x69;&#x6f;&#x2e;&#99;&#111;&#109;&#x2e;&#x62;&#x72;</a></p>
 
 <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com.br/maps?f=q&amp;source=embed&amp;hl=pt-BR&amp;geocode=&amp;q=+Universidade+La+Salle++Rua+Gast%C3%A3o+Gon%C3%A7alves+79,+Santa+Rosa+%E2%80%93+Niter%C3%B3i+%E2%80%93+RJ&amp;aq=&amp;sll=-22.896754,-43.106566&amp;sspn=0.015517,0.033023&amp;gl=br&amp;g=R.+Gast%C3%A3o+Gon%C3%A7alves,+79+-+P%C3%A9+Pequeno,+Niter%C3%B3i+-+Rio+de+Janeiro,+24240-030&amp;ie=UTF8&amp;hq=Universidade+La+Salle&amp;hnear=R.+Gast%C3%A3o+Gon%C3%A7alves,+79+-+P%C3%A9+Pequeno,+Niter%C3%B3i+-+Rio+de+Janeiro,+24240-030&amp;ll=-22.896942,-43.10655&amp;spn=0.006295,0.006295&amp;t=m&amp;layer=c&amp;cbll=-22.897117,-43.106429&amp;panoid=qBUdPBXkn4D35o_GX8S8gw&amp;cbp=12,261.72,,0,0&amp;output=svembed"></iframe>
 
@@ -306,9 +437,9 @@ Algumas das mensagens que me marcaram mais:</p>
   
   <entry>
     <title type="html"><![CDATA[Passos básicos para realizar um evento]]></title>
-    <link href="http://toalhatech.com/blog/2013/08/11/passos-basicos-para-realizar-um-evento/"/>
+    <link href="http://toalhatech.github.io/toalhatech/blog/2013/08/11/passos-basicos-para-realizar-um-evento/"/>
     <updated>2013-08-11T17:18:00-03:00</updated>
-    <id>http://toalhatech.com/blog/2013/08/11/passos-basicos-para-realizar-um-evento</id>
+    <id>http://toalhatech.github.io/toalhatech/blog/2013/08/11/passos-basicos-para-realizar-um-evento</id>
     <content type="html"><![CDATA[<p>Olá, pessoal. Tudo bem?</p>
 
 <p>Este post não é muito o que costumo escrever, mas espero que possa ajudar pessoas a tirarem dúvidas e se animarem a promover o encontro/evento de suas comunidades locais (e se fizerem, avisem para nós. Teremos o maior prazer de anunciar ^_^). O texto é baseado numa conversa que tive com a Anna Cruz sobre os passos básicos que aprendemos ao<!-- more --> longo das experiências que tivemos para organizar e participar de eventos:</p>
@@ -339,9 +470,9 @@ Algumas das mensagens que me marcaram mais:</p>
   
   <entry>
     <title type="html"><![CDATA[Encontro do Grupo de Estrutura de Dados/RJ Agosto/2013]]></title>
-    <link href="http://toalhatech.com/blog/2013/08/04/encontro-do-grupo-de-estrutura-de-dados-slash-rj-agosto-slash-2013/"/>
+    <link href="http://toalhatech.github.io/toalhatech/blog/2013/08/04/encontro-do-grupo-de-estrutura-de-dados-slash-rj-agosto-slash-2013/"/>
     <updated>2013-08-04T11:39:00-03:00</updated>
-    <id>http://toalhatech.com/blog/2013/08/04/encontro-do-grupo-de-estrutura-de-dados-slash-rj-agosto-slash-2013</id>
+    <id>http://toalhatech.github.io/toalhatech/blog/2013/08/04/encontro-do-grupo-de-estrutura-de-dados-slash-rj-agosto-slash-2013</id>
     <content type="html"><![CDATA[<p>Olá, pessoal. Tudo bem com vocês?</p>
 
 <p>No dia 10 de agosto (de 2013), será realizado o 2º encontro do grupo de estrutura de dados e o local é na <a href="http://www.caelum.com.br/">Caelum/RJ</a>.<br/>
@@ -363,9 +494,9 @@ Após muitas conversas este encontro e acredito fortemente que os outros também
   
   <entry>
     <title type="html"><![CDATA[Encontro sobre Estrutura de Dados]]></title>
-    <link href="http://toalhatech.com/blog/2013/06/28/encontro-sobre-estrutura-de-dados/"/>
+    <link href="http://toalhatech.github.io/toalhatech/blog/2013/06/28/encontro-sobre-estrutura-de-dados/"/>
     <updated>2013-06-28T01:08:00-03:00</updated>
-    <id>http://toalhatech.com/blog/2013/06/28/encontro-sobre-estrutura-de-dados</id>
+    <id>http://toalhatech.github.io/toalhatech/blog/2013/06/28/encontro-sobre-estrutura-de-dados</id>
     <content type="html"><![CDATA[<p>Olá, pessoal. Tudo bem com vocês?</p>
 
 <p>Neste sábado, dia 29 de junho (de 2013) de 10 horas até as 14 horas, será realizado no #CurtoCircuitoHS o Encontro sobre Estrutura de Dados.</p>
@@ -388,9 +519,9 @@ Após muitas conversas este encontro e acredito fortemente que os outros também
   
   <entry>
     <title type="html"><![CDATA[Hackathon para ajudar os protestos Br]]></title>
-    <link href="http://toalhatech.com/blog/2013/06/17/hackaton-para-ajudar-os-protestos-br/"/>
+    <link href="http://toalhatech.github.io/toalhatech/blog/2013/06/17/hackaton-para-ajudar-os-protestos-br/"/>
     <updated>2013-06-17T08:30:00-03:00</updated>
-    <id>http://toalhatech.com/blog/2013/06/17/hackaton-para-ajudar-os-protestos-br</id>
+    <id>http://toalhatech.github.io/toalhatech/blog/2013/06/17/hackaton-para-ajudar-os-protestos-br</id>
     <content type="html"><![CDATA[<p>Pessoal, este blog não é politico e nem nada, porém não podemos deixar de fazer a nossa parte para ajudar as pessoas a sairem sãs e salvas destes protestos, que estão sendo respondidos com muita violência por parte do governo. Parte do governo pois a polícia só obedece ordens.</p>
 
 <p>Indo ao que interessa, o Felipe Oliveira está organizando um hackathon para ajudar nas manifestações. O objetivo deste post é<!-- more --> anunciar este hackathon e incentivar a todos que participem dele: <a href="http://hackathonbr.tumblr.com/post/53159289495/caros-amigos-hackers-que-queiram-fazer-a">http://hackathonbr.tumblr.com/post/53159289495/caros-amigos-hackers-que-queiram-fazer-a</a></p>
@@ -432,9 +563,9 @@ Segundo a descrição do tumblr do hackathon:<br/>
   
   <entry>
     <title type="html"><![CDATA[Encontro dna Rio de maio e junho de 2013]]></title>
-    <link href="http://toalhatech.com/blog/2013/06/16/encontro-dnario-de-maio-e-junho-de-2013/"/>
+    <link href="http://toalhatech.github.io/toalhatech/blog/2013/06/16/encontro-dnario-de-maio-e-junho-de-2013/"/>
     <updated>2013-06-16T20:39:00-03:00</updated>
-    <id>http://toalhatech.com/blog/2013/06/16/encontro-dnario-de-maio-e-junho-de-2013</id>
+    <id>http://toalhatech.github.io/toalhatech/blog/2013/06/16/encontro-dnario-de-maio-e-junho-de-2013</id>
     <content type="html"><![CDATA[<p>Como sempre, no <a href="http://toalhatech.com/blog/2013/05/30/encontros-mensais-bimestrais-de-algumas-comunidades-do-rio-de-janeiro/">1º sábado (sem ser de feriadão prolongado) do mês</a>, ocorreu o encontro da comunidade de <a href="http://toalhatech.com/blog/2013/05/12/encontro-dna-rio-abril-2013/">.NET do Rio de Janeiro</a> &ndash; o <a href="https://twitter.com/dnario">dna Rio</a>. Os encontros de maio e junho foram muito relacionados, por isso resolvi unir os 2 num único post, para facilitar o entendimento.</p>
 
 <p>No encontro de maio, ocorrido no dia 4, foi anunciado oficialmente o evento <a href="dnad.azurewebsites.net">DNAD 2013</a>. Durante o encontro, os participantes<!-- more --> puderam dar algumas sugestões para  o evento, além da  apresentação do <a href="https://twitter.com/juanplopes">@juanlopes</a> sobre Expressões Regulares.</p>
@@ -455,9 +586,9 @@ Segundo a descrição do tumblr do hackathon:<br/>
   
   <entry>
     <title type="html"><![CDATA[Web Day 2013]]></title>
-    <link href="http://toalhatech.com/blog/2013/06/08/web-day-2013/"/>
+    <link href="http://toalhatech.github.io/toalhatech/blog/2013/06/08/web-day-2013/"/>
     <updated>2013-06-08T21:22:00-03:00</updated>
-    <id>http://toalhatech.com/blog/2013/06/08/web-day-2013</id>
+    <id>http://toalhatech.github.io/toalhatech/blog/2013/06/08/web-day-2013</id>
     <content type="html"><![CDATA[<p>O <a href="http://www.webday.com.br">Web Day</a> é um seminário para desenvolvedores web. Segundo o site do evento, <em>&ldquo;será um evento técnico, onde os conceitos atuais serão vistos mais a fundo. As palestras serão realizadas por profissionais que atuam no mercado&rdquo;</em>.</p>
 
 <p>Com esta premissa bem direta ao assunto :), <a href="http://www.webday.com.br/p/palestrantes_30.html">palestrantes conhecidos no mundo front-end, ruby on rails e outros</a>, o evento ocorrerá no dia 20 de julho de 2013.</p>
@@ -474,9 +605,9 @@ Segundo a descrição do tumblr do hackathon:<br/>
   
   <entry>
     <title type="html"><![CDATA[BHack Conference 2013]]></title>
-    <link href="http://toalhatech.com/blog/2013/06/08/bhack-conference-2013/"/>
+    <link href="http://toalhatech.github.io/toalhatech/blog/2013/06/08/bhack-conference-2013/"/>
     <updated>2013-06-08T19:52:00-03:00</updated>
-    <id>http://toalhatech.com/blog/2013/06/08/bhack-conference-2013</id>
+    <id>http://toalhatech.github.io/toalhatech/blog/2013/06/08/bhack-conference-2013</id>
     <content type="html"><![CDATA[<p>A dica deste evento foi da <a href="https://twitter.com/vivocah">Vivi Sousa</a>. Ela mandou um email perguntando se o ToalhaTech só falaria sobre eventos no RJ. A resposta para esta pergunta é: Nós publicamos e queremos publicar eventos do Brasil inteiro :).</p>
 
 <p>Segundo a descrição encontrada no site, o BHack Conference 2013 é:</p>
@@ -503,9 +634,9 @@ No intuito de promover a referida integração, neste ano serão dois dias de ev
   
   <entry>
     <title type="html"><![CDATA[SQL Saturday RIO - 2a edicao]]></title>
-    <link href="http://toalhatech.com/blog/2013/06/08/sql-saturday-rio-2a-edicao/"/>
+    <link href="http://toalhatech.github.io/toalhatech/blog/2013/06/08/sql-saturday-rio-2a-edicao/"/>
     <updated>2013-06-08T19:12:00-03:00</updated>
-    <id>http://toalhatech.com/blog/2013/06/08/sql-saturday-rio-2a-edicao</id>
+    <id>http://toalhatech.github.io/toalhatech/blog/2013/06/08/sql-saturday-rio-2a-edicao</id>
     <content type="html"><![CDATA[<p>Recadinho da <a href="https://twitter.com/valparajara">Val Parajara</a>:</p>
 
 <p>A 2a edição do SQL Saturday RIO está se aproximando, será dia 31/08 e já temos 200 inscritos para o evento.</p>
@@ -532,9 +663,9 @@ No intuito de promover a referida integração, neste ano serão dois dias de ev
   
   <entry>
     <title type="html"><![CDATA[Como foi o Rio Agile Talks de Maio/2013]]></title>
-    <link href="http://toalhatech.com/blog/2013/06/02/como-foi-o-rio-agile-talks-maio-2013/"/>
+    <link href="http://toalhatech.github.io/toalhatech/blog/2013/06/02/como-foi-o-rio-agile-talks-maio-2013/"/>
     <updated>2013-06-02T13:06:00-03:00</updated>
-    <id>http://toalhatech.com/blog/2013/06/02/como-foi-o-rio-agile-talks-maio-2013</id>
+    <id>http://toalhatech.github.io/toalhatech/blog/2013/06/02/como-foi-o-rio-agile-talks-maio-2013</id>
     <content type="html"><![CDATA[<p>No dia 18 de maio aconteceu, na <a href="http://www.ideais.com.br/">Ideais Tecnologia</a>, o terceiro encontro de 2013 da comunidade ágil do Rio de Janeiro.</p>
 
 <p>O evento contou tanto com profissionais que trabalham com ágil quanto com aqueles que ainda não trabalham. Uma novidade foi a presença de vários profissionais da área de Testes o/.<!-- more --></p>
@@ -555,9 +686,9 @@ No intuito de promover a referida integração, neste ano serão dois dias de ev
   
   <entry>
     <title type="html"><![CDATA[Eventos de TI em 2013 - Listagem de vários eventos importantes]]></title>
-    <link href="http://toalhatech.com/blog/2013/06/01/alguns-eventos-importantes-de-2013/"/>
+    <link href="http://toalhatech.github.io/toalhatech/blog/2013/06/01/alguns-eventos-importantes-de-2013/"/>
     <updated>2013-06-01T11:48:00-03:00</updated>
-    <id>http://toalhatech.com/blog/2013/06/01/alguns-eventos-importantes-de-2013</id>
+    <id>http://toalhatech.github.io/toalhatech/blog/2013/06/01/alguns-eventos-importantes-de-2013</id>
     <content type="html"><![CDATA[<p>Eventos são momentos importantes de várias comunidades para reunir seus membros e trocar experiências. Um evento é maior que um encontro, seja pela infraestrutura do local, seja pela organização, conteúdo e expectativa dos participantes. Neste ano de 2013, já ocorreram alguns eventos de grande expressão, como o TDC Floripa, Python <!-- more -->Nordeste e o DevinSampa por exemplo,  mas vários outros ainda acontecerão e com inscrições abertas ou para abrir.<br/>
 Pensando nisso, fizemos uma lista de alguns eventos que são do nosso conhecimento. Infelizmente, nem todos os eventos foram listados, mas se você sabe de algum que não está citado abaixo, por favor, nos avise para que atualizarmos o post e divulgar o máximo possível as comunidades/eventos :).</p>
 
@@ -917,48 +1048,6 @@ Pensando nisso, fizemos uma lista de alguns eventos que são do nosso conhecimen
 
 
 <p>Favorite este post e não se esqueça de se inscrever e participar desses momentos importantes para o desenvolvimento de software do Brasil. Os eventos descritos que não possuem valor e período de inscrição serão atualizados assim que as informações forem divulgadas pelos organizadores dos eventos.</p>
-
-<p>Até a próxima o/.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Encontros de algumas comunidades do Rio de Janeiro]]></title>
-    <link href="http://toalhatech.com/blog/2013/05/30/encontros-mensais-bimestrais-de-algumas-comunidades-do-rio-de-janeiro/"/>
-    <updated>2013-05-30T10:40:00-03:00</updated>
-    <id>http://toalhatech.com/blog/2013/05/30/encontros-mensais-bimestrais-de-algumas-comunidades-do-rio-de-janeiro</id>
-    <content type="html"><![CDATA[<p>No Rio de Janeiro, algumas comunidades estão bastante organizadas e engajadas em manter a regularidade dos encontros de seus participantes. Nos encontros que podem ser para palestras, apresentação de cases, bate papo sobre a área ou um misto dos dois, ocorrem geralmente com uma certa agenda, descrita abaixo:</p>
-
-<!-- more -->
-
-
-<h4>Encontros Semanais:</h4>
-
-<ul>
-<li>Encontro da comunidade python &ndash; Almoço do <a href="https://twitter.com/pythonrio">PythOnRio</a> &ndash; no <a href="http://br.groups.yahoo.com/group/pythonrio/">Centro</a> e na <a href="http://toalhatech.com/blog/2013/05/27/almoco-pythonrio-barra-da-tijuca/">Barra da Tijuca</a></li>
-</ul>
-
-
-<h4>Encontros Mensais:</h4>
-
-<ul>
-<li>1º sábado &ndash; Encontro da comunidade .NET &ndash; <a href="https://twitter.com/dnario">DNA Rio</a></li>
-<li>2º quinta feira &ndash; Encontro da comunidade Perl &ndash; <a href="https://twitter.com/rio_pm">Rio PerlMonks</a> &ndash; <a href="http://mail.pm.org/mailman/listinfo/rio-pm">Rio-pm</a>. A comunidade também se reume para hackatons, que geralmente ocorrem no sábado depois do encontro mensal.</li>
-<li>3º sábado &ndash; Encontro da comunidade ruby &ndash; <a href="https://twitter.com/rubyonrio">RubyOnRio</a></li>
-</ul>
-
-
-<h4>Encontros Bimestrais:</h4>
-
-<ul>
-<li>Encontro da comunidade agile &ndash; <a href="http://rioagile.com.br/rio-agile-talks.html">Rio Agile Talks</a></li>
-<li>Encontro da comunidade javascript &ndash; <a href="https://www.facebook.com/groups/riojs">RioJS</a> &ndash; grupo do facebook</li>
-</ul>
-
-
-<p>Se você programa ou tem curiosidade sobre alguma dessas tecnologias, se programe e participe dos encontros. Certamente estar junto dessas pessoas é uma ótima oportunidade de aprender, ensinar e conhecer pessoas sensacionais.</p>
-
-<p>Agradeço muito à ajuda da <a href="https://twitter.com/valparajara">@valparajara</a> pelas informações da comunidade Ruby RJ, do <a href="https://twitter.com/leobetosouza">@leobetosouza</a> pelas informações da comunidade Riojs, da <a href="https://twitter.com/samantacicilia">@samantacicilia</a> pelas informações sobre a comunidade Agile RJ, do <a href="https://twitter.com/breno_ferreira">@breno_ferreira</a> pelas informações sobre a comunidade .Net-RJ, do <a href="https://twitter.com/israelst">@israelst</a> juntamente com a <a href="https://twitter.com/Renata_Carreira">@Renata_Carreira</a> sobre as informações da comunidade Python RJ e o <a href="https://twitter.com/leobetosouza">@leobetosouza</a> novamente contribuiu para com as informações da comunidade Perl para que o post fosse escrito :).</p>
 
 <p>Até a próxima o/.</p>
 ]]></content>

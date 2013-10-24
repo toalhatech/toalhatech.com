@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: HDC’13 | ToalhaTech]]></title>
-  <link href="http://toalhatech.com/blog/categories/hdc-13/atom.xml" rel="self"/>
-  <link href="http://toalhatech.com/"/>
-  <updated>2013-10-23T21:18:39-02:00</updated>
-  <id>http://toalhatech.com/</id>
+  <link href="http://toalhatech.github.io/toalhatech/blog/categories/hdc-13/atom.xml" rel="self"/>
+  <link href="http://toalhatech.github.io/toalhatech/"/>
+  <updated>2013-10-23T22:25:52-02:00</updated>
+  <id>http://toalhatech.github.io/toalhatech/</id>
   <author>
     <name><![CDATA[Equipe ToalhaTech]]></name>
     <email><![CDATA[contato@toalhatech.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Hack &amp; Design Conference, aka HDC'13]]></title>
-    <link href="http://toalhatech.com/blog/2013/10/12/hack-and-design-conference-aka-hdc-13/"/>
+    <link href="http://toalhatech.github.io/toalhatech/blog/2013/10/12/hack-and-design-conference-aka-hdc-13/"/>
     <updated>2013-10-12T17:38:00-03:00</updated>
-    <id>http://toalhatech.com/blog/2013/10/12/hack-and-design-conference-aka-hdc-13</id>
+    <id>http://toalhatech.github.io/toalhatech/blog/2013/10/12/hack-and-design-conference-aka-hdc-13</id>
     <content type="html"><![CDATA[<p>No dia 05 de outubro rolou o <a href="http://hackdesignconf.com.br/">HDC’13</a>, um evento que reuniu a comunidade de hacking e codificação com a de design. O resultado? Deu muito certo! Uma grande variedade de palestras e temas sobre essas duas áreas que se complementam. Foi um dia inteiro de aprendizado e descobertas.</p>
 
 <p>Infelizmente perdi as duas primeiras palestras. A primeira foi do Sylvestre Mergulhão e Rafael Lima dando dicas de<!-- more --> como crescer e ganhar mais trabalhando com o que gosta. A segunda foi do Victor Montalvão convidando os designers e desenvolvedores a refletir se o que eles tem feito está realmente baseado nas vontades do usuário, afinal de contas, é ele quem manda. =)</p>

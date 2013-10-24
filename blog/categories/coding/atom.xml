@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Coding | ToalhaTech]]></title>
-  <link href="http://toalhatech.com/blog/categories/coding/atom.xml" rel="self"/>
-  <link href="http://toalhatech.com/"/>
-  <updated>2013-10-23T21:18:39-02:00</updated>
-  <id>http://toalhatech.com/</id>
+  <link href="http://toalhatech.github.io/toalhatech/blog/categories/coding/atom.xml" rel="self"/>
+  <link href="http://toalhatech.github.io/toalhatech/"/>
+  <updated>2013-10-23T22:25:52-02:00</updated>
+  <id>http://toalhatech.github.io/toalhatech/</id>
   <author>
     <name><![CDATA[Equipe ToalhaTech]]></name>
     <email><![CDATA[contato@toalhatech.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Dojo+Atividades na UNICARIOCA - Comemorando Dia da Toalha]]></title>
-    <link href="http://toalhatech.com/blog/2013/05/21/dojo-atividades-na-unicarioca-comemorando-dia-da-toalha/"/>
+    <link href="http://toalhatech.github.io/toalhatech/blog/2013/05/21/dojo-atividades-na-unicarioca-comemorando-dia-da-toalha/"/>
     <updated>2013-05-21T19:26:00-03:00</updated>
-    <id>http://toalhatech.com/blog/2013/05/21/dojo-atividades-na-unicarioca-comemorando-dia-da-toalha</id>
+    <id>http://toalhatech.github.io/toalhatech/blog/2013/05/21/dojo-atividades-na-unicarioca-comemorando-dia-da-toalha</id>
     <content type="html"><![CDATA[<p>A Unicarioca junto com a comunidade de alunos e ex alunos de Informática antecipou o Dia da Toalha, também conhecido por outros como o dia do Orgulho Nerd para o dia <strong>23/05/2013</strong>.<br/>
 O Evento conta com uma oficina de Xadrez e também uma Oficina de Dojo.
 Será um evento aberto para todos os nerds que queiram comemorar conosco ;)</p>

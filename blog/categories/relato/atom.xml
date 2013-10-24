@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Relato | ToalhaTech]]></title>
-  <link href="http://toalhatech.com/blog/categories/relato/atom.xml" rel="self"/>
-  <link href="http://toalhatech.com/"/>
-  <updated>2013-10-23T21:18:39-02:00</updated>
-  <id>http://toalhatech.com/</id>
+  <link href="http://toalhatech.github.io/toalhatech/blog/categories/relato/atom.xml" rel="self"/>
+  <link href="http://toalhatech.github.io/toalhatech/"/>
+  <updated>2013-10-23T22:25:52-02:00</updated>
+  <id>http://toalhatech.github.io/toalhatech/</id>
   <author>
     <name><![CDATA[Equipe ToalhaTech]]></name>
     <email><![CDATA[contato@toalhatech.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Encontro DNA Rio de Abril/2013]]></title>
-    <link href="http://toalhatech.com/blog/2013/05/12/encontro-dna-rio-abril-2013/"/>
+    <link href="http://toalhatech.github.io/toalhatech/blog/2013/05/12/encontro-dna-rio-abril-2013/"/>
     <updated>2013-05-12T09:01:00-03:00</updated>
-    <id>http://toalhatech.com/blog/2013/05/12/encontro-dna-rio-abril-2013</id>
+    <id>http://toalhatech.github.io/toalhatech/blog/2013/05/12/encontro-dna-rio-abril-2013</id>
     <content type="html"><![CDATA[<p>Olá pessoal. Tudo bem com vocês?</p>
 
 <p>A comunidade de .NET do Rio de Janeiro tem um encontro mensal, o DNA Rio &ndash; <a href="https://twitter.com/search?q=%23DNARio&amp;src=hash">#DNARio</a>. Neste encontro, sem formato definido além da rodada de apresentações entre os presentes, é falado sobre várias tecnologias, não se prendendo às da platafoma .NET. Isso faz com que o leque de temas seja bastante aberto e um encontro bastante legal para quem programa nas linguagens da Microsoft ou não.<!-- more --> Pelo tempo que frequento as reuniões do #DNARio, acredito que o principal objetivo do encontro seja possibilitar pessoas se encontrarem para falar sobre tecnologia &ndash; pessoas falarem é o mais importante.</p>
