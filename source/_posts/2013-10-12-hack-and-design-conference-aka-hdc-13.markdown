@@ -9,7 +9,7 @@ author: Samy Souza
 ---
 No dia 05 de outubro rolou o [HDC’13](http://hackdesignconf.com.br/), um evento que reuniu a comunidade de hacking e codificação com a de design. O resultado? Deu muito certo! Uma grande variedade de palestras e temas sobre essas duas áreas que se complementam. Foi um dia inteiro de aprendizado e descobertas.
 
-Infelizmente perdi as duas primeiras palestras. A primeira foi do Sylvestre Mergulhão e Rafael Lima dando dicas de como crescer e ganhar mais trabalhando com o que gosta. A segunda foi do Victor Montalvão convidando os designers e desenvolvedores a refletir se o que eles tem feito está realmente baseado nas vontades do usuário, afinal de contas, é ele quem manda. =)
+Infelizmente perdi as duas primeiras palestras. A primeira foi do Sylvestre Mergulhão e Rafael Lima dando dicas de<!-- more --> como crescer e ganhar mais trabalhando com o que gosta. A segunda foi do Victor Montalvão convidando os designers e desenvolvedores a refletir se o que eles tem feito está realmente baseado nas vontades do usuário, afinal de contas, é ele quem manda. =)
 
 O Emilio Cini Simoni apresentou uma palestra #hardcore falando do mundo dos bankers (segurança é uma área que tem me encantado muito ultimamente). Como são formadas as quadrilhas? Sistemas de fraude, mercado negro, como essa galera se comunica e como se proteger desses ataques. Foi uma ótima palestra!
 
