@@ -4,7 +4,7 @@
   <title><![CDATA[Category: processo de qualidade | ToalhaTech]]></title>
   <link href="http://toalhatech.github.io/toalhatech/blog/categories/processo-de-qualidade/atom.xml" rel="self"/>
   <link href="http://toalhatech.github.io/toalhatech/"/>
-  <updated>2013-11-20T23:48:11-02:00</updated>
+  <updated>2013-11-20T23:54:50-02:00</updated>
   <id>http://toalhatech.github.io/toalhatech/</id>
   <author>
     <name><![CDATA[Equipe ToalhaTech]]></name>
@@ -14,10 +14,10 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Como foi o BRATESTE 2013: Processo de Qualidade de Software]]></title>
-    <link href="http://toalhatech.github.io/toalhatech/blog/2013/11/20/como-foi-o-brateste-2013-processo-de-qualidade-de-software/"/>
+    <title type="html"><![CDATA[BRATESTE 2013: Processo de Qualidade de Software]]></title>
+    <link href="http://toalhatech.github.io/toalhatech/blog/2013/11/20/brateste-2013-processo-de-qualidade-de-software/"/>
     <updated>2013-11-20T23:41:00-02:00</updated>
-    <id>http://toalhatech.github.io/toalhatech/blog/2013/11/20/como-foi-o-brateste-2013-processo-de-qualidade-de-software</id>
+    <id>http://toalhatech.github.io/toalhatech/blog/2013/11/20/brateste-2013-processo-de-qualidade-de-software</id>
     <content type="html"><![CDATA[<p>No dia 25 de outubro tive a oportunidade de apresentar um Talk no <a href="http://www.brateste.com.br/2013/">Brateste 2013</a>, um dos maiores e mais importantes eventos sobre Teste de Software da América Latina, organizado pela ALATS &ndash; Associação Latino Americana de Teste de Software, uma entidade sem fins lucrativos &ndash;, desde sua primeira edição, em 2008 no Rio de<!-- more --> Janeiro-RJ, tem reunido empresas, especialistas e acadêmicos, para trocar experiências e disseminar boas práticas em teste de software.</p>
 
 <p>O título da minha palestra foi “Processo de Qualidade de Software: indo além dos testes funcionais”, onde contei um pouco das minhas experiências com teste de software utilizando metodologias ágeis e falar como é importante ter um processo definido, por mais simples que seja, para que a qualidade do produto final seja atingida.</p>
