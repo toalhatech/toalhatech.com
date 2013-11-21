@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: teste de software | ToalhaTech]]></title>
+  <link href="http://toalhatech.github.io/toalhatech/blog/categories/teste-de-software/atom.xml" rel="self"/>
+  <link href="http://toalhatech.github.io/toalhatech/"/>
+  <updated>2013-11-20T23:48:11-02:00</updated>
+  <id>http://toalhatech.github.io/toalhatech/</id>
+  <author>
+    <name><![CDATA[Equipe ToalhaTech]]></name>
+    <email><![CDATA[contato@toalhatech.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Como foi o BRATESTE 2013: Processo de Qualidade de Software]]></title>
+    <link href="http://toalhatech.github.io/toalhatech/blog/2013/11/20/como-foi-o-brateste-2013-processo-de-qualidade-de-software/"/>
+    <updated>2013-11-20T23:41:00-02:00</updated>
+    <id>http://toalhatech.github.io/toalhatech/blog/2013/11/20/como-foi-o-brateste-2013-processo-de-qualidade-de-software</id>
+    <content type="html"><![CDATA[<p>No dia 25 de outubro tive a oportunidade de apresentar um Talk no <a href="http://www.brateste.com.br/2013/">Brateste 2013</a>, um dos maiores e mais importantes eventos sobre Teste de Software da América Latina, organizado pela ALATS &ndash; Associação Latino Americana de Teste de Software, uma entidade sem fins lucrativos &ndash;, desde sua primeira edição, em 2008 no Rio de<!-- more --> Janeiro-RJ, tem reunido empresas, especialistas e acadêmicos, para trocar experiências e disseminar boas práticas em teste de software.</p>
+
+<p>O título da minha palestra foi “Processo de Qualidade de Software: indo além dos testes funcionais”, onde contei um pouco das minhas experiências com teste de software utilizando metodologias ágeis e falar como é importante ter um processo definido, por mais simples que seja, para que a qualidade do produto final seja atingida.</p>
+
+<p>Nosso objetivo enquanto profissionais de tecnologia que trabalham com sistemas é “produzir software de alta qualidade”, mas como atingir esse objetivo? Na verdade ainda existe outra questão que é como saber que esse objetivo foi atingido?</p>
+
+<p>Pra isso temos que saber o que é qualidade, um conceito que tem várias definições e é aplicado em todos os contextos onde existe um produto final. Mas basicamente, podemos dizer que qualidade é atender os requisitos dos clientes. O cliente faz um pedido e nós atendemos, esse é o “caminho feliz”. Só que nesse caminho existem muitas atividades que, se não forem bem executadas podem acarretar em defeitos e num cliente não satisfeito.</p>
+
+<p>Segundo Philip Crosby, quando o assunto é qualidade,  “todos se interessam&hellip; todos acham que entendem&hellip; todos acham que a execução é apenas uma questão de seguir as inclinações naturais&hellip; e, é claro, a maioria das pessoas acha que os problemas nessas áreas são causados por outras pessoas&hellip;”, e isso é exatamente o que vemos no meio coorporativo, todo mundo entende que qualidade é importante, acredita que naturalmente os softwares vão ter qualidade e que não é necessária nenhuma ação nesse quesito e quando ocorrem problemas a culpa sempre é de outra pessoa (o cliente não especificou direito, o desenvolvedor não prestou atenção, o testador não fez seu trabalho).</p>
+
+<p>Já que qualidade é tão importante então em que momento devemos começar a se preocupar  com ela?</p>
+
+<p>Acredito que todos conhecem essa frase de Peter Drucker: &ldquo;Não há nada mais inútil do que fazer com eficiência algo que não deveria ser feito&rdquo;. E essa é a resposta para pergunta anterior: qualidade começa nos requisitos! Se os requisitos não forem bem especificados (e aqui eu falo tanto em metodologias tradicionais quanto ágeis: bons requisitos != muitos requisitos), de nada adianta os melhores desenvolvedores e melhores testers, o software nunca atenderá a expectativa dos usuários.</p>
+
+<p>Por isso qualidade deve ser considerada uma atividade guarda-chuva que passa por todo o processo de desenvolvimento. Desde os requisitos até os testes funcionais e de aceite.</p>
+
+<p>Porém, falando de qualidade de software podemos ir muito além dos requisitos funcionais e levar em consideração segurança, performance, usabilidade e confiabilidade.</p>
+
+<p>Qualidade de Software abrange todo ciclo de desenvolvimento, mas como podemos controlar isso? Como garantir a qualidade de forma tão abrangente?</p>
+
+<p>Tendo um processo de qualidade definido com métodos, ferramentas, análise, projeto, codificação e teste.</p>
+
+<p>Como falei no início, minha experiência é com ágil e muitas pessoas podem achar estranho o fato de ter um processo usando metodologia ágil, mas uma coisa não anula a outra. A ideia é ter um processo simples de ser seguido e que traga benefícios. As ferramentas auxiliam muito nesse ponto (testes automatizados, integração contínua, etc), compartilhamento de conhecimento para que todos saibam como qualidade é importante e que é um trabalho de todos (analistas de negócios, desenvolvedores, testers), indicadores para tomar ações baseadas em valores objetivos e outras pequenas ações que contribuem para qualidade.</p>
+
+<p>Outra coisa que ajuda muito também é começar pensando em testes. Por isso os analistas de teste devem ser envolvidos desde o início na especificação dos requisitos, assim no momento dessa especificação eles já podem pensar nos possíveis casos de teste e extrair ao máximo do cliente o que ele precisa e evitar problemas futuros causados muitas vezes por requisitos “ruins”.</p>
+
+<p>Assim, quando o “pensamento de testes” está desde o início, o processo funciona melhor e os problemas são antecipados evitando que cheguem ao cliente.</p>
+
+<p>Existe um processo padrão? Acredito que não! Cada empresa tem que observar seus gaps e trabalhar para melhorá-los, é bom observar o que há no mercado e adaptar a sua realidade. E para identificar esses gaps é bom utilizar indicadores que te ajudem a tomar decisões, um exemplo é monitorar quantos defeitos estão sendo encontrados em produção, esse é um dos números que vai te dizer se o seu processo está funcionando ou não. Quanto a performance, será que o seu site está melhor ou pior em relação aos concorrentes? Isso vai te ajudar a priorizar as ações necessárias para melhorar esse quadro. O mesmo se aplica a segurança, não adianta seu software atender aos requisitos se ele apresenta falhas de segurança, a funcionalidade está ok do ponto de vista do usuário bem intencionado mas um hacker consegue invadir a sua base de dados e roubar as informações dos seus cliente. É importante estar atento a todos esses pontos e definir dentro do seu processo atividades que verifiquem isso.</p>
+
+<p>E se não der certo?</p>
+
+<p>PDCA! Tente novamente, melhore, execute e verifique. Construa seu processo em conjunto com o time e esteja sempre evoluindo.</p>
+
+<p>Saiba que qualidade é de graça, e os benefícios são enormes quando o produto recebe uma “review” positiva do usuário.</p>
+
+<p>=)</p>
+
+<p>Esse foi apenas um resumo da apresentação. Segue o <a href="http://www.slideshare.net/samantacicilia/processo-de-qualidade-indo-alm-dos-testes-funcionais-28450786">link para os slides</a> e se alguém quiser conversar mais sobre o assunto é só entrar em contato.</p>
+
+<p>Emails: samycici@gmail.com/samanta.souza@infoglobo.com.br<br/>
+Twitter: <a href="https://twitter.com/samantacicilia">@samantacicilia</a></p>
+]]></content>
+  </entry>
+  
+</feed>
